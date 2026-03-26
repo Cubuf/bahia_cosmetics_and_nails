@@ -21,10 +21,9 @@ body {
 }
 #Encabezado {
     border-style: solid;
-    border-radius: 5px;
-    margin-left: 40%;
-    margin-right: 40%;
-    
+    border-radius: 10px;
+    margin-left: 20%;
+    margin-right: 20%;
 }
 #inc {
     padding: 30px;
