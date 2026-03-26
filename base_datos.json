@@ -5,7 +5,7 @@
         "disponible": "No disponible",
         "precio": 120,
         "categoria": "1",
-        "imagen": ""
+        "imagen": "img/mh.webp"
     },
     {
         "id": 2,
@@ -13,7 +13,7 @@
         "disponible": "Disponible",
         "precio": 50,
         "categoria": "1",
-        "imagen": ""
+        "imagen": "img/mh.webp"
     },
     {
         "id": 3,
