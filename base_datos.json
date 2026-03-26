@@ -1,0 +1,42 @@
+[
+    {
+        "id": 1,
+        "nombre": "Name_1",
+        "disponible": "No disponible",
+        "precio": 120,
+        "categoria": "1",
+        "imagen": ""
+    },
+    {
+        "id": 2,
+        "nombre": "Name_2",
+        "disponible": "Disponible",
+        "precio": 50,
+        "categoria": "1",
+        "imagen": ""
+    },
+    {
+        "id": 3,
+        "nombre": "Name_3",
+        "disponible": "No disponible",
+        "precio": 250,
+        "categoria": "1",
+        "imagen": ""
+    },
+    {
+        "id": 4,
+        "nombre": "Name_4",
+        "disponible": "Disponible",
+        "precio": 30,
+        "categoria": "1",
+        "imagen": ""
+    },
+    {
+        "id": 5,
+        "nombre": "Name_5",
+        "disponible": "Disponible",
+        "precio": 430,
+        "categoria": "1",
+        "imagen": ""
+    }
+]
