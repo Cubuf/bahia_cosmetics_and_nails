@@ -6,7 +6,7 @@
     margin: 2px;
     font-family: sans-serif;
     width: 45%;
-    height: auto;
+    height: 10cm;
     display: inline-block;
     vertical-align: top;
 }
@@ -28,4 +28,27 @@ body {
 #inc {
     padding: 30px;
     background-color: #ccc;
+}
+.buton {
+    background-color: #007bff;
+    color: white;
+    padding: 10px 20px;
+    border-radius: 5px;
+    text-decoration: none;
+    display: inline-block;
+    margin-top: 5px;
+}
+
+.btn-flotante {
+  position: fixed;     /* Mantiene el elemento fijo en la pantalla */
+  bottom: 20px;        /* Distancia desde la parte inferior */
+  right: 20px;         /* Distancia desde la parte derecha */
+  z-index: 9999;       /* Asegura que esté por encima de otros elementos */
+  background-color: #007BFF; /* Color de fondo */
+  color: white;        /* Color del texto */
+  padding: 10px 15px;  /* Espaciado interno */
+  border-radius: 5px;  /* Bordes redondeados */
+  text-decoration: none; /* Quita el subrayado si es un enlace */
+  font-weight: bold;
+  box-shadow: 0 4px 6px rgba(0,0,0,0.2); /* Sombra para destacar */
 }
