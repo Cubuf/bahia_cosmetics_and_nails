@@ -5,7 +5,7 @@
         "disponible": "Disponible",
         "precio": 300,
         "categoria": "1",
-        "imagen": "img/mh.webp",
+        "imagen": "img/cosmeticos/plumon de labios.webp",
         "descripcion": ""
     },
     {
@@ -14,7 +14,7 @@
         "disponible": "Disponible",
         "precio": 350,
         "categoria": "1",
-        "imagen": "img/mh.webp",
+        "imagen": "img/cosmeticos/base en barra.webp",
         "descripcion": ""
     },
     {
@@ -23,7 +23,7 @@
         "disponible": "Disponible",
         "precio": 300,
         "categoria": "1",
-        "imagen": "img/mh.webp",
+        "imagen": "img/cosmeticos/labiales de osos.webp",
         "descripcion": ""
     },
     {
@@ -32,7 +32,7 @@
         "disponible": "Disponible",
         "precio": 300,
         "categoria": "1",
-        "imagen": "img/mh.webp",
+        "imagen": "img/cosmeticos/delineadores de osos.webp",
         "descripcion": ""
     },
     {
@@ -41,7 +41,7 @@
         "disponible": "Disponible",
         "precio": 400,
         "categoria": "1",
-        "imagen": "img/mh.webp",
+        "imagen": "img/cosmeticos/brillo transparente de labios.webp",
         "descripcion": ""
     },
     {
@@ -50,7 +50,7 @@
         "disponible": "Disponible",
         "precio": 400,
         "categoria": "1",
-        "imagen": "img/mh.webp",
+        "imagen": "img/cosmeticos/crellones mate.webp",
         "descripcion": ""
     },
     {
@@ -59,7 +59,7 @@
         "disponible": "Disponible",
         "precio": 300,
         "categoria": "1",
-        "imagen": "img/mh.webp",
+        "imagen": "img/cosmeticos/lapiz de ceja con sepillo.webp",
         "descripcion": ""
     },
     {
@@ -68,7 +68,7 @@
         "disponible": "Disponible",
         "precio": 400,
         "categoria": "1",
-        "imagen": "img/mh.webp",
+        "imagen": "img/cosmeticos/malbellin.webp",
         "descripcion": ""
     },
     {
@@ -77,7 +77,7 @@
         "disponible": "Disponible",
         "precio": 400,
         "categoria": "1",
-        "imagen": "img/mh.webp",
+        "imagen": "img/cosmeticos/crellones hada.webp",
         "descripcion": ""
     },
     {
@@ -86,7 +86,7 @@
         "disponible": "Disponible",
         "precio": 600,
         "categoria": "1",
-        "imagen": "img/mh.webp",
+        "imagen": "img/cosmeticos/iluminadores con brocha.webp",
         "descripcion": ""
     },
     {
@@ -95,7 +95,7 @@
         "disponible": "Disponible",
         "precio": 750,
         "categoria": "1",
-        "imagen": "img/mh.webp",
+        "imagen": "img/cosmeticos/pestanas.webp",
         "descripcion": ""
     },
     {
@@ -104,7 +104,7 @@
         "disponible": "Disponible",
         "precio": 900,
         "categoria": "1",
-        "imagen": "img/mh.webp",
+        "imagen": "img/cosmeticos/perfume.webp",
         "descripcion": ""
     },
     {
@@ -113,7 +113,7 @@
         "disponible": "Disponible",
         "precio": 400,
         "categoria": "1",
-        "imagen": "img/mh.webp",
+        "imagen": "img/cosmeticos/labiales mate.webp",
         "descripcion": ""
     },
     {
@@ -122,7 +122,7 @@
         "disponible": "Disponible",
         "precio": 400,
         "categoria": "1",
-        "imagen": "img/mh.webp",
+        "imagen": "img/cosmeticos/enchinador de pestanas.webp",
         "descripcion": ""
     },
     {
@@ -131,7 +131,7 @@
         "disponible": "Disponible",
         "precio": 300,
         "categoria": "1",
-        "imagen": "img/mh.webp",
+        "imagen": "img/cosmeticos/mascarilla facial.webp",
         "descripcion": ""
     },
     {
@@ -140,7 +140,7 @@
         "disponible": "Disponible",
         "precio": 250,
         "categoria": "1",
-        "imagen": "img/mh.webp",
+        "imagen": "img/cosmeticos/balsamo labial transparente.webp",
         "descripcion": ""
     },
     {
@@ -149,7 +149,7 @@
         "disponible": "Disponible",
         "precio": 400,
         "categoria": "1",
-        "imagen": "img/mh.webp",
+        "imagen": "img/cosmeticos/balsamo labial magico sabor fresa.webp",
         "descripcion": ""
     },
     {
@@ -158,7 +158,7 @@
         "disponible": "Disponible",
         "precio": 300,
         "categoria": "1",
-        "imagen": "img/mh.webp",
+        "imagen": "img/cosmeticos/esponjas difuminadoras.webp",
         "descripcion": ""
     },
     {
@@ -167,7 +167,7 @@
         "disponible": "Disponible",
         "precio": 450,
         "categoria": "1",
-        "imagen": "img/mh.webp",
+        "imagen": "img/cosmeticos/brillo transparente de miel.webp",
         "descripcion": ""
     },
     {
@@ -176,7 +176,7 @@
         "disponible": "Disponible",
         "precio": 550,
         "categoria": "1",
-        "imagen": "img/mh.webp",
+        "imagen": "img/cosmeticos/base con protector solar.webp",
         "descripcion": ""
     },
     {
@@ -185,7 +185,7 @@
         "disponible": "Disponible",
         "precio": 950,
         "categoria": "1",
-        "imagen": "img/mh.webp",
+        "imagen": "img/cosmeticos/goma de pestanas.webp",
         "descripcion": ""
     }
 ]
