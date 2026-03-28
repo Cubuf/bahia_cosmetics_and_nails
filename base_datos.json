@@ -187,5 +187,68 @@
         "categoria": "1",
         "imagen": "img/cosmeticos/goma de pestanas.webp",
         "descripcion": ""
+    },
+    {
+        "id": 22,
+        "nombre": "Pinceles acrílicos #8",
+        "disponible": "Disponible",
+        "precio": 450,
+        "categoria": "4",
+        "imagen": "img/pinceles/8.webp",
+        "descripcion": ""
+    },
+    {
+        "id": 23,
+        "nombre": "Pincel liner cola de sirena(estuche)",
+        "disponible": "No Disponible",
+        "precio": 600,
+        "categoria": "4",
+        "imagen": "img/pinceles/pincel liner cola de sirena.webp",
+        "descripcion": ""
+    },
+    {
+        "id": 24,
+        "nombre": "Pincel liner cola de sirena(individual)",
+        "disponible": "Disponible",
+        "precio": 200,
+        "categoria": "4",
+        "imagen": "img/pinceles/pincel liner cola de sirena.webp",
+        "descripcion": ""
+    },
+    {
+        "id": 25,
+        "nombre": "Pincel Miss Cherry #12",
+        "disponible": "Disponible",
+        "precio": 550,
+        "categoria": "4",
+        "imagen": "img/pinceles/12.webp",
+        "descripcion": ""
+    },
+    {
+        "id": 26,
+        "nombre": "Juego de 5 pinceles liner",
+        "disponible": "Disponible",
+        "precio": 1300,
+        "categoria": "4",
+        "imagen": "img/pinceles/juegos de pinceles liner.webp",
+        "descripcion": ""
+    },
+    {
+        "id": 27,
+        "nombre": "Juego de 15 pinceles de dibujo",
+        "disponible": "Disponible",
+        "precio": 850,
+        "categoria": "4",
+        "imagen": "img/pinceles/juego de 15 pinceles.webp",
+        "descripcion": ""
+    },
+    {
+        "id": 28,
+        "nombre": "Pincel de poligel",
+        "disponible": "Disponible",
+        "precio": 600,
+        "categoria": "4",
+        "imagen": "img/pinceles/pincel de poligel.webp",
+        "descripcion": ""
     }
 ]
