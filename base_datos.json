@@ -1,6 +1,5 @@
 [
     {
-        "id": 1,
         "nombre": "Plumón delineador de labios",
         "disponible": "Disponible",
         "precio": 300,
@@ -9,7 +8,6 @@
         "descripcion": ""
     },
     {
-        "id": 2,
         "nombre": "Base en barra",
         "disponible": "Disponible",
         "precio": 350,
@@ -18,7 +16,6 @@
         "descripcion": ""
     },
     {
-        "id": 3,
         "nombre": "Labial de oso",
         "disponible": "Disponible",
         "precio": 300,
@@ -27,7 +24,6 @@
         "descripcion": ""
     },
     {
-        "id": 4,
         "nombre": "Delineador de oso blanco y carmelita",
         "disponible": "Disponible",
         "precio": 300,
@@ -36,7 +32,6 @@
         "descripcion": ""
     },
     {
-        "id": 5,
         "nombre": "Brillo labial liso sabor a frutas",
         "disponible": "Disponible",
         "precio": 400,
@@ -45,7 +40,6 @@
         "descripcion": ""
     },
     {
-        "id": 6,
         "nombre": "Creyones mate",
         "disponible": "Disponible",
         "precio": 400,
@@ -54,7 +48,6 @@
         "descripcion": ""
     },
     {
-        "id": 7,
         "nombre": "Lápiz con cepillo de cejas carmelita",
         "disponible": "Disponible",
         "precio": 300,
@@ -63,7 +56,6 @@
         "descripcion": ""
     },
     {
-        "id": 8,
         "nombre": "Marbellin(no plástico)",
         "disponible": "Disponible",
         "precio": 400,
@@ -81,7 +73,6 @@
         "descripcion": ""
     },
     {
-        "id": 10,
         "nombre": "Iluminador con brocha",
         "disponible": "Disponible",
         "precio": 600,
@@ -90,7 +81,6 @@
         "descripcion": ""
     },
     {
-        "id": 11,
         "nombre": "Pestañas Mac #10 y 14",
         "disponible": "Disponible",
         "precio": 750,
@@ -99,7 +89,6 @@
         "descripcion": ""
     },
     {
-        "id": 12,
         "nombre": "Perfumes",
         "disponible": "Disponible",
         "precio": 900,
@@ -108,7 +97,6 @@
         "descripcion": ""
     },
     {
-        "id": 13,
         "nombre": "Labiales",
         "disponible": "Disponible",
         "precio": 400,
@@ -117,7 +105,6 @@
         "descripcion": ""
     },
     {
-        "id": 14,
         "nombre": "Enchinadores",
         "disponible": "Disponible",
         "precio": 400,
@@ -126,7 +113,6 @@
         "descripcion": ""
     },
     {
-        "id": 15,
         "nombre": "Mascarilla facial negra",
         "disponible": "Disponible",
         "precio": 300,
@@ -135,7 +121,6 @@
         "descripcion": ""
     },
     {
-        "id": 16,
         "nombre": "Bálsamo labial trasnparente",
         "disponible": "Disponible",
         "precio": 250,
@@ -144,7 +129,6 @@
         "descripcion": ""
     },
     {
-        "id": 17,
         "nombre": "Bálsamo labial de fresa, tono rosado",
         "disponible": "Disponible",
         "precio": 400,
@@ -153,7 +137,6 @@
         "descripcion": ""
     },
     {
-        "id": 18,
         "nombre": "Esponjas difuminadoras",
         "disponible": "Disponible",
         "precio": 300,
@@ -162,7 +145,6 @@
         "descripcion": ""
     },
     {
-        "id": 19,
         "nombre": "Brillo grueso de labio sabor miel",
         "disponible": "Disponible",
         "precio": 450,
@@ -171,7 +153,6 @@
         "descripcion": ""
     },
     {
-        "id": 20,
         "nombre": "Bases con protector solar",
         "disponible": "Disponible",
         "precio": 550,
@@ -180,7 +161,6 @@
         "descripcion": ""
     },
     {
-        "id": 21,
         "nombre": "Goma de pestañas pro 30ml",
         "disponible": "Disponible",
         "precio": 950,
@@ -188,8 +168,231 @@
         "imagen": "img/cosmeticos/goma de pestanas.webp",
         "descripcion": ""
     },
+
+
+
+
     {
-        "id": 22,
+        "nombre": "Top coat 10 ml hiaxiaoxiao",
+        "disponible": "Disponible",
+        "precio": 540,
+        "categoria": "2",
+        "imagen": "img/mh.webp",
+        "descripcion": ""
+    },
+    {
+        "nombre": "Top coat 10 ml yuan quan",
+        "disponible": "Disponible",
+        "precio": 540,
+        "categoria": "2",
+        "imagen": "img/mh.webp",
+        "descripcion": ""
+    },
+    {
+        "nombre": "Base Ruber cristal Miss Cherry 15ml",
+        "disponible": "Disponible",
+        "precio": 1150,
+        "categoria": "2",
+        "imagen": "img/mh.webp",
+        "descripcion": ""
+    },
+    {
+        "nombre": "Base Coat nena's 10ml(traer envase)",
+        "disponible": "Disponible",
+        "precio": 400,
+        "categoria": "2",
+        "imagen": "img/mh.webp",
+        "descripcion": ""
+    },
+    {
+        "nombre": "Base Ruber builder gel JR 15ml",
+        "disponible": "Disponible",
+        "precio": 850,
+        "categoria": "2",
+        "imagen": "img/mh.webp",
+        "descripcion": ""
+    },
+    {
+        "nombre": "Base Ruber color JR",
+        "disponible": "Disponible",
+        "precio": 700,
+        "categoria": "2",
+        "imagen": "img/mh.webp",
+        "descripcion": ""
+    },
+    {
+        "nombre": "Base Coat Mana Beauty 10ml",
+        "disponible": "Disponible",
+        "precio": 500,
+        "categoria": "2",
+        "imagen": "img/mh.webp",
+        "descripcion": ""
+    },
+    {
+        "nombre": "Primer nena's",
+        "disponible": "Disponible",
+        "precio": 1650,
+        "categoria": "2",
+        "imagen": "img/mh.webp",
+        "descripcion": ""
+    },
+    {
+        "nombre": "Primer mili's 15ml",
+        "disponible": "Disponible",
+        "precio": 800,
+        "categoria": "2",
+        "imagen": "img/mh.webp",
+        "descripcion": ""
+    },
+    {
+        "nombre": "Pintura de gel Yuan Quan 15ml",
+        "disponible": "Disponible",
+        "precio": 600,
+        "categoria": "2",
+        "imagen": "img/mh.webp",
+        "descripcion": ""
+    },
+    {
+        "nombre": "Pintura de gel WBS 10ml",
+        "disponible": "Disponible",
+        "precio": 480,
+        "categoria": "2",
+        "imagen": "img/mh.webp",
+        "descripcion": ""
+    },
+    {
+        "nombre": "Pintura de gel mana Beauty",
+        "disponible": "Disponible",
+        "precio": 480,
+        "categoria": "2",
+        "imagen": "img/mh.webp",
+        "descripcion": ""
+    },
+    {
+        "nombre": "Pintura de gel 10ml JR",
+        "disponible": "Disponible",
+        "precio": 500,
+        "categoria": "2",
+        "imagen": "img/mh.webp",
+        "descripcion": ""
+    },
+    {
+        "nombre": "Pintura de gel JR 12ml",
+        "disponible": "Disponible",
+        "precio": 650,
+        "categoria": "2",
+        "imagen": "img/mh.webp",
+        "descripcion": ""
+    },
+    {
+        "nombre": "Pintura blanca yuan quan",
+        "disponible": "Disponible",
+        "precio": 540,
+        "categoria": "2",
+        "imagen": "img/mh.webp",
+        "descripcion": ""
+    },
+    {
+        "nombre": "Pintura negra JR",
+        "disponible": "Disponible",
+        "precio": 500,
+        "categoria": "2",
+        "imagen": "img/mh.webp",
+        "descripcion": ""
+    },
+    {
+        "nombre": "Pintura roja yuan quan",
+        "disponible": "Disponible",
+        "precio": 540,
+        "categoria": "2",
+        "imagen": "img/mh.webp",
+        "descripcion": ""
+    },
+    {
+        "nombre": "Ojo de gato 15ml",
+        "disponible": "Disponible",
+        "precio": 870,
+        "categoria": "2",
+        "imagen": "img/mh.webp",
+        "descripcion": ""
+    },
+    {
+        "nombre": "Pintura natural Chely 15ml(traer envase)",
+        "disponible": "Disponible",
+        "precio": 350,
+        "categoria": "2",
+        "imagen": "img/mh.webp",
+        "descripcion": ""
+    },
+    {
+        "nombre": "Poligel yuan quan 15ml",
+        "disponible": "Disponible",
+        "precio": 550,
+        "categoria": "2",
+        "imagen": "img/mh.webp",
+        "descripcion": ""
+    },
+    {
+        "nombre": "Poligel hiaxiaoxiao 30ml tonos nude",
+        "disponible": "Disponible",
+        "precio": 1200,
+        "categoria": "2",
+        "imagen": "img/mh.webp",
+        "descripcion": ""
+    },
+    {
+        "nombre": "Polvo white(onza)|(traer envase)",
+        "disponible": "Disponible",
+        "precio": 400,
+        "categoria": "2",
+        "imagen": "img/mh.webp",
+        "descripcion": ""
+    },
+    {
+        "nombre": "Líquido Desi secado medio(onza)|(traer envase)",
+        "disponible": "Disponible",
+        "precio": 380,
+        "categoria": "2",
+        "imagen": "img/mh.webp",
+        "descripcion": ""
+    },
+    {
+        "nombre": "Acetona 120ml(traer envase)",
+        "disponible": "Disponible",
+        "precio": 350,
+        "categoria": "2",
+        "imagen": "img/mh.webp",
+        "descripcion": ""
+    },
+    {
+        "nombre": "Polvo clear(traer envase)",
+        "disponible": "Disponible",
+        "precio": 400,
+        "categoria": "2",
+        "imagen": "img/mh.webp",
+        "descripcion": ""
+    },
+    {
+        "nombre": "Cover nude (onza)|(traer envase)",
+        "disponible": "Disponible",
+        "precio": 490,
+        "categoria": "2",
+        "imagen": "img/mh.webp",
+        "descripcion": ""
+    },
+    {
+        "nombre": "Polvo medium pink(onza)|(traer envase)",
+        "disponible": "Disponible",
+        "precio": 400,
+        "categoria": "2",
+        "imagen": "img/mh.webp",
+        "descripcion": ""
+    },
+
+
+
+
+    {
         "nombre": "Pinceles acrílicos #8",
         "disponible": "Disponible",
         "precio": 450,
@@ -198,7 +401,6 @@
         "descripcion": ""
     },
     {
-        "id": 23,
         "nombre": "Pincel liner cola de sirena(estuche)",
         "disponible": "No Disponible",
         "precio": 600,
@@ -207,7 +409,6 @@
         "descripcion": ""
     },
     {
-        "id": 24,
         "nombre": "Pincel liner cola de sirena(individual)",
         "disponible": "Disponible",
         "precio": 200,
@@ -216,7 +417,6 @@
         "descripcion": ""
     },
     {
-        "id": 25,
         "nombre": "Pincel Miss Cherry #12",
         "disponible": "Disponible",
         "precio": 550,
@@ -225,7 +425,6 @@
         "descripcion": ""
     },
     {
-        "id": 26,
         "nombre": "Juego de 5 pinceles liner",
         "disponible": "Disponible",
         "precio": 1300,
@@ -234,7 +433,6 @@
         "descripcion": ""
     },
     {
-        "id": 27,
         "nombre": "Juego de 15 pinceles de dibujo",
         "disponible": "Disponible",
         "precio": 850,
@@ -243,7 +441,6 @@
         "descripcion": ""
     },
     {
-        "id": 28,
         "nombre": "Pincel de poligel",
         "disponible": "Disponible",
         "precio": 600,
