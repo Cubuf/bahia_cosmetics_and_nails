@@ -17,7 +17,7 @@ function mostrar(lista) {
     lista.forEach(producto => {
         //diseno de cada tarjeta
         console.log(producto.categoria)
-        if (producto.categoria == 2){
+        if (producto.categoria == 5){
         const card = document.createElement('div')
         cargar.className = 'producto-card'
         card.classList.add("producto-card")
