@@ -21,7 +21,7 @@ function mostrar(lista) {
         const card = document.createElement('div')
         cargar.className = 'producto-card'
         card.classList.add("producto-card")
-        card.innerHTML = `<img src="${producto.imagen}" alt="${producto.nombre}" style="width: 100%; height: auto;"> <h4>${producto.nombre}</h4> <p style="font-size:70%;">Precio: $${producto.precio}</p>`
+        card.innerHTML = `<img src="${producto.imagen}" alt="${"Error"}" style="width: 100%; height: auto;"> <h4>${producto.nombre}</h4> <p style="font-size:70%;">Precio: $${producto.precio}</p>`
     contenedor.appendChild(card) }
     })
 }

@@ -349,273 +349,245 @@
         "nombre": "Coffin 500 tips",
         "precio": 1900,
         "categoria": "3",
-        "imagen": "img/mh.webp",
+        "imagen": "img/herramientas/500 tips coffin.webp",
         "descripcion": ""
     },
     {
         "nombre": "Coffin 100 tips",
         "precio": 750,
         "categoria": "3",
-        "imagen": "img/mh.webp",
+        "imagen": "img/herramientas/tips de coffin.webp",
         "descripcion": ""
     },
     {
         "nombre": "Soft gel 100 tips",
         "precio": 750,
         "categoria": "3",
-        "imagen": "img/mh.webp",
+        "imagen": "img/herramientas/tips de sof gel almendrado.webp",
         "descripcion": ""
     },
     {
         "nombre": "Coffin extralargas 120 tips",
         "precio": 750,
         "categoria": "3",
-        "imagen": "img/mh.webp",
+        "imagen": "img/herramientas/tips coffin extralargas.webp",
         "descripcion": ""
     },
     {
         "nombre": "Soft gel 500 tips",
         "precio": 1900,
         "categoria": "3",
-        "imagen": "img/mh.webp",
+        "imagen": "img/herramientas/tips coffin extralargas.webp",
         "descripcion": ""
     },
     {
-        "nombre": "Moldes de papel",
+        "nombre": "Moldes de papel(100)",
         "precio": 10,
         "categoria": "3",
-        "imagen": "img/mh.webp",
+        "imagen": "img/herramientas/molde escultural.webp",
         "descripcion": ""
     },
     {
         "nombre": "Separadores de pie",
         "precio": 150,
         "categoria": "3",
-        "imagen": "img/mh.webp",
+        "imagen": "img/herramientas/separadores.webp",
         "descripcion": ""
     },
     {
         "nombre": "Empujador de cutícula",
         "precio": 350,
         "categoria": "3",
-        "imagen": "img/mh.webp",
+        "imagen": "img/herramientas/empujador de cuticulas.webp",
         "descripcion": ""
     },
     {
         "nombre": "Punteros",
         "precio": 150,
         "categoria": "3",
-        "imagen": "img/mh.webp",
+        "imagen": "img/herramientas/punteros.webp",
         "descripcion": ""
     },
     {
         "nombre": "Godette",
         "precio": 300,
         "categoria": "3",
-        "imagen": "img/mh.webp",
-        "descripcion": ""
-    },
-    {
-        "nombre": "Dedo de práctica",
-        "precio": 120,
-        "categoria": "3",
-        "imagen": "img/mh.webp",
+        "imagen": "img/herramientas/godette.webp",
         "descripcion": ""
     },
     {
         "nombre": "Cortasonrisa",
         "precio": 450,
         "categoria": "3",
-        "imagen": "img/mh.webp",
-        "descripcion": ""
-    },
-    {
-        "nombre": "Lijas de máquina",
-        "precio": 25,
-        "categoria": "3",
-        "imagen": "img/mh.webp",
+        "imagen": "img/herramientas/cortasonrizas.webp",
         "descripcion": ""
     },
     {
         "nombre": "Pegamento de tubo blanco",
         "precio": 110,
         "categoria": "3",
-        "imagen": "img/mh.webp",
+        "imagen": "img/herramientas/goma.webp",
         "descripcion": ""
     },
     {
         "nombre": "Anillos de decoración",
         "precio": 200,
         "categoria": "3",
-        "imagen": "img/mh.webp",
+        "imagen": "img/herramientas/anillos.webp",
         "descripcion": ""
     },
     {
         "nombre": "Presillas de Poligel",
         "precio": 80,
         "categoria": "3",
-        "imagen": "img/mh.webp",
+        "imagen": "img/herramientas/pinzas.webp",
         "descripcion": ""
     },
     {
         "nombre": "Placa para cuño metálica",
         "precio": 800,
         "categoria": "3",
-        "imagen": "img/mh.webp",
+        "imagen": "img/herramientas/placa para cuno metalica.webp",
         "descripcion": ""
     },
     {
         "nombre": "Limas",
         "precio": 200,
         "categoria": "3",
-        "imagen": "img/mh.webp",
+        "imagen": "img/herramientas/limas.webp",
+        "descripcion": ""
+    },
+    {
+        "nombre": "Limas-2",
+        "precio": 200,
+        "categoria": "3",
+        "imagen": "img/herramientas/lima01.webp",
         "descripcion": ""
     },
     {
         "nombre": "Muestrarios",
         "precio": 800,
         "categoria": "3",
-        "imagen": "img/mh.webp",
+        "imagen": "img/herramientas/muestrarios.webp",
         "descripcion": ""
     },
     {
         "nombre": "Protector de alicate",
         "precio": 350,
         "categoria": "3",
-        "imagen": "img/mh.webp",
+        "imagen": "img/herramientas/protector de alicates.webp",
         "descripcion": ""
     },
     {
         "nombre": "Bledos",
         "precio": 650,
         "categoria": "3",
-        "imagen": "img/mh.webp",
+        "imagen": "img/herramientas/bledos.webp",
         "descripcion": ""
     },
     {
         "nombre": "Manteles de papel",
         "precio": 100,
         "categoria": "3",
-        "imagen": "img/mh.webp",
+        "imagen": "img/herramientas/manteles.webp",
         "descripcion": ""
     },
     {
         "nombre": "Cepillos",
         "precio": 300,
         "categoria": "3",
-        "imagen": "img/mh.webp",
+        "imagen": "img/herramientas/sepillo.webp",
         "descripcion": ""
     },
     {
         "nombre": "Guantes 1 par",
         "precio": 100,
         "categoria": "3",
-        "imagen": "img/mh.webp",
+        "imagen": "img/herramientas/guantes.webp",
         "descripcion": ""
     },
     {
         "nombre": "Fresas de cerámica",
         "precio": 550,
         "categoria": "3",
-        "imagen": "img/mh.webp",
+        "imagen": "img/herramientas/fresa de seramica.webp",
         "descripcion": ""
     },
     {
         "nombre": "Alicates Solingen",
         "precio": 900,
         "categoria": "3",
-        "imagen": "img/mh.webp",
+        "imagen": "img/herramientas/alicates.webp",
         "descripcion": ""
     },
     {
         "nombre": "Cuños con una placa",
         "precio": 450,
         "categoria": "3",
-        "imagen": "img/mh.webp",
-        "descripcion": ""
-    },
-    {
-        "nombre": "Dispensadores de acetona",
-        "precio": 550,
-        "categoria": "3",
-        "imagen": "img/mh.webp",
-        "descripcion": ""
-    },
-    {
-        "nombre": "Máquina estudiantil",
-        "precio": 4000,
-        "categoria": "3",
-        "imagen": "img/mh.webp",
-        "descripcion": ""
-    },
-    {
-        "nombre": "Imán redondo",
-        "precio": 450,
-        "categoria": "3",
-        "imagen": "img/mh.webp",
+        "imagen": "img/herramientas/cunos con una placa.webp",
         "descripcion": ""
     },
     {
         "nombre": "Imán cuadrado",
         "precio": 480,
         "categoria": "3",
-        "imagen": "img/mh.webp",
+        "imagen": "img/herramientas/iman.webp",
         "descripcion": ""
     },
     {
         "nombre": "Toallas antipelusas",
         "precio": 1200,
         "categoria": "3",
-        "imagen": "img/mh.webp",
+        "imagen": "img/herramientas/toallas anti peluzas.webp",
         "descripcion": ""
     },
     {
         "nombre": "Bloque de toallas antipelusas",
         "precio": 140,
         "categoria": "3",
-        "imagen": "img/mh.webp",
+        "imagen": "img/herramientas/toallas anti peluzas.webp",
         "descripcion": ""
     },
     {
         "nombre": "Keeper (pinzas reutilizables para retirar producto)",
         "precio": 850,
         "categoria": "3",
-        "imagen": "img/mh.webp",
+        "imagen": "img/herramientas/pinzas de retiro.webp",
         "descripcion": ""
     },
     {
         "nombre": "Pozuelo de mano",
         "precio": 700,
         "categoria": "3",
-        "imagen": "img/mh.webp",
+        "imagen": "img/herramientas/pozuelo de mano.webp",
         "descripcion": ""
     },
     {
         "nombre": "Moldes dual caja",
         "precio": 1600,
         "categoria": "3",
-        "imagen": "img/mh.webp",
+        "imagen": "img/herramientas/moldes dual.webp",
         "descripcion": ""
     },
     {
         "nombre": "Moldes dual juego de 12",
         "precio": 200,
         "categoria": "3",
-        "imagen": "img/mh.webp",
+        "imagen": "img/herramientas/moldes dual.webp",
         "descripcion": ""
     },
     {
         "nombre": "Esponjas difuminadoras",
         "precio": 1700,
         "categoria": "3",
-        "imagen": "img/mh.webp",
+        "imagen": "img/herramientas/esponjas difuminadoras.webp",
         "descripcion": ""
     },
     {
         "nombre": "Guillotinas",
         "precio": 850,
         "categoria": "3",
-        "imagen": "img/mh.webp",
+        "imagen": "img/herramientas/guillotina.webp",
         "descripcion": ""
     },
 
@@ -678,231 +650,238 @@
         "nombre": "Cover de colores varios",
         "precio": 300,
         "categoria": "5",
-        "imagen": "img/mh.webp",
+        "imagen": "img/efectos/cover.webp",
+        "descripcion": ""
+    },
+    {
+        "nombre": "Cover de colores varios",
+        "precio": 300,
+        "categoria": "5",
+        "imagen": "img/efectos/cover1.webp",
         "descripcion": ""
     },
     {
         "nombre": "Cover Pinky IVA 1 onza",
         "precio": 450,
         "categoria": "5",
-        "imagen": "img/mh.webp",
+        "imagen": "img/efectos/cover pinky.webp",
         "descripcion": ""
     },
     {
         "nombre": "Piedras encapsulado",
         "precio": 100,
         "categoria": "5",
-        "imagen": "img/mh.webp",
+        "imagen": "img/efectos/piedras de encapsular.webp",
         "descripcion": ""
     },
     {
         "nombre": "Pomos mini",
         "precio": 100,
         "categoria": "5",
-        "imagen": "img/mh.webp",
+        "imagen": "img/efectos/pomos mini.webp",
         "descripcion": ""
     },
     {
-        "nombre": "Cinta dorada",
+        "nombre": "Cinta dorada y plateada",
         "precio": 20,
         "categoria": "5",
-        "imagen": "img/mh.webp",
-        "descripcion": ""
-    },
-    {
-        "nombre": "Cinta plateada",
-        "precio": 20,
-        "categoria": "5",
-        "imagen": "img/mh.webp",
+        "imagen": "img/efectos/cinta.webp",
         "descripcion": ""
     },
     {
         "nombre": "Lazos",
         "precio": 300,
         "categoria": "5",
-        "imagen": "img/mh.webp",
+        "imagen": "img/efectos/lazos pequenos.webp",
         "descripcion": ""
     },
     {
-        "nombre": "Efectos corazón y flor",
+        "nombre": "Estuche corazón y flor",
         "precio": 300,
         "categoria": "5",
-        "imagen": "img/mh.webp",
+        "imagen": "img/efectos/estuche corazon y flor.webp",
         "descripcion": ""
     },
     {
         "nombre": "Concha nácar",
         "precio": 250,
         "categoria": "5",
-        "imagen": "img/mh.webp",
+        "imagen": "img/efectos/concha nacar.webp",
         "descripcion": ""
     },
     {
         "nombre": "Torres de pigmento",
         "precio": 500,
         "categoria": "5",
-        "imagen": "img/mh.webp",
+        "imagen": "img/efectos/torres de pigmentos.webp",
         "descripcion": ""
     },
     {
-        "nombre": "Stiquer agua (2 unidades)",
+        "nombre": "Stiquer agua -1- (2 unidades)",
         "precio": 100,
         "categoria": "5",
-        "imagen": "img/mh.webp",
+        "imagen": "img/efectos/stiker de agua.webp",
         "descripcion": ""
     },
     {
-        "nombre": "Stiquer de animales y diseños",
-        "precio": 200,
+        "nombre": "Stiquer agua -2- (2 unidades)",
+        "precio": 100,
         "categoria": "5",
-        "imagen": "img/mh.webp",
+        "imagen": "img/efectos/stiker de agua1.webp",
+        "descripcion": ""
+    },
+    {
+        "nombre": "Stiquer agua -3- (2 unidades)",
+        "precio": 100,
+        "categoria": "5",
+        "imagen": "img/efectos/stiker de agua2.webp",
+        "descripcion": ""
+    },
+    {
+        "nombre": "Stiquer agua -4- (2 unidades)",
+        "precio": 100,
+        "categoria": "5",
+        "imagen": "img/efectos/stiker de agua3.webp",
         "descripcion": ""
     },
     {
         "nombre": "Stiquer de corazones",
         "precio": 200,
         "categoria": "5",
-        "imagen": "img/mh.webp",
+        "imagen": "img/efectos/stiker.webp",
         "descripcion": ""
     },
     {
-        "nombre": "Stiquer",
+        "nombre": "Stiquer pequeños",
         "precio": 100,
         "categoria": "5",
-        "imagen": "img/mh.webp",
+        "imagen": "img/efectos/stiker2.webp",
         "descripcion": ""
     },
     {
-        "nombre": "Stiquer premium",
-        "precio": 150,
+        "nombre": "Stiquer de diseños",
+        "precio": 200,
         "categoria": "5",
-        "imagen": "img/mh.webp",
+        "imagen": "img/efectos/stiker3.webp",
         "descripcion": ""
     },
     {
         "nombre": "Flake",
         "precio": 380,
         "categoria": "5",
-        "imagen": "img/mh.webp",
+        "imagen": "img/efectos/flake.webp",
         "descripcion": ""
     },
     {
         "nombre": "Lazos grandes",
         "precio": 350,
         "categoria": "5",
-        "imagen": "img/mh.webp",
+        "imagen": "img/efectos/lazos grandes.webp",
         "descripcion": ""
     },
     {
         "nombre": "Papel foil",
         "precio": 700,
         "categoria": "5",
-        "imagen": "img/mh.webp",
+        "imagen": "img/efectos/papel foil.webp",
         "descripcion": ""
     },
     {
         "nombre": "Estuche con 6 efectos de papel oro, azúcar y glitter",
         "precio": 700,
         "categoria": "5",
-        "imagen": "img/mh.webp",
+        "imagen": "img/efectos/estuche de papel oro, azucar y gliter.webp",
         "descripcion": ""
     },
     {
         "nombre": "Estuche variado",
         "precio": 600,
         "categoria": "5",
-        "imagen": "img/mh.webp",
+        "imagen": "img/efectos/estuches variado.webp",
         "descripcion": ""
     },
     {
         "nombre": "Estuche de 6 variados",
         "precio": 200,
         "categoria": "5",
-        "imagen": "img/mh.webp",
+        "imagen": "img/efectos/estuches variados.webp",
         "descripcion": ""
     },
     {
-        "nombre": "Spider gel blanco",
+        "nombre": "Spider gel blanco y negro",
         "precio": 300,
         "categoria": "5",
-        "imagen": "img/mh.webp",
+        "imagen": "img/efectos/spider gel.webp",
         "descripcion": ""
     },
     {
-        "nombre": "Spider gel negro",
-        "precio": 300,
-        "categoria": "5",
-        "imagen": "img/mh.webp",
-        "descripcion": ""
-    },
-    {
-        "nombre": "Papel oro plata (pomo grande)",
+        "nombre": "Papel de oro (pomo grande)",
         "precio": 400,
         "categoria": "5",
-        "imagen": "img/mh.webp",
+        "imagen": "img/efectos/papel oro.webp",
         "descripcion": ""
     },
     {
         "nombre": "Joyería serpientes",
         "precio": 450,
         "categoria": "5",
-        "imagen": "img/mh.webp",
+        "imagen": "img/efectos/serpientes.webp",
         "descripcion": ""
     },
     {
         "nombre": "Estuche de efecto azúcar (6 potes)",
         "precio": 600,
         "categoria": "5",
-        "imagen": "img/mh.webp",
+        "imagen": "img/efectos/efecto azucar.webp",
         "descripcion": ""
     },
     {
         "nombre": "Efecto azúcar - glitter (6 potes)",
         "precio": 700,
         "categoria": "5",
-        "imagen": "img/mh.webp",
+        "imagen": "img/efectos/estuche azucar y gliter.webp",
         "descripcion": ""
     },
     {
         "nombre": "Efecto papel de oro",
         "precio": 100,
         "categoria": "5",
-        "imagen": "img/mh.webp",
+        "imagen": "img/efectos/papel de oro.webp",
         "descripcion": ""
     },
     {
         "nombre": "Efecto espejo",
         "precio": 400,
         "categoria": "5",
-        "imagen": "img/mh.webp",
+        "imagen": "img/efectos/efecto espejo plateado.webp",
         "descripcion": ""
     },
     {
         "nombre": "Carrusel de balines",
         "precio": 550,
         "categoria": "5",
-        "imagen": "img/mh.webp",
+        "imagen": "img/efectos/carrusel de balines.webp",
         "descripcion": ""
     },
     {
         "nombre": "Carrusel de dijes",
         "precio": 650,
         "categoria": "5",
-        "imagen": "img/mh.webp",
+        "imagen": "img/efectos/carrusel de dijes.webp",
         "descripcion": ""
     },
     {
         "nombre": "Piedras variadas",
         "precio": 350,
         "categoria": "5",
-        "imagen": "img/mh.webp",
+        "imagen": "img/efectos/piedras variadas.webp",
         "descripcion": ""
     },
     {
         "nombre": "Piedras negras",
         "precio": 300,
         "categoria": "5",
-        "imagen": "img/mh.webp",
+        "imagen": "img/efectos/piedras negras.webp",
         "descripcion": ""
     }
 ]
