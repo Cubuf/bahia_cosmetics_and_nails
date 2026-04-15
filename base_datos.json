@@ -422,14 +422,14 @@
         "nombre": "Poligel hiaxiaoxiao 30ml",
         "precio": 1200,
         "categoria": "2",
-        "imagen": "img/Productos para unas/Poligel hiaxiaoxiao 30ml.webp",
+        "imagen": "img/Productos para unas/poligel 30ml.webp",
         "descripcion": ""
     },
     {
-        "nombre": "Poligel yuang quan 15ml",
+        "nombre": "Poligel yuan quan 15ml",
         "precio": 550,
         "categoria": "2",
-        "imagen": "img/Productos para unas/Poligel yuang quan 15ml.webp",
+        "imagen": "img/Productos para unas/poligel 15ml.webp",
         "descripcion": ""
     },
 
@@ -691,21 +691,21 @@
         "nombre": "Palitos de naranjo",
         "precio": 15,
         "categoria": "3",
-        "imagen": "img/herramientas/Oalitos de naranjo.webp",
+        "imagen": "img/herramientas/palitos de naranjo.webp",
         "descripcion": ""
     },
     {
         "nombre": "Goma de piedras",
         "precio": 550,
         "categoria": "3",
-        "imagen": "img/herramientas/Goma de piedras.webp",
+        "imagen": "img/herramientas/goma de piedras.webp",
         "descripcion": ""
     },
     {
         "nombre": "Gel sólido xiaoya",
         "precio": 750,
         "categoria": "3",
-        "imagen": "img/herramientas/Gel sólido xiaoya.webp",
+        "imagen": "img/herramientas/gel sólido 10ml.webp",
         "descripcion": ""
     },
 
