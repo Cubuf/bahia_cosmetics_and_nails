@@ -418,7 +418,20 @@
         "imagen": "img/Productos para unas/color chelly pink.webp",
         "descripcion": ""
     },
-
+{
+        "nombre": "Poligel hiaxiaoxiao 30ml",
+        "precio": 1200,
+        "categoria": "2",
+        "imagen": "img/Productos para unas/Poligel hiaxiaoxiao 30ml.webp",
+        "descripcion": ""
+    },
+    {
+        "nombre": "Poligel yuang quan 15ml",
+        "precio": 550,
+        "categoria": "2",
+        "imagen": "img/Productos para unas/Poligel yuang quan 15ml.webp",
+        "descripcion": ""
+    },
 
 
 
@@ -672,6 +685,27 @@
         "precio": 850,
         "categoria": "3",
         "imagen": "img/herramientas/guillotina.webp",
+        "descripcion": ""
+    },
+    {
+        "nombre": "Palitos de naranjo",
+        "precio": 15,
+        "categoria": "3",
+        "imagen": "img/herramientas/Oalitos de naranjo.webp",
+        "descripcion": ""
+    },
+    {
+        "nombre": "Goma de piedras",
+        "precio": 550,
+        "categoria": "3",
+        "imagen": "img/herramientas/Goma de piedras.webp",
+        "descripcion": ""
+    },
+    {
+        "nombre": "Gel sólido xiaoya",
+        "precio": 750,
+        "categoria": "3",
+        "imagen": "img/herramientas/Gel sólido xiaoya.webp",
         "descripcion": ""
     },
 
