@@ -71,20 +71,6 @@
         "descripcion": ""
     },
     {
-        "nombre": "Pestañas Mac #10 y 14",
-        "precio": 750,
-        "categoria": "1",
-        "imagen": "img/cosmeticos/pestanas.webp",
-        "descripcion": ""
-    },
-    {
-        "nombre": "Perfumes",
-        "precio": 900,
-        "categoria": "1",
-        "imagen": "img/cosmeticos/perfume.webp",
-        "descripcion": ""
-    },
-    {
         "nombre": "Labiales",
         "precio": 400,
         "categoria": "1",
@@ -103,13 +89,6 @@
         "precio": 300,
         "categoria": "1",
         "imagen": "img/cosmeticos/mascarilla facial.webp",
-        "descripcion": ""
-    },
-    {
-        "nombre": "Bálsamo labial trasnparente",
-        "precio": 250,
-        "categoria": "1",
-        "imagen": "img/cosmeticos/balsamo labial transparente.webp",
         "descripcion": ""
     },
     {
@@ -159,6 +138,13 @@
         "descripcion": ""
     },
     {
+        "nombre": "Top coat nenas 10ml",
+        "precio": 500,
+        "categoria": "2",
+        "imagen": "img/Productos para unas/top coat nena.webp",
+        "descripcion": ""
+    },
+    {
         "nombre": "Base Coat nena's 10ml(traer envase)",
         "precio": 400,
         "categoria": "2",
@@ -176,7 +162,7 @@
         "nombre": "Base Coat Mana Beauty 10ml",
         "precio": 500,
         "categoria": "2",
-        "imagen": "img/Productos para unas/base ruber color jr.webp",
+        "imagen": "img/Productos para unas/base coat.webp",
         "descripcion": ""
     },
     {
@@ -196,6 +182,13 @@
     {
         "nombre": "Pintura de gel Yuan Quan 15ml",
         "precio": 600,
+        "categoria": "2",
+        "imagen": "img/Productos para unas/pintura de gel 15ml.webp",
+        "descripcion": ""
+    },
+    {
+        "nombre": "Pintura de gel Yuan Quan 10ml",
+        "precio": 540,
         "categoria": "2",
         "imagen": "img/Productos para unas/pintura de gel yuan quan.webp",
         "descripcion": ""
@@ -232,6 +225,13 @@
     {
         "nombre": "Pintura blanca yuan quan",
         "precio": 540,
+        "categoria": "2",
+        "imagen": "img/Productos para unas/gel blanco.webp",
+        "descripcion": ""
+    },
+    {
+        "nombre": "Pintura blanca mana beauty",
+        "precio": 500,
         "categoria": "2",
         "imagen": "img/Productos para unas/pintura de gel blanco.webp",
         "descripcion": ""
@@ -391,6 +391,13 @@
         "descripcion": ""
     },
     {
+        "nombre": "Líquido Chelly secado medio/lento(onza)|(traer envase)",
+        "precio": 380,
+        "categoria": "2",
+        "imagen": "img/Productos para unas/liquido chelly.webp",
+        "descripcion": ""
+    },
+    {
         "nombre": "Acetona 120ml(traer envase)",
         "precio": 350,
         "categoria": "2",
@@ -406,7 +413,7 @@
     },
     {
         "nombre": "Cover nude (onza)|(traer envase)",
-        "precio": 490,
+        "precio": 400,
         "categoria": "2",
         "imagen": "img/Productos para unas/polvo chelly cover.webp",
         "descripcion": ""
@@ -416,6 +423,27 @@
         "precio": 400,
         "categoria": "2",
         "imagen": "img/Productos para unas/color chelly pink.webp",
+        "descripcion": ""
+    },
+    {
+        "nombre": "Base ruber color mana beauty 10 ml",
+        "precio": 650,
+        "categoria": "2",
+        "imagen": "img/Productos para unas/base ruber color.webp",
+        "descripcion": ""
+    },
+    {
+        "nombre": "Brillo liso natural 10ml",
+        "precio": 250,
+        "categoria": "2",
+        "imagen": "img/Productos para unas/brillo liso.webp",
+        "descripcion": ""
+    },
+    {
+        "nombre": "Gel sólido xiaoya",
+        "precio": 750,
+        "categoria": "2",
+        "imagen": "img/herramientas/gel sólido 10 ml.webp",
         "descripcion": ""
     },
 
@@ -431,7 +459,7 @@
     },
     {
         "nombre": "Limas bloques",
-        "precio": 1900,
+        "precio": 250,
         "categoria": "3",
         "imagen": "img/herramientas/bloque.webp",
         "descripcion": ""
@@ -461,11 +489,11 @@
         "nombre": "Soft gel 500 tips",
         "precio": 1900,
         "categoria": "3",
-        "imagen": "img/herramientas/tips coffin extralargas.webp",
+        "imagen": "img/herramientas/tips de sof gel.webp",
         "descripcion": ""
     },
     {
-        "nombre": "Moldes de papel(100)",
+        "nombre": "Moldes de papel",
         "precio": 10,
         "categoria": "3",
         "imagen": "img/herramientas/molde escultural.webp",
@@ -542,7 +570,7 @@
         "descripcion": ""
     },
     {
-        "nombre": "Limas-2",
+        "nombre": "Limas",
         "precio": 200,
         "categoria": "3",
         "imagen": "img/herramientas/lima01.webp",
@@ -595,13 +623,6 @@
         "precio": 550,
         "categoria": "3",
         "imagen": "img/herramientas/fresa de seramica.webp",
-        "descripcion": ""
-    },
-    {
-        "nombre": "Alicates Solingen",
-        "precio": 900,
-        "categoria": "3",
-        "imagen": "img/herramientas/alicates.webp",
         "descripcion": ""
     },
     {
@@ -688,13 +709,6 @@
         "imagen": "img/herramientas/goma de piedras.webp",
         "descripcion": ""
     },
-    {
-        "nombre": "Gel sólido xiaoya",
-        "precio": 750,
-        "categoria": "3",
-        "imagen": "img/herramientas/gel sólido 10 ml.webp",
-        "descripcion": ""
-    },
 
 
 
@@ -704,13 +718,6 @@
         "precio": 450,
         "categoria": "4",
         "imagen": "img/pinceles/8.webp",
-        "descripcion": ""
-    },
-    {
-        "nombre": "Pincel liner cola de sirena(estuche)",
-        "precio": 600,
-        "categoria": "4",
-        "imagen": "img/pinceles/pincel liner cola de sirena.webp",
         "descripcion": ""
     },
     {
@@ -732,13 +739,6 @@
         "precio": 1300,
         "categoria": "4",
         "imagen": "img/pinceles/juegos de pinceles liner.webp",
-        "descripcion": ""
-    },
-    {
-        "nombre": "Juego de 15 pinceles de dibujo",
-        "precio": 850,
-        "categoria": "4",
-        "imagen": "img/pinceles/juego de 15 pinceles.webp",
         "descripcion": ""
     },
     {
@@ -822,28 +822,28 @@
         "descripcion": ""
     },
     {
-        "nombre": "Stiquer agua -1- (2 unidades)",
+        "nombre": "Stiquer agua (2 unidades)",
         "precio": 100,
         "categoria": "5",
         "imagen": "img/efectos/stiker de agua.webp",
         "descripcion": ""
     },
     {
-        "nombre": "Stiquer agua -2- (2 unidades)",
+        "nombre": "Stiquer agua (2 unidades)",
         "precio": 100,
         "categoria": "5",
         "imagen": "img/efectos/stiker de agua1.webp",
         "descripcion": ""
     },
     {
-        "nombre": "Stiquer agua -3- (2 unidades)",
+        "nombre": "Stiquer agua (2 unidades)",
         "precio": 100,
         "categoria": "5",
         "imagen": "img/efectos/stiker de agua2.webp",
         "descripcion": ""
     },
     {
-        "nombre": "Stiquer agua -4- (2 unidades)",
+        "nombre": "Stiquer agua (2 unidades)",
         "precio": 100,
         "categoria": "5",
         "imagen": "img/efectos/stiker de agua3.webp",
@@ -902,7 +902,7 @@
         "nombre": "Estuche variado",
         "precio": 600,
         "categoria": "5",
-        "imagen": "img/efectos/estuches variado.webp",
+        "imagen": "img/efectos/estuche variado.webp",
         "descripcion": ""
     },
     {
@@ -920,8 +920,8 @@
         "descripcion": ""
     },
     {
-        "nombre": "Papel de oro (pomo grande)",
-        "precio": 400,
+        "nombre": "Papel de oro",
+        "precio": 100,
         "categoria": "5",
         "imagen": "img/efectos/papel oro.webp",
         "descripcion": ""
@@ -948,8 +948,8 @@
         "descripcion": ""
     },
     {
-        "nombre": "Efecto papel de oro",
-        "precio": 100,
+        "nombre": "Efecto papel de oro (grande)",
+        "precio": 400,
         "categoria": "5",
         "imagen": "img/efectos/papel de oro.webp",
         "descripcion": ""
