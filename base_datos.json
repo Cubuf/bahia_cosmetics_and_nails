@@ -261,7 +261,7 @@
         "nombre": "Pintura natural 15ml(traer envase)",
         "precio": 350,
         "categoria": "2",
-        "imagen": "img/Productos para unas/pintura natural_02.webp",
+        "imagen": "img/Productos para unas/pintura naturral_02.webp",
         "descripcion": ""
     },
     {
@@ -282,7 +282,7 @@
         "nombre": "Pintura natural 15ml(traer envase)",
         "precio": 350,
         "categoria": "2",
-        "imagen": "img/Productos para unas/pintura natural 5.webp",
+        "imagen": "img/Productos para unas/pintura natura 5.webp",
         "descripcion": ""
     },
     {
@@ -366,14 +366,14 @@
         "nombre": "Poligel yuan quan 15ml",
         "precio": 550,
         "categoria": "2",
-        "imagen": "",
+        "imagen": "img/Productos para unas/poligel 15 ml.webp",
         "descripcion": ""
     },
     {
         "nombre": "Poligel hiaxiaoxiao 30ml tonos nude",
         "precio": 1200,
         "categoria": "2",
-        "imagen": "",
+        "imagen": "img/Productos para unas/poligel 30 ml.webp",
         "descripcion": ""
     },
     {
@@ -418,20 +418,7 @@
         "imagen": "img/Productos para unas/color chelly pink.webp",
         "descripcion": ""
     },
-{
-        "nombre": "Poligel hiaxiaoxiao 30ml",
-        "precio": 1200,
-        "categoria": "2",
-        "imagen": "img/Productos para unas/poligel 30ml.webp",
-        "descripcion": ""
-    },
-    {
-        "nombre": "Poligel yuan quan 15ml",
-        "precio": 550,
-        "categoria": "2",
-        "imagen": "img/Productos para unas/poligel 15ml.webp",
-        "descripcion": ""
-    },
+
 
 
 
@@ -705,7 +692,7 @@
         "nombre": "Gel sólido xiaoya",
         "precio": 750,
         "categoria": "3",
-        "imagen": "img/herramientas/gel sólido 10ml.webp",
+        "imagen": "img/herramientas/gel sólido 10 ml.webp",
         "descripcion": ""
     },
 
