@@ -152,80 +152,59 @@
 
 
     {
-        "nombre": "Top coat 10 ml hiaxiaoxiao",
-        "precio": 540,
-        "categoria": "2",
-        "imagen": "img/mh.webp",
-        "descripcion": ""
-    },
-    {
-        "nombre": "Top coat 10 ml yuan quan",
-        "precio": 540,
-        "categoria": "2",
-        "imagen": "img/mh.webp",
-        "descripcion": ""
-    },
-    {
         "nombre": "Base Ruber cristal Miss Cherry 15ml",
         "precio": 1150,
         "categoria": "2",
-        "imagen": "img/mh.webp",
+        "imagen": "img/Productos para unas/base ruber cristal.webp",
         "descripcion": ""
     },
     {
         "nombre": "Base Coat nena's 10ml(traer envase)",
         "precio": 400,
         "categoria": "2",
-        "imagen": "img/mh.webp",
-        "descripcion": ""
-    },
-    {
-        "nombre": "Base Ruber builder gel JR 15ml",
-        "precio": 850,
-        "categoria": "2",
-        "imagen": "img/mh.webp",
+        "imagen": "img/Productos para unas/base coat nena.webp",
         "descripcion": ""
     },
     {
         "nombre": "Base Ruber color JR",
         "precio": 700,
         "categoria": "2",
-        "imagen": "img/mh.webp",
+        "imagen": "img/Productos para unas/base ruber color jr.webp",
         "descripcion": ""
     },
     {
         "nombre": "Base Coat Mana Beauty 10ml",
         "precio": 500,
         "categoria": "2",
-        "imagen": "img/mh.webp",
+        "imagen": "img/Productos para unas/base ruber color jr.webp",
         "descripcion": ""
     },
     {
         "nombre": "Primer nena's",
         "precio": 1650,
         "categoria": "2",
-        "imagen": "img/mh.webp",
+        "imagen": "img/Productos para unas/primer nena.webp",
         "descripcion": ""
     },
     {
         "nombre": "Primer mili's 15ml",
         "precio": 800,
         "categoria": "2",
-        "imagen": "img/mh.webp",
+        "imagen": "img/Productos para unas/primer mili.webp",
         "descripcion": ""
     },
     {
         "nombre": "Pintura de gel Yuan Quan 15ml",
         "precio": 600,
         "categoria": "2",
-        "imagen": "img/mh.webp",
+        "imagen": "img/Productos para unas/pintura de gel yuan quan.webp",
         "descripcion": ""
     },
     {
         "nombre": "Pintura de gel WBS 10ml",
         "precio": 480,
         "categoria": "2",
-        "imagen": "img/mh.webp",
+        "imagen": "img/Productos para unas/pintura de gel WBS.webp",
         "descripcion": ""
     },
     {
@@ -233,112 +212,210 @@
         "disponible": "Disponible",
         "precio": 480,
         "categoria": "2",
-        "imagen": "img/mh.webp",
+        "imagen": "img/Productos para unas/pintura de gel 480.webp",
         "descripcion": ""
     },
     {
         "nombre": "Pintura de gel 10ml JR",
         "precio": 500,
         "categoria": "2",
-        "imagen": "img/mh.webp",
+        "imagen": "img/Productos para unas/pintura de gel jr.webp",
         "descripcion": ""
     },
     {
         "nombre": "Pintura de gel JR 12ml",
         "precio": 650,
         "categoria": "2",
-        "imagen": "img/mh.webp",
+        "imagen": "img/Productos para unas/pintura de gel jr 12ml.webp",
         "descripcion": ""
     },
     {
         "nombre": "Pintura blanca yuan quan",
         "precio": 540,
         "categoria": "2",
-        "imagen": "img/mh.webp",
+        "imagen": "img/Productos para unas/pintura de gel blanco.webp",
         "descripcion": ""
     },
     {
         "nombre": "Pintura negra JR",
         "precio": 500,
         "categoria": "2",
-        "imagen": "img/mh.webp",
+        "imagen": "img/Productos para unas/pintura de gel negro.webp",
         "descripcion": ""
     },
     {
         "nombre": "Pintura roja yuan quan",
         "precio": 540,
         "categoria": "2",
-        "imagen": "img/mh.webp",
+        "imagen": "img/Productos para unas/pintura de gel yuan quan.webp",
         "descripcion": ""
     },
     {
-        "nombre": "Ojo de gato 15ml",
-        "precio": 870,
-        "categoria": "2",
-        "imagen": "img/mh.webp",
-        "descripcion": ""
-    },
-    {
-        "nombre": "Pintura natural Chely 15ml(traer envase)",
+        "nombre": "Pintura natural 15ml(traer envase)",
         "precio": 350,
         "categoria": "2",
-        "imagen": "img/mh.webp",
+        "imagen": "img/Productos para unas/pintura natural_01.webp",
+        "descripcion": ""
+    },
+    {
+        "nombre": "Pintura natural 15ml(traer envase)",
+        "precio": 350,
+        "categoria": "2",
+        "imagen": "img/Productos para unas/pintura natural_02.webp",
+        "descripcion": ""
+    },
+    {
+        "nombre": "Pintura natural 15ml(traer envase)",
+        "precio": 350,
+        "categoria": "2",
+        "imagen": "img/Productos para unas/pintura natural_03.webp",
+        "descripcion": ""
+    },
+    {
+        "nombre": "Pintura natural 15ml(traer envase)",
+        "precio": 350,
+        "categoria": "2",
+        "imagen": "img/Productos para unas/pintura natural_04.webp",
+        "descripcion": ""
+    },
+    {
+        "nombre": "Pintura natural 15ml(traer envase)",
+        "precio": 350,
+        "categoria": "2",
+        "imagen": "img/Productos para unas/pintura natural 5.webp",
+        "descripcion": ""
+    },
+    {
+        "nombre": "Pintura natural 15ml(traer envase)",
+        "precio": 350,
+        "categoria": "2",
+        "imagen": "img/Productos para unas/pintura natural_06.webp",
+        "descripcion": ""
+    },
+    {
+        "nombre": "Pintura natural 15ml(traer envase)",
+        "precio": 350,
+        "categoria": "2",
+        "imagen": "img/Productos para unas/pintura natural 7.webp",
+        "descripcion": ""
+    },
+    {
+        "nombre": "Pintura natural 15ml(traer envase)",
+        "precio": 350,
+        "categoria": "2",
+        "imagen": "img/Productos para unas/pintura natural 8.webp",
+        "descripcion": ""
+    },
+    {
+        "nombre": "Pintura natural 15ml(traer envase)",
+        "precio": 350,
+        "categoria": "2",
+        "imagen": "img/Productos para unas/pintura natural 9.webp",
+        "descripcion": ""
+    },
+    {
+        "nombre": "Pintura natural 15ml(traer envase)",
+        "precio": 350,
+        "categoria": "2",
+        "imagen": "img/Productos para unas/pintura natural 10.webp",
+        "descripcion": ""
+    },
+    {
+        "nombre": "Pintura natural 15ml(traer envase)",
+        "precio": 350,
+        "categoria": "2",
+        "imagen": "img/Productos para unas/pintura natural 11.webp",
+        "descripcion": ""
+    },
+    {
+        "nombre": "Pintura natural 15ml(traer envase)",
+        "precio": 350,
+        "categoria": "2",
+        "imagen": "img/Productos para unas/pintura natural 12.webp",
+        "descripcion": ""
+    },
+    {
+        "nombre": "Pintura natural 15ml(traer envase)",
+        "precio": 350,
+        "categoria": "2",
+        "imagen": "img/Productos para unas/pintura natural 13.webp",
+        "descripcion": ""
+    },
+    {
+        "nombre": "Pintura natural 15ml(traer envase)",
+        "precio": 350,
+        "categoria": "2",
+        "imagen": "img/Productos para unas/pintura natural 14.webp",
+        "descripcion": ""
+    },
+    {
+        "nombre": "Pintura natural 15ml(traer envase)",
+        "precio": 350,
+        "categoria": "2",
+        "imagen": "img/Productos para unas/pintura natural 15.webp",
+        "descripcion": ""
+    },
+    {
+        "nombre": "Pintura natural 15ml(traer envase)",
+        "precio": 350,
+        "categoria": "2",
+        "imagen": "img/Productos para unas/pintura natural 16.webp",
         "descripcion": ""
     },
     {
         "nombre": "Poligel yuan quan 15ml",
         "precio": 550,
         "categoria": "2",
-        "imagen": "img/mh.webp",
+        "imagen": "",
         "descripcion": ""
     },
     {
         "nombre": "Poligel hiaxiaoxiao 30ml tonos nude",
         "precio": 1200,
         "categoria": "2",
-        "imagen": "img/mh.webp",
+        "imagen": "",
         "descripcion": ""
     },
     {
         "nombre": "Polvo white(onza)|(traer envase)",
         "precio": 400,
         "categoria": "2",
-        "imagen": "img/mh.webp",
+        "imagen": "img/Productos para unas/polvo chelly white.webp",
         "descripcion": ""
     },
     {
-        "nombre": "Líquido Desi secado medio(onza)|(traer envase)",
+        "nombre": "Líquido Desi secado medio/rápido(onza)|(traer envase)",
         "precio": 380,
         "categoria": "2",
-        "imagen": "img/mh.webp",
+        "imagen": "img/Productos para unas/liquido desi.webp",
         "descripcion": ""
     },
     {
         "nombre": "Acetona 120ml(traer envase)",
         "precio": 350,
         "categoria": "2",
-        "imagen": "img/mh.webp",
+        "imagen": "img/Productos para unas/acetona.webp",
         "descripcion": ""
     },
     {
         "nombre": "Polvo clear(traer envase)",
         "precio": 400,
         "categoria": "2",
-        "imagen": "img/mh.webp",
+        "imagen": "img/Productos para unas/polvo chelly clear.webp",
         "descripcion": ""
     },
     {
         "nombre": "Cover nude (onza)|(traer envase)",
         "precio": 490,
         "categoria": "2",
-        "imagen": "img/mh.webp",
+        "imagen": "img/Productos para unas/polvo chelly cover.webp",
         "descripcion": ""
     },
     {
         "nombre": "Polvo medium pink(onza)|(traer envase)",
         "precio": 400,
         "categoria": "2",
-        "imagen": "img/mh.webp",
+        "imagen": "img/Productos para unas/color chelly pink.webp",
         "descripcion": ""
     },
 
@@ -350,6 +427,13 @@
         "precio": 1900,
         "categoria": "3",
         "imagen": "img/herramientas/500 tips coffin.webp",
+        "descripcion": ""
+    },
+    {
+        "nombre": "Limas bloques",
+        "precio": 1900,
+        "categoria": "3",
+        "imagen": "img/herramientas/bloque.webp",
         "descripcion": ""
     },
     {
