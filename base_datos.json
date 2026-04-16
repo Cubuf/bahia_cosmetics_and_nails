@@ -131,13 +131,6 @@
 
 
     {
-        "nombre": "Base Ruber cristal Miss Cherry 15ml",
-        "precio": 1150,
-        "categoria": "2",
-        "imagen": "img/Productos para unas/base ruber cristal.webp",
-        "descripcion": ""
-    },
-    {
         "nombre": "Top coat nenas 10ml",
         "precio": 500,
         "categoria": "2",
@@ -476,13 +469,6 @@
         "precio": 750,
         "categoria": "3",
         "imagen": "img/herramientas/tips de sof gel almendrado.webp",
-        "descripcion": ""
-    },
-    {
-        "nombre": "Coffin extralargas 120 tips",
-        "precio": 750,
-        "categoria": "3",
-        "imagen": "img/herramientas/tips coffin extralargas.webp",
         "descripcion": ""
     },
     {
