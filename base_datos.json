@@ -180,13 +180,6 @@
         "descripcion": ""
     },
     {
-        "nombre": "Pintura de gel Yuan Quan 10ml",
-        "precio": 540,
-        "categoria": "2",
-        "imagen": "img/Productos para unas/pintura de gel yuan quan.webp",
-        "descripcion": ""
-    },
-    {
         "nombre": "Pintura de gel WBS 10ml",
         "precio": 480,
         "categoria": "2",
@@ -734,7 +727,13 @@
         "imagen": "img/pinceles/pincel de poligel.webp",
         "descripcion": ""
     },
-
+    {
+        "nombre": "Pincel de relleno kalanzi #10",
+        "precio": 700,
+        "categoria": "4",
+        "imagen": "img/pinceles/pincel de relleno kalanzi.webp",
+        "descripcion": ""
+    },
 
 
     {
