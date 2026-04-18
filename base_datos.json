@@ -507,13 +507,6 @@
         "descripcion": ""
     },
     {
-        "nombre": "Cortasonrisa",
-        "precio": 450,
-        "categoria": "3",
-        "imagen": "img/herramientas/cortasonrizas.webp",
-        "descripcion": ""
-    },
-    {
         "nombre": "Pegamento de tubo blanco",
         "precio": 110,
         "categoria": "3",
@@ -958,13 +951,6 @@
         "precio": 650,
         "categoria": "5",
         "imagen": "img/efectos/carrusel de dijes.webp",
-        "descripcion": ""
-    },
-    {
-        "nombre": "Piedras variadas",
-        "precio": 350,
-        "categoria": "5",
-        "imagen": "img/efectos/piedras variadas.webp",
         "descripcion": ""
     },
     {
