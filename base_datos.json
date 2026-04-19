@@ -435,7 +435,27 @@
 
 
 
-
+    {
+        "nombre": "Moldes esculturales(20)",
+        "precio": 100,
+        "categoria": "3",
+        "imagen": "img/herramientas/moldes cutural01.webp",
+        "descripcion": ""
+    },
+    {
+        "nombre": "Imán para guillotina",
+        "precio": 400,
+        "categoria": "3",
+        "imagen": "img/herramientas/iman para guillotina.webp",
+        "descripcion": ""
+    },
+    {
+        "nombre": "Fresas de manicura rusa",
+        "precio": 150,
+        "categoria": "3",
+        "imagen": "img/herramientas/fresas de manicura rusa.webp",
+        "descripcion": ""
+    },
     {
         "nombre": "Coffin 500 tips",
         "precio": 1900,
