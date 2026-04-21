@@ -405,13 +405,6 @@
         "descripcion": ""
     },
     {
-        "nombre": "Polvo medium pink(onza)|(traer envase)",
-        "precio": 400,
-        "categoria": "2",
-        "imagen": "img/Productos para unas/color chelly pink.webp",
-        "descripcion": ""
-    },
-    {
         "nombre": "Base ruber color mana beauty 10 ml",
         "precio": 650,
         "categoria": "2",
@@ -705,13 +698,6 @@
 
 
 
-    {
-        "nombre": "Pinceles acrílicos #8",
-        "precio": 450,
-        "categoria": "4",
-        "imagen": "img/pinceles/8.webp",
-        "descripcion": ""
-    },
     {
         "nombre": "Pincel liner cola de sirena(individual)",
         "precio": 200,
