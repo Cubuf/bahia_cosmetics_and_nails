@@ -342,13 +342,6 @@
         "descripcion": ""
     },
     {
-        "nombre": "Pintura natural 15ml(traer envase)",
-        "precio": 350,
-        "categoria": "2",
-        "imagen": "img/Productos para unas/pintura natural 16.webp",
-        "descripcion": ""
-    },
-    {
         "nombre": "Poligel yuan quan 15ml",
         "precio": 550,
         "categoria": "2",
@@ -388,13 +381,6 @@
         "precio": 350,
         "categoria": "2",
         "imagen": "img/Productos para unas/acetona.webp",
-        "descripcion": ""
-    },
-    {
-        "nombre": "Polvo clear(traer envase)",
-        "precio": 400,
-        "categoria": "2",
-        "imagen": "img/Productos para unas/polvo chelly clear.webp",
         "descripcion": ""
     },
     {
