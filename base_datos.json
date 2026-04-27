@@ -126,9 +126,36 @@
         "imagen": "img/cosmeticos/goma de pestanas.webp",
         "descripcion": ""
     },
-
-
-
+    {
+        "nombre": "Goma de pestañas",
+        "precio": 950,
+        "categoria": "1",
+        "imagen": "img/ACT 1/goma de pestanas 950.webp"
+    },
+    {
+        "nombre": "Pestañas #12",
+        "precio": 800,
+        "categoria": "1",
+        "imagen": "img/ACT 1/pestanas 12 800.webp"
+    },
+    {
+        "nombre": "Pestañas 10mm",
+        "precio": 800,
+        "categoria": "1",
+        "imagen": "img/ACT 1/pestanas 10mm 800.webp"
+    },
+    {
+        "nombre": "Pestañas mixtas",
+        "precio": 1800,
+        "categoria": "1",
+        "imagen": "img/ACT 1/pestanas mixtas 2 1800.webp"
+    },
+    {
+        "nombre": "Pestañas mixtas",
+        "precio": 1800,
+        "categoria": "1",
+        "imagen": "img/ACT 1/pestanas mixtas 1800.webp"
+    },
 
     {
         "nombre": "Top coat nenas 10ml",
@@ -404,7 +431,12 @@
         "imagen": "img/herramientas/gel sólido 10 ml.webp",
         "descripcion": ""
     },
-
+    {
+        "nombre": "Gel de construcción clear",
+        "precio": 700,
+        "categoria": "2",
+        "imagen": "img/ACT 1/gel de construccion clear 700.webp"
+    },
 
 
     {
@@ -419,13 +451,6 @@
         "precio": 150,
         "categoria": "3",
         "imagen": "img/herramientas/fresas de manicura rusa.webp",
-        "descripcion": ""
-    },
-    {
-        "nombre": "Coffin 500 tips",
-        "precio": 1900,
-        "categoria": "3",
-        "imagen": "img/herramientas/500 tips coffin.webp",
         "descripcion": ""
     },
     {
@@ -652,6 +677,60 @@
         "imagen": "img/herramientas/goma de piedras.webp",
         "descripcion": ""
     },
+    {
+        "nombre": "100 tips cuadradas extralargas",
+        "precio": 1000,
+        "categoria": "3",
+        "imagen": "img/ACT 1/100 tips cuadradas extralargas 1000.webp"
+    },
+    {
+        "nombre": "120 tips cofen extralargas",
+        "precio": 1000,
+        "categoria": "3",
+        "imagen": "img/ACT 1/120 tips cofen extralargas 1000.webp"
+    },
+    {
+        "nombre": "120 tips extralargas estiletos",
+        "precio": 1100,
+        "categoria": "3",
+        "imagen": "img/ACT 1/120 tips extralargas estiletos 1100.webp"
+    },
+    {
+        "nombre": "Alicates",
+        "precio": 950,
+        "categoria": "3",
+        "imagen": "img/ACT 1/alicates 950.webp"
+    },
+    {
+        "nombre": "Aplicadores",
+        "precio": 400,
+        "categoria": "3",
+        "imagen": "img/ACT 1/aplicadores 400.webp"
+    },
+    {
+        "nombre": "Dispensadores",
+        "precio": 650,
+        "categoria": "3",
+        "imagen": "img/ACT 1/dispensador 650.webp"
+    },
+    {
+        "nombre": "Piedra Pome",
+        "precio": 380,
+        "categoria": "3",
+        "imagen": "img/ACT 1/piedra pome 380.webp"
+    },
+    {
+        "nombre": "Punteros de silicona (estuche)",
+        "precio": 1250,
+        "categoria": "3",
+        "imagen": "img/ACT 1/punteros de silicona 1250|250.webp"
+    },
+    {
+        "nombre": "Punteros de silicona (individual)",
+        "precio": 250,
+        "categoria": "3",
+        "imagen": "img/ACT 1/punteros de silicona 1250|250.webp"
+    },
 
 
 
@@ -690,6 +769,24 @@
         "categoria": "4",
         "imagen": "img/pinceles/pincel de relleno kalanzi.webp",
         "descripcion": ""
+    },
+    {
+        "nombre": "Juego de pinceles de gel",
+        "precio": 800,
+        "categoria": "4",
+        "imagen": "img/ACT 1/juego de pinceles de gel 800.webp"
+    },
+    {
+        "nombre": "Pincel liner juego (estuche)",
+        "precio": 700,
+        "categoria": "4",
+        "imagen": "img/ACT 1/pincel liner juego 700|240.webp"
+    },
+    {
+        "nombre": "Pincel liner juego (individual)",
+        "precio": 240,
+        "categoria": "4",
+        "imagen": "img/ACT 1/pincel liner juego 700|240.webp"
     },
 
 
