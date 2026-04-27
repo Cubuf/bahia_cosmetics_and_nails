@@ -172,13 +172,6 @@
         "descripcion": ""
     },
     {
-        "nombre": "Base Ruber color JR",
-        "precio": 700,
-        "categoria": "2",
-        "imagen": "img/Productos para unas/base ruber color jr.webp",
-        "descripcion": ""
-    },
-    {
         "nombre": "Base Coat Mana Beauty 10ml",
         "precio": 500,
         "categoria": "2",
@@ -437,6 +430,32 @@
         "categoria": "2",
         "imagen": "img/ACT 1/gel de construccion clear 700.webp"
     },
+    {
+        "nombre": "Base Ruber Transparente",
+        "precio": 650,
+        "categoria": "2",
+        "imagen": "img/ACT 2/base ruber transparente 650.webp"
+    },
+    {
+        "nombre": "Polvo Chelly Clear(onza)|(traer envase)",
+        "precio": 400,
+        "categoria": "2",
+        "imagen": "img/Productos para unas/polvo chelly clear.webp"
+    },
+    {
+        "nombre": "Polvo Chelly Cover nude(onza)|(traer envase)",
+        "precio": 400,
+        "categoria": "2",
+        "imagen": "img/Productos para unas/polvo chelly cover.webp"
+    },
+    {
+        "nombre": "Polvo Chelly Medium Pink(onza)|(traer envase)",
+        "precio": 400,
+        "categoria": "2",
+        "imagen": "img/Productos para unas/color chelly pink.webp"
+    },
+
+
 
 
     {
@@ -549,13 +568,6 @@
         "precio": 800,
         "categoria": "3",
         "imagen": "img/herramientas/muestrarios.webp",
-        "descripcion": ""
-    },
-    {
-        "nombre": "Protector de alicate",
-        "precio": 350,
-        "categoria": "3",
-        "imagen": "img/herramientas/protector de alicates.webp",
         "descripcion": ""
     },
     {
@@ -788,6 +800,19 @@
         "categoria": "4",
         "imagen": "img/ACT 1/pincel liner juego 700|240.webp"
     },
+    {
+        "nombre": "Pincel de relleno kalanzi #8",
+        "precio": 700,
+        "categoria": "4",
+        "imagen": "img/ACT 2/pincel de relleno kalanzi 8 700.webp"
+    },
+    {
+        "nombre": "Pincel de relleno kalanzi #10",
+        "precio": 700,
+        "categoria": "4",
+        "imagen": "img/ACT 2/pincel de relleno kalanzi 10 700.webp"
+    },
+
 
 
     {
