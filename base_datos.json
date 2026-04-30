@@ -179,13 +179,6 @@
         "descripcion": ""
     },
     {
-        "nombre": "Primer nena's",
-        "precio": 1650,
-        "categoria": "2",
-        "imagen": "img/Productos para unas/primer nena.webp",
-        "descripcion": ""
-    },
-    {
         "nombre": "Primer mili's 15ml",
         "precio": 800,
         "categoria": "2",
@@ -689,12 +682,7 @@
         "imagen": "img/herramientas/goma de piedras.webp",
         "descripcion": ""
     },
-    {
-        "nombre": "100 tips cuadradas extralargas",
-        "precio": 1000,
-        "categoria": "3",
-        "imagen": "img/ACT 1/100 tips cuadradas extralargas 1000.webp"
-    },
+
     {
         "nombre": "120 tips cofen extralargas",
         "precio": 1000,
