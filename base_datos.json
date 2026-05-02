@@ -172,13 +172,6 @@
         "descripcion": ""
     },
     {
-        "nombre": "Base Coat Mana Beauty 10ml",
-        "precio": 500,
-        "categoria": "2",
-        "imagen": "img/Productos para unas/base coat.webp",
-        "descripcion": ""
-    },
-    {
         "nombre": "Primer mili's 15ml",
         "precio": 800,
         "categoria": "2",
@@ -240,13 +233,6 @@
         "precio": 500,
         "categoria": "2",
         "imagen": "img/Productos para unas/pintura de gel negro.webp",
-        "descripcion": ""
-    },
-    {
-        "nombre": "Pintura roja yuan quan",
-        "precio": 540,
-        "categoria": "2",
-        "imagen": "img/Productos para unas/pintura de gel yuan quan.webp",
         "descripcion": ""
     },
     {
