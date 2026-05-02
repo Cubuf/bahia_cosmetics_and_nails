@@ -78,24 +78,10 @@
         "descripcion": ""
     },
     {
-        "nombre": "Enchinadores",
-        "precio": 400,
-        "categoria": "1",
-        "imagen": "img/cosmeticos/enchinador de pestanas.webp",
-        "descripcion": ""
-    },
-    {
         "nombre": "Mascarilla facial negra",
         "precio": 300,
         "categoria": "1",
         "imagen": "img/cosmeticos/mascarilla facial.webp",
-        "descripcion": ""
-    },
-    {
-        "nombre": "Bálsamo labial de fresa, tono rosado",
-        "precio": 400,
-        "categoria": "1",
-        "imagen": "img/cosmeticos/balsamo labial magico sabor fresa.webp",
         "descripcion": ""
     },
     {
@@ -726,20 +712,6 @@
         "precio": 200,
         "categoria": "4",
         "imagen": "img/pinceles/pincel liner cola de sirena.webp",
-        "descripcion": ""
-    },
-    {
-        "nombre": "Pincel Miss Cherry #12",
-        "precio": 550,
-        "categoria": "4",
-        "imagen": "img/pinceles/12.webp",
-        "descripcion": ""
-    },
-    {
-        "nombre": "Juego de 5 pinceles liner",
-        "precio": 1300,
-        "categoria": "4",
-        "imagen": "img/pinceles/juegos de pinceles liner.webp",
         "descripcion": ""
     },
     {
