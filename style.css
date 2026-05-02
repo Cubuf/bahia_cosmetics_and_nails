@@ -270,115 +270,94 @@ body > div:nth-of-type(3) p {
 /* ===== GRID DE PRODUCTOS ===== */
 .grid-productos {
   display: grid;
-  grid-template-columns: repeat(2, 1fr);
+  grid-template-columns: 1fr;
   gap: 1rem;
-  padding: 1rem 1rem 6rem;
+  padding: 1.5rem 1rem 6rem;
+  max-width: 700px;
+  margin: 0 auto;
 }
 
-/* ===== TARJETA DE PRODUCTO ===== */
+/* ===== TARJETA DE PRODUCTO (layout CSS 1 + estética CSS 2) ===== */
 .producto-card {
   background: white;
-  border: 1px solid rgba(212,168,154,0.35);
-  border-radius: 0;
-  padding: 0;
-  width: 100%;
-  height: auto;
-  display: flex;
-  flex-direction: column;
+  border: 1px solid rgba(212, 168, 154, 0.35);
+  border-radius: 10px;
   overflow: hidden;
+  display: grid;
+  grid-template-columns: 110px 1fr;
+  grid-template-rows: auto auto;
   text-align: left;
-  transition: transform 0.35s cubic-bezier(0.25,0.46,0.45,0.94),
+  transition: transform 0.35s cubic-bezier(0.25, 0.46, 0.45, 0.94),
               box-shadow 0.35s ease;
   position: relative;
+  min-height: 110px;
 }
 
 .producto-card:hover {
-  transform: translateY(-5px);
-  box-shadow: 0 16px 40px rgba(42,26,20,0.12);
+  transform: translateY(-4px);
+  box-shadow: 0 16px 40px rgba(42, 26, 20, 0.12);
 }
 
-/* Imagen del producto */
+/* Imagen a la izquierda, ocupa ambas filas */
 .producto-card img {
-  width: 100%;
-  aspect-ratio: 1 / 1;
+  grid-column: 1;
+  grid-row: 1 / 3;
+  width: 110px !important;
+  height: 100% !important;
+  min-height: 110px;
   object-fit: cover;
   display: block;
+  border-right: 1px solid rgba(212, 168, 154, 0.25);
   transition: transform 0.5s ease;
 }
 
 .producto-card:hover img {
-  transform: scale(1.06);
+  transform: scale(1.05);
 }
 
-/* Contenedor de imagen con overflow hidden */
-.producto-card .img-wrapper {
-  overflow: hidden;
-  position: relative;
-}
-
-/* Cuerpo de la tarjeta */
-.producto-card .card-body {
-  padding: 0.9rem 1rem 1rem;
-  display: flex;
-  flex-direction: column;
-  gap: 0.4rem;
-  flex: 1;
-}
-
+/* Nombre del producto */
+.producto-card h4,
 .producto-card h3 {
+  grid-column: 2;
+  grid-row: 1;
   font-family: 'Cormorant Garamond', serif;
-  font-size: 1rem;
+  font-size: 0.95rem;
   font-weight: 400;
   color: var(--deep);
+  letter-spacing: 0.03em;
+  line-height: 1.4;
+  padding: 1rem 1rem 0.25rem;
+  align-self: end;
   margin: 0;
-  line-height: 1.3;
 }
 
+/* Precio */
+.producto-card p,
 .producto-card .precio {
-  font-size: 1rem;
+  grid-column: 2;
+  grid-row: 2;
+  font-family: 'Tenor Sans', sans-serif;
+  font-size: 0.88rem;
   font-weight: 600;
   color: var(--terracotta);
-}
-
-.producto-card .descripcion {
-  font-size: 0.72rem;
-  color: var(--smoke);
-  line-height: 1.6;
-  flex: 1;
-}
-
-.producto-card .btn-agregar {
-  display: block;
-  background: var(--deep);
-  color: white;
-  border: none;
-  padding: 0.65rem;
-  font-family: 'Tenor Sans', sans-serif;
-  font-size: 0.68rem;
-  letter-spacing: 0.2em;
-  text-transform: uppercase;
-  cursor: pointer;
-  text-align: center;
-  text-decoration: none;
-  transition: background 0.3s;
-  margin-top: 0.5rem;
-}
-
-.producto-card .btn-agregar:hover {
-  background: var(--terracotta);
+  letter-spacing: 0.08em;
+  padding: 0 1rem 1rem !important;
+  align-self: start;
+  margin: 0;
 }
 
 /* Badge de nuevo / oferta */
 .producto-card .badge {
   position: absolute;
-  top: 0.7rem;
-  left: 0.7rem;
+  top: 0.6rem;
+  left: 0.6rem;
   background: var(--terracotta);
   color: white;
-  font-size: 0.6rem;
+  font-family: 'Tenor Sans', sans-serif;
+  font-size: 0.58rem;
   letter-spacing: 0.15em;
   text-transform: uppercase;
-  padding: 0.25rem 0.65rem;
+  padding: 0.2rem 0.55rem;
   z-index: 1;
 }
 
