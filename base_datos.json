@@ -348,13 +348,6 @@
         "descripcion": ""
     },
     {
-        "nombre": "Líquido Desi secado medio/rápido(onza)|(traer envase)",
-        "precio": 380,
-        "categoria": "2",
-        "imagen": "img/Productos para unas/liquido desi.webp",
-        "descripcion": ""
-    },
-    {
         "nombre": "Líquido Chelly secado medio/lento(onza)|(traer envase)",
         "precio": 380,
         "categoria": "2",
@@ -962,13 +955,6 @@
         "precio": 400,
         "categoria": "5",
         "imagen": "img/efectos/efecto espejo plateado.webp",
-        "descripcion": ""
-    },
-    {
-        "nombre": "Carrusel de balines",
-        "precio": 550,
-        "categoria": "5",
-        "imagen": "img/efectos/carrusel de balines.webp",
         "descripcion": ""
     },
     {
