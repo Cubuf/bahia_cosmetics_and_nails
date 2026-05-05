@@ -179,7 +179,7 @@
         "descripcion": ""
     },
     {
-        "nombre": "Pintura de gel mana Beauty",
+        "nombre": "Pintura de gel mana Beauty(negra agotada)",
         "disponible": "Disponible",
         "precio": 480,
         "categoria": "2",
@@ -526,13 +526,6 @@
         "precio": 800,
         "categoria": "3",
         "imagen": "img/herramientas/muestrarios.webp",
-        "descripcion": ""
-    },
-    {
-        "nombre": "Bledos",
-        "precio": 650,
-        "categoria": "3",
-        "imagen": "img/herramientas/bledos.webp",
         "descripcion": ""
     },
     {
