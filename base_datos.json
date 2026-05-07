@@ -189,13 +189,6 @@
         "descripcion": ""
     },
     {
-        "nombre": "Pintura blanca yuan quan",
-        "precio": 540,
-        "categoria": "2",
-        "imagen": "img/Productos para unas/gel blanco.webp",
-        "descripcion": ""
-    },
-    {
         "nombre": "Pintura blanca mana beauty",
         "precio": 500,
         "categoria": "2",
@@ -375,12 +368,6 @@
         "precio": 700,
         "categoria": "2",
         "imagen": "img/ACT 1/gel de construccion clear 700.webp"
-    },
-    {
-        "nombre": "Base Ruber Transparente",
-        "precio": 650,
-        "categoria": "2",
-        "imagen": "img/ACT 2/base ruber transparente 650.webp"
     },
     {
         "nombre": "Polvo Chelly Clear(onza)|(traer envase)",
