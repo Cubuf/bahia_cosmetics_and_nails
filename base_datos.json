@@ -14,13 +14,6 @@
         "descripcion": ""
     },
     {
-        "nombre": "Labial de oso",
-        "precio": 300,
-        "categoria": "1",
-        "imagen": "img/cosmeticos/labiales de osos.webp",
-        "descripcion": ""
-    },
-    {
         "nombre": "Delineador de oso blanco y carmelita",
         "precio": 300,
         "categoria": "1",
@@ -186,20 +179,6 @@
         "precio": 650,
         "categoria": "2",
         "imagen": "img/Productos para unas/pintura de gel jr 12ml.webp",
-        "descripcion": ""
-    },
-    {
-        "nombre": "Pintura blanca mana beauty",
-        "precio": 500,
-        "categoria": "2",
-        "imagen": "img/Productos para unas/pintura de gel blanco.webp",
-        "descripcion": ""
-    },
-    {
-        "nombre": "Pintura negra JR",
-        "precio": 500,
-        "categoria": "2",
-        "imagen": "img/Productos para unas/pintura de gel negro.webp",
         "descripcion": ""
     },
     {
