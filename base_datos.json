@@ -315,6 +315,13 @@
         "descripcion": ""
     },
     {
+        "nombre": "Top Mate Terciopelo",
+        "precio": 850,
+        "categoria": "2",
+        "imagen": "img/ACT 3/top mate terciopelo 850.webp",
+        "descripcion": ""
+    },
+    {
         "nombre": "Acetona 120ml(traer envase)",
         "precio": 350,
         "categoria": "2",
@@ -366,10 +373,24 @@
         "categoria": "2",
         "imagen": "img/Productos para unas/color chelly pink.webp"
     },
+    {
+        "nombre": "Carving gel clear",
+        "precio": 650,
+        "categoria": "2",
+        "imagen": "img/ACT 3/carving gel clear 650.webp",
+        "descripcion": ""
+    },
 
 
 
 
+    {
+        "nombre": "120 tips cofen extralargas transparentes",
+        "precio": 800,
+        "categoria": "3",
+        "imagen": "img/ACT 3/120 tips cofen extralargas transparentes 800.webp",
+        "descripcion": ""
+    },
     {
         "nombre": "Moldes esculturales(20)",
         "precio": 100,
@@ -567,6 +588,13 @@
         "descripcion": ""
     },
     {
+        "nombre": "Limas Mana Beauty 80/80",
+        "precio": 200,
+        "categoria": "3",
+        "imagen": "img/ACT 3/limas mana beauty 80-80 200.webp",
+        "descripcion": ""
+    },
+    {
         "nombre": "Guillotinas",
         "precio": 850,
         "categoria": "3",
@@ -640,13 +668,6 @@
 
 
 
-    {
-        "nombre": "Pincel liner cola de sirena(individual)",
-        "precio": 200,
-        "categoria": "4",
-        "imagen": "img/pinceles/pincel liner cola de sirena.webp",
-        "descripcion": ""
-    },
     {
         "nombre": "Pincel de poligel",
         "precio": 600,
@@ -909,6 +930,20 @@
         "precio": 300,
         "categoria": "5",
         "imagen": "img/efectos/piedras negras.webp",
+        "descripcion": ""
+    },
+    {
+        "nombre": "Efecto dorado",
+        "precio": 350,
+        "categoria": "5",
+        "imagen": "img/efectos/efecto dorado 350.webp",
+        "descripcion": ""
+    },
+    {
+        "nombre": "Efecto plateado",
+        "precio": 350,
+        "categoria": "5",
+        "imagen": "img/ACT 3/efecto plateado 350.webp",
         "descripcion": ""
     }
 ]
