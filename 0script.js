@@ -1,49 +1,51 @@
-// Cargar productos
+const categorias = {
+  "1": "Cosméticos",
+  "2": "Productos de uñas",
+  "3": "Herramientas",
+  "4": "Pinceles",
+  "5": "Efectos"
+}
+
 async function cargar() {
-    try {
-        //Buscamos el archivo
-        const respuesta = await fetch('base_datos.json')
-        const producto = await respuesta.json()
-        // Lo convertimos a objeto JS
-    mostrar(producto)
-    } catch (error) {
-        console.error("Error cargando los productos:", error)
-    }
+  try {
+    const respuesta = await fetch('base_datos.json')
+    const productos = await respuesta.json()
+    mostrar(productos)
+  } catch (error) {
+    console.error("Error cargando los productos:", error)
+  }
 }
+
 let text = ""
-// Funcion para pintar los productos en html
+
 function mostrar(lista) {
-    const contenedor = document.getElementById("contenedor")
-    contenedor.innerHTML = ''//limpiamosS
-    if (text == "" ) {
-        lista.forEach(producto => {
-            //diseno de cada tarjeta
-            console.log(producto.categoria)
-            const card = document.createElement('div')
-            card.className = 'producto-card'
-            card.classList.add("producto-card")
-            card.innerHTML = `<img src="${producto.imagen}" alt="${producto.nombre}" style="width: 100%; height: auto;"> <h4>${producto.nombre}</h4> <p style="font-size:70%;">Precio: $${producto.precio}</p>`
-            contenedor.appendChild(card)
-        })
-    } else {
-        const resultado = lista.filter(producto => {
-            return producto.nombre.toLowerCase().includes(text.toLowerCase())
-        })
-        resultado.forEach(producto => {
-            //diseno de cada tarjeta
-            console.log(producto.categoria)
-            const card = document.createElement('div')
-            cargar.className = 'producto-card'
-            card.classList.add("producto-card")
-            card.innerHTML = `<img src="${producto.imagen}" alt="${producto.nombre}" style="width: 100%; height: auto;"> <h4>${producto.nombre}</h4> <p style="font-size:70%;">Precio: $${producto.precio}</p>`
-        contenedor.appendChild(card)
-        })
-    }
+  const contenedor = document.getElementById("contenedor")
+  contenedor.innerHTML = ''
+
+  const filtrada = text === ""
+    ? lista
+    : lista.filter(p => p.nombre.toLowerCase().includes(text.toLowerCase()))
+
+  filtrada.forEach(producto => {
+    const card = document.createElement('div')
+    card.classList.add("producto-card")
+
+    const nombreCateg = categorias[producto.categoria] || "Sin categoría"
+
+    card.innerHTML = `
+      <img src="${producto.imagen}" alt="${producto.nombre}">
+      <h4>${producto.nombre}</h4>
+      <p class="precio">Precio: $${producto.precio}</p>
+      <p class="categ">${nombreCateg}</p>
+    `
+    contenedor.appendChild(card)
+  })
 }
+
 cargar()
 
 const barra = document.getElementById("barra")
 barra.addEventListener("input", (e) => {
-    text = e.target.value
-    cargar()
+  text = e.target.value
+  cargar()
 })
