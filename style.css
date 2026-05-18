@@ -290,7 +290,7 @@ body > div:nth-of-type(3) p {
   transition: transform 0.35s cubic-bezier(0.25, 0.46, 0.45, 0.94),
               box-shadow 0.35s ease;
   position: relative;
-  min-height: 160px;
+  min-height: 130px;
 }
 
 .producto-card:hover {
