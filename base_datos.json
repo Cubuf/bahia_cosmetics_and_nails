@@ -146,38 +146,38 @@
         "descripcion": ""
     },
     {
-        "nombre": "Pintura de gel Yuan Quan 15ml(Rebajada de 600 a 400)",
+        "nombre": "Pintura de gel Yuan Quan 15ml",
         "precio": "400",
-        "categoria": "2",
+        "categoria": "6",
         "imagen": "img/Productos para unas/pintura de gel 15ml.webp",
         "descripcion": ""
     },
     {
-        "nombre": "Pintura de gel WBS 10ml(Rebaja 480 a 390)",
+        "nombre": "Pintura de gel WBS 10ml",
         "precio": 390,
-        "categoria": "2",
+        "categoria": "6",
         "imagen": "img/Productos para unas/pintura de gel WBS.webp",
         "descripcion": ""
     },
     {
-        "nombre": "Pintura de gel mana Beauty(negra agotada)|(Rebaja de 480 a 450)",
+        "nombre": "Pintura de gel mana Beauty(negra agotada)",
         "disponible": "Disponible",
         "precio": 450,
-        "categoria": "2",
+        "categoria": "6",
         "imagen": "img/Productos para unas/pintura de gel 480.webp",
         "descripcion": ""
     },
     {
-        "nombre": "Pintura de gel 10ml JR(Rebaja de 500 a 440)",
+        "nombre": "Pintura de gel 10ml JR",
         "precio": 440,
-        "categoria": "2",
+        "categoria": "6",
         "imagen": "img/Productos para unas/pintura de gel jr.webp",
         "descripcion": ""
     },
     {
-        "nombre": "Pintura de gel JR 12ml(Rebaja de 650 a 580)",
+        "nombre": "Pintura de gel JR 12ml",
         "precio": 580,
-        "categoria": "2",
+        "categoria": "6",
         "imagen": "img/Productos para unas/pintura de gel jr 12ml.webp",
         "descripcion": ""
     },
