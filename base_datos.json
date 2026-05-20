@@ -395,20 +395,6 @@
         "descripcion": ""
     },
     {
-        "nombre": "Pintura Gel Kalanzi Gama J",
-        "precio": 580,
-        "categoria": "2",
-        "imagen": "img/ACT 4/pintura de gel kalanzi gama J 580.webp",
-        "descripcion": ""
-    },
-    {
-        "nombre": "Pintura Gel Kalanzi Gama M",
-        "precio": 580,
-        "categoria": "2",
-        "imagen": "img/ACT 4/pintura de gel kalanzi gama M 580.webp",
-        "descripcion": ""
-    },
-    {
         "nombre": "Pintura Gel Kalanzi Gama Q",
         "precio": 580,
         "categoria": "2",
@@ -420,13 +406,6 @@
         "precio": 580,
         "categoria": "2",
         "imagen": "img/ACT 4/pintura de gel kalanzi gama R 580.webp",
-        "descripcion": ""
-    },
-    {
-        "nombre": "Pintura Gel Kalanzi Gama E",
-        "precio": 580,
-        "categoria": "2",
-        "imagen": "img/ACT 4/pintura gel kalanzi gama E 580.webp",
         "descripcion": ""
     },
     {
