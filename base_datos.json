@@ -43,7 +43,7 @@
     },
     {
         "nombre": "Marbellin(no plástico)",
-        "precio": 400,
+        "precio": 450,
         "categoria": "1",
         "imagen": "img/cosmeticos/malbellin.webp",
         "descripcion": ""
@@ -471,7 +471,7 @@
     },
     {
         "nombre": "Empujador de cutícula",
-        "precio": 350,
+        "precio": 400,
         "categoria": "3",
         "imagen": "img/herramientas/empujador de cuticulas.webp",
         "descripcion": ""
@@ -485,7 +485,7 @@
     },
     {
         "nombre": "Godette",
-        "precio": 300,
+        "precio": 350,
         "categoria": "3",
         "imagen": "img/herramientas/godette.webp",
         "descripcion": ""
@@ -562,7 +562,7 @@
     },
     {
         "nombre": "Fresas de cerámica",
-        "precio": 550,
+        "precio": 600,
         "categoria": "3",
         "imagen": "img/herramientas/fresa de seramica.webp",
         "descripcion": ""
@@ -576,7 +576,7 @@
     },
     {
         "nombre": "Imán cuadrado",
-        "precio": 480,
+        "precio": 500,
         "categoria": "3",
         "imagen": "img/herramientas/iman.webp",
         "descripcion": ""
@@ -653,7 +653,7 @@
     },
     {
         "nombre": "Goma de piedras",
-        "precio": 550,
+        "precio": 600,
         "categoria": "3",
         "imagen": "img/herramientas/goma de piedras.webp",
         "descripcion": ""
@@ -673,7 +673,7 @@
     },
     {
         "nombre": "Alicates",
-        "precio": 950,
+        "precio": 1000,
         "categoria": "3",
         "imagen": "img/ACT 1/alicates 950.webp"
     },
@@ -745,13 +745,13 @@
     },
     {
         "nombre": "Pincel de relleno kalanzi #8",
-        "precio": 700,
+        "precio": 750,
         "categoria": "4",
         "imagen": "img/ACT 2/pincel de relleno kalanzi 8 700.webp"
     },
     {
         "nombre": "Pincel de relleno kalanzi #10",
-        "precio": 700,
+        "precio": 750,
         "categoria": "4",
         "imagen": "img/ACT 2/pincel de relleno kalanzi 10 700.webp"
     },
