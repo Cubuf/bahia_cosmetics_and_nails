@@ -774,8 +774,8 @@
     },
     {
         "nombre": "Cover Pinky IVA 1 onza",
-        "precio": 450,
-        "categoria": "5",
+        "precio": 350,
+        "categoria": "6",
         "imagen": "img/efectos/cover pinky.webp",
         "descripcion": ""
     },
@@ -966,13 +966,6 @@
         "precio": 650,
         "categoria": "5",
         "imagen": "img/efectos/carrusel de dijes.webp",
-        "descripcion": ""
-    },
-    {
-        "nombre": "Piedras negras",
-        "precio": 300,
-        "categoria": "5",
-        "imagen": "img/efectos/piedras negras.webp",
         "descripcion": ""
     },
     {
