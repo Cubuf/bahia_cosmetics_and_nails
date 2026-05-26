@@ -554,13 +554,6 @@
         "descripcion": ""
     },
     {
-        "nombre": "Guantes 1 par",
-        "precio": 100,
-        "categoria": "3",
-        "imagen": "img/herramientas/guantes.webp",
-        "descripcion": ""
-    },
-    {
         "nombre": "Fresas de cerámica",
         "precio": 600,
         "categoria": "3",
