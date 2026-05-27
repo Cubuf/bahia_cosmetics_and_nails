@@ -1,5 +1,33 @@
 [
     {
+        "nombre": "Delineador de plumón negro",
+        "precio": 300,
+        "categoria": "1",
+        "imagen": "img/ACT 5/delineador de plumon negro 300 (1).webp",
+        "descripcion": ""
+    },
+    {
+        "nombre": "Pestañas #14",
+        "precio": 800,
+        "categoria": "1",
+        "imagen": "img/ACT 5/pestanas 14 800 (1).webp",
+        "descripcion": ""
+    },
+    {
+        "nombre": "Juego de perfilador con 4 cuchillas",
+        "precio": 500,
+        "categoria": "1",
+        "imagen": "img/ACT 5/juego de perfilador con 4 cuchillas 500 (1).webp",
+        "descripcion": ""
+    },
+    {
+        "nombre": "Lapiz con sacapunta marrón y negro",
+        "precio": 250,
+        "categoria": "1",
+        "imagen": "img/ACT 5/lapiz con sacapunta marron y negro 250(1).webp",
+        "descripcion": ""
+    },
+    {
         "nombre": "Plumón delineador de labios",
         "precio": 300,
         "categoria": "1",
@@ -530,6 +558,20 @@
         "precio": 200,
         "categoria": "3",
         "imagen": "img/herramientas/lima01.webp",
+        "descripcion": ""
+    },
+    {
+        "nombre": "Lima 80/120",
+        "precio": 200,
+        "categoria": "3",
+        "imagen": "img/ACT 5/lima 80-120 200 (3).webp",
+        "descripcion": ""
+    },
+    {
+        "nombre": "Lima 100/80",
+        "precio": 200,
+        "categoria": "3",
+        "imagen": "img/ACT 5/lima 100-80 200 (3).webp",
         "descripcion": ""
     },
     {
