@@ -140,12 +140,6 @@
         "imagen": "img/ACT 1/goma de pestanas 950.webp"
     },
     {
-        "nombre": "Pestañas #12",
-        "precio": 800,
-        "categoria": "1",
-        "imagen": "img/ACT 1/pestanas 12 800.webp"
-    },
-    {
         "nombre": "Pestañas 10mm",
         "precio": 800,
         "categoria": "1",
@@ -164,13 +158,6 @@
         "precio": 400,
         "categoria": "2",
         "imagen": "img/Productos para unas/base coat nena.webp",
-        "descripcion": ""
-    },
-    {
-        "nombre": "Primer mili's 15ml",
-        "precio": 800,
-        "categoria": "2",
-        "imagen": "img/Productos para unas/primer mili.webp",
         "descripcion": ""
     },
     {
