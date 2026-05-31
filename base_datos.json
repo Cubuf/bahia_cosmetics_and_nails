@@ -1,77 +1,77 @@
 [
     {
         "nombre": "Delineador de plumón negro",
-        "precio": 300,
+        "precio": 0.55,
         "categoria": "1",
         "imagen": "img/ACT 5/delineador de plumon negro 300 (1).webp",
         "descripcion": ""
     },
     {
         "nombre": "Pestañas #14",
-        "precio": 800,
+        "precio": 1.40,
         "categoria": "1",
         "imagen": "img/ACT 5/pestanas 14 800 (1).webp",
         "descripcion": ""
     },
     {
         "nombre": "Juego de perfilador con 4 cuchillas",
-        "precio": 500,
+        "precio": 0.85,
         "categoria": "1",
         "imagen": "img/ACT 5/juego de perfilador con 4 cuchillas 500 (1).webp",
         "descripcion": ""
     },
     {
         "nombre": "Lápiz con sacapunta marrón y negro",
-        "precio": 250,
+        "precio": 0.45,
         "categoria": "1",
         "imagen": "img/ACT 5/lapiz con sacapunta marron y negro 250(1).webp",
         "descripcion": ""
     },
     {
         "nombre": "Plumón delineador de labios",
-        "precio": 300,
-        "categoria": "1",
+        "precio": 0.40,
+        "categoria": "6",
         "imagen": "img/cosmeticos/plumon de labios.webp",
         "descripcion": ""
     },
     {
         "nombre": "Base en barra",
-        "precio": 350,
+        "precio": 0.60,
         "categoria": "1",
         "imagen": "img/cosmeticos/base en barra.webp",
         "descripcion": ""
     },
     {
         "nombre": "Delineador de oso blanco y carmelita",
-        "precio": 300,
+        "precio": 0.55,
         "categoria": "1",
         "imagen": "img/cosmeticos/delineadores de osos.webp",
         "descripcion": ""
     },
     {
         "nombre": "Brillo labial liso sabor a frutas",
-        "precio": 400,
+        "precio": 0.70,
         "categoria": "1",
         "imagen": "img/cosmeticos/brillo transparente de labios.webp",
         "descripcion": ""
     },
     {
         "nombre": "Creyones mate",
-        "precio": 400,
+        "precio": 0.70,
         "categoria": "1",
         "imagen": "img/cosmeticos/crellones mate.webp",
         "descripcion": ""
     },
     {
         "nombre": "Lápiz con cepillo de cejas carmelita",
-        "precio": 300,
+        "precio": 0.55,
         "categoria": "1",
         "imagen": "img/cosmeticos/lapiz de ceja con sepillo.webp",
         "descripcion": ""
     },
     {
         "nombre": "Marbellin(no plástico)",
-        "precio": 450,
+        "precio": 0.80,
         "categoria": "1",
         "imagen": "img/cosmeticos/malbellin.webp",
         "descripcion": ""
@@ -79,97 +79,90 @@
     {
         "id": 9,
         "nombre": "Creyones Adas",
-        "precio": 400,
+        "precio": 0.70,
         "categoria": "1",
         "imagen": "img/cosmeticos/crellones hada.webp",
         "descripcion": ""
     },
     {
         "nombre": "Iluminador con brocha",
-        "precio": 600,
+        "precio": 1.05,
         "categoria": "1",
         "imagen": "img/cosmeticos/iluminadores con brocha.webp",
         "descripcion": ""
     },
     {
         "nombre": "Labiales",
-        "precio": 400,
+        "precio": 0.70,
         "categoria": "1",
         "imagen": "img/cosmeticos/labiales mate.webp",
         "descripcion": ""
     },
     {
         "nombre": "Mascarilla facial negra",
-        "precio": 300,
+        "precio": 0.55,
         "categoria": "1",
         "imagen": "img/cosmeticos/mascarilla facial.webp",
         "descripcion": ""
     },
     {
         "nombre": "Esponjas difuminadoras",
-        "precio": 300,
+        "precio": 0.55,
         "categoria": "1",
         "imagen": "img/cosmeticos/esponjas difuminadoras.webp",
         "descripcion": ""
     },
     {
         "nombre": "Brillo grueso de labio sabor miel",
-        "precio": 450,
+        "precio": 0.80,
         "categoria": "1",
         "imagen": "img/cosmeticos/brillo transparente de miel.webp",
         "descripcion": ""
     },
     {
         "nombre": "Bases con protector solar",
-        "precio": 550,
+        "precio": 1,
         "categoria": "1",
         "imagen": "img/cosmeticos/base con protector solar.webp",
         "descripcion": ""
     },
     {
-        "nombre": "Goma de pestañas pro 30ml",
-        "precio": 950,
-        "categoria": "1",
-        "imagen": "img/cosmeticos/goma de pestanas.webp",
-        "descripcion": ""
-    },
-    {
         "nombre": "Goma de pestañas",
-        "precio": 950,
+        "precio": 1.70,
         "categoria": "1",
         "imagen": "img/ACT 1/goma de pestanas 950.webp"
     },
     {
         "nombre": "Pestañas 10mm",
-        "precio": 800,
+        "precio": 1.40,
         "categoria": "1",
         "imagen": "img/ACT 1/pestanas 10mm 800.webp"
     },
 
     {
         "nombre": "Top coat nenas 10ml",
-        "precio": 500,
+        "precio": 0.90,
         "categoria": "2",
         "imagen": "img/Productos para unas/top coat nena.webp",
         "descripcion": ""
     },
     {
         "nombre": "Base Coat nena's 10ml(traer envase)",
-        "precio": 400,
+        "precio": 0.70,
         "categoria": "2",
         "imagen": "img/Productos para unas/base coat nena.webp",
         "descripcion": ""
     },
     {
         "nombre": "Pintura de gel Yuan Quan 15ml",
-        "precio": "400",
+        "precio": 0.70,
         "categoria": "6",
         "imagen": "img/Productos para unas/pintura de gel 15ml.webp",
         "descripcion": ""
     },
     {
         "nombre": "Pintura de gel WBS 10ml",
-        "precio": 390,
+        "precio": 0.70,
         "categoria": "6",
         "imagen": "img/Productos para unas/pintura de gel WBS.webp",
         "descripcion": ""
@@ -177,220 +170,220 @@
     {
         "nombre": "Pintura de gel mana Beauty(negra agotada)",
         "disponible": "Disponible",
-        "precio": 450,
+        "precio": 0.60,
         "categoria": "6",
         "imagen": "img/Productos para unas/pintura de gel 480.webp",
         "descripcion": ""
     },
     {
         "nombre": "Pintura de gel 10ml JR",
-        "precio": 440,
+        "precio": 0.75,
         "categoria": "6",
         "imagen": "img/Productos para unas/pintura de gel jr.webp",
         "descripcion": ""
     },
     {
         "nombre": "Pintura de gel JR 12ml",
-        "precio": 580,
+        "precio": 1,
         "categoria": "6",
         "imagen": "img/Productos para unas/pintura de gel jr 12ml.webp",
         "descripcion": ""
     },
     {
         "nombre": "Pintura natural 15ml(traer envase)",
-        "precio": 350,
+        "precio": 0.60,
         "categoria": "2",
         "imagen": "img/Productos para unas/pintura natural_01.webp",
         "descripcion": ""
     },
     {
         "nombre": "Pintura natural 15ml(traer envase)",
-        "precio": 350,
+        "precio": 0.60,
         "categoria": "2",
         "imagen": "img/Productos para unas/pintura naturral_02.webp",
         "descripcion": ""
     },
     {
         "nombre": "Pintura natural 15ml(traer envase)",
-        "precio": 350,
+        "precio": 0.60,
         "categoria": "2",
         "imagen": "img/Productos para unas/pintura natural_03.webp",
         "descripcion": ""
     },
     {
         "nombre": "Pintura natural 15ml(traer envase)",
-        "precio": 350,
+        "precio": 0.60,
         "categoria": "2",
         "imagen": "img/Productos para unas/pintura natural_04.webp",
         "descripcion": ""
     },
     {
         "nombre": "Pintura natural 15ml(traer envase)",
-        "precio": 350,
+        "precio": 0.60,
         "categoria": "2",
         "imagen": "img/Productos para unas/pintura natura 5.webp",
         "descripcion": ""
     },
     {
         "nombre": "Pintura natural 15ml(traer envase)",
-        "precio": 350,
+        "precio": 0.60,
         "categoria": "2",
         "imagen": "img/Productos para unas/pintura natural_06.webp",
         "descripcion": ""
     },
     {
         "nombre": "Pintura natural 15ml(traer envase)",
-        "precio": 350,
+        "precio": 0.60,
         "categoria": "2",
         "imagen": "img/Productos para unas/pintura natural 7.webp",
         "descripcion": ""
     },
     {
         "nombre": "Pintura natural 15ml(traer envase)",
-        "precio": 350,
+        "precio": 0.60,
         "categoria": "2",
         "imagen": "img/Productos para unas/pintura natural 8.webp",
         "descripcion": ""
     },
     {
         "nombre": "Pintura natural 15ml(traer envase)",
-        "precio": 350,
+        "precio": 0.60,
         "categoria": "2",
         "imagen": "img/Productos para unas/pintura natural 9.webp",
         "descripcion": ""
     },
     {
         "nombre": "Pintura natural 15ml(traer envase)",
-        "precio": 350,
+        "precio": 0.60,
         "categoria": "2",
         "imagen": "img/Productos para unas/pintura natural 10.webp",
         "descripcion": ""
     },
     {
         "nombre": "Pintura natural 15ml(traer envase)",
-        "precio": 350,
+        "precio": 0.60,
         "categoria": "2",
         "imagen": "img/Productos para unas/pintura natural 11.webp",
         "descripcion": ""
     },
     {
         "nombre": "Pintura natural 15ml(traer envase)",
-        "precio": 350,
+        "precio": 0.60,
         "categoria": "2",
         "imagen": "img/Productos para unas/pintura natural 12.webp",
         "descripcion": ""
     },
     {
         "nombre": "Pintura natural 15ml(traer envase)",
-        "precio": 350,
+        "precio": 0.60,
         "categoria": "2",
         "imagen": "img/Productos para unas/pintura natural 13.webp",
         "descripcion": ""
     },
     {
         "nombre": "Pintura natural 15ml(traer envase)",
-        "precio": 350,
+        "precio": 0.60,
         "categoria": "2",
         "imagen": "img/Productos para unas/pintura natural 14.webp",
         "descripcion": ""
     },
     {
         "nombre": "Pintura natural 15ml(traer envase)",
-        "precio": 350,
+        "precio": 0.60,
         "categoria": "2",
         "imagen": "img/Productos para unas/pintura natural 15.webp",
         "descripcion": ""
     },
     {
         "nombre": "Poligel yuan quan 15ml",
-        "precio": 550,
+        "precio": 0.95,
         "categoria": "2",
         "imagen": "img/Productos para unas/poligel 15 ml.webp",
         "descripcion": ""
     },
     {
         "nombre": "Poligel hiaxiaoxiao 30ml tonos nude",
-        "precio": 1200,
+        "precio": 2.10,
         "categoria": "2",
         "imagen": "img/Productos para unas/poligel 30 ml.webp",
         "descripcion": ""
     },
     {
         "nombre": "Polvo white(onza)|(traer envase)",
-        "precio": 400,
+        "precio": 0.70,
         "categoria": "2",
         "imagen": "img/Productos para unas/polvo chelly white.webp",
         "descripcion": ""
     },
     {
         "nombre": "Líquido Chelly secado medio/lento(onza)|(traer envase)",
-        "precio": 380,
+        "precio": 0.65,
         "categoria": "2",
         "imagen": "img/Productos para unas/liquido chelly.webp",
         "descripcion": ""
     },
     {
         "nombre": "Top Mate Terciopelo",
-        "precio": 850,
+        "precio": 1.50,
         "categoria": "2",
         "imagen": "img/ACT 3/top mate terciopelo 850.webp",
         "descripcion": ""
     },
     {
         "nombre": "Acetona 120ml(traer envase)",
-        "precio": 350,
+        "precio": 0.65,
         "categoria": "2",
         "imagen": "img/Productos para unas/acetona.webp",
         "descripcion": ""
     },
     {
         "nombre": "Brillo liso natural 10ml",
-        "precio": 250,
+        "precio": 0.45,
         "categoria": "2",
         "imagen": "img/Productos para unas/brillo liso.webp",
         "descripcion": ""
     },
     {
         "nombre": "Gel sólido xiaoya",
-        "precio": 750,
+        "precio": 1.30,
         "categoria": "2",
         "imagen": "img/herramientas/gel sólido 10 ml.webp",
         "descripcion": ""
     },
     {
         "nombre": "Gel de construcción clear",
-        "precio": 700,
+        "precio": 1.25,
         "categoria": "2",
         "imagen": "img/ACT 1/gel de construccion clear 700.webp"
     },
     {
         "nombre": "Polvo Chelly Clear(onza)|(traer envase)",
-        "precio": 400,
+        "precio": 0.70,
         "categoria": "2",
         "imagen": "img/Productos para unas/polvo chelly clear.webp"
     },
     {
         "nombre": "Polvo Chelly Cover nude(onza)|(traer envase)",
-        "precio": 400,
+        "precio": 0.70,
         "categoria": "2",
         "imagen": "img/Productos para unas/polvo chelly cover.webp"
     },
     {
         "nombre": "Polvo Chelly Medium Pink(onza)|(traer envase)",
-        "precio": 400,
+        "precio": 0.70,
         "categoria": "2",
         "imagen": "img/Productos para unas/color chelly pink.webp"
     },
     {
         "nombre": "Carving gel clear",
-        "precio": 650,
+        "precio": 1.15,
         "categoria": "2",
         "imagen": "img/ACT 3/carving gel clear 650.webp",
         "descripcion": ""
     },
     {
         "nombre": "Top Coat Miss cherry",
-        "precio": 1600,
+        "precio": 2.75,
         "categoria": "2",
         "imagen": "img/ACT 4/top coat micherry cristal 21 ml 1600.webp",
         "descripcion": ""
@@ -402,238 +395,238 @@
 
     {
         "nombre": "120 tips cofen extralargas transparentes",
-        "precio": 800,
+        "precio": 1.90,
         "categoria": "3",
         "imagen": "img/ACT 3/120 tips cofen extralargas transparentes 800.webp",
         "descripcion": ""
     },
     {
         "nombre": "Moldes esculturales(20)",
-        "precio": 100,
+        "precio": 0.20,
         "categoria": "3",
         "imagen": "img/herramientas/moldes cutural01.webp",
         "descripcion": ""
     },
     {
         "nombre": "Fresas de manicura rusa",
-        "precio": 150,
+        "precio": 0.25,
         "categoria": "3",
         "imagen": "img/herramientas/fresas de manicura rusa.webp",
         "descripcion": ""
     },
     {
         "nombre": "Limas bloques",
-        "precio": 250,
+        "precio": 0.45,
         "categoria": "3",
         "imagen": "img/herramientas/bloque.webp",
         "descripcion": ""
     },
     {
         "nombre": "Soft gel 500 tips",
-        "precio": 1900,
+        "precio": 3.30,
         "categoria": "3",
         "imagen": "img/herramientas/tips de sof gel.webp",
         "descripcion": ""
     },
     {
         "nombre": "Moldes de papel",
-        "precio": 10,
+        "precio": 0.20,
         "categoria": "3",
         "imagen": "img/herramientas/molde escultural.webp",
         "descripcion": ""
     },
     {
         "nombre": "Empujador de cutícula",
-        "precio": 400,
+        "precio": 0.70,
         "categoria": "3",
         "imagen": "img/herramientas/empujador de cuticulas.webp",
         "descripcion": ""
     },
     {
-        "nombre": "Punteros",
-        "precio": 150,
+        "nombre": "Punteros (individual)",
+        "precio": 0.25,
         "categoria": "3",
         "imagen": "img/herramientas/punteros.webp",
         "descripcion": ""
     },
     {
         "nombre": "Godette",
-        "precio": 350,
+        "precio": 0.60,
         "categoria": "3",
         "imagen": "img/herramientas/godette.webp",
         "descripcion": ""
     },
     {
         "nombre": "Pegamento de tubo blanco",
-        "precio": 110,
+        "precio": 0.20,
         "categoria": "3",
         "imagen": "img/herramientas/goma.webp",
         "descripcion": ""
     },
     {
         "nombre": "Anillos de decoración",
-        "precio": 200,
+        "precio": 0.35,
         "categoria": "3",
         "imagen": "img/herramientas/anillos.webp",
         "descripcion": ""
     },
     {
         "nombre": "Presillas de Poligel",
-        "precio": 80,
+        "precio": 0.15,
         "categoria": "3",
         "imagen": "img/herramientas/pinzas.webp",
         "descripcion": ""
     },
     {
         "nombre": "Placa para cuño metálica",
-        "precio": 800,
+        "precio": 1.40,
         "categoria": "3",
         "imagen": "img/herramientas/placa para cuno metalica.webp",
         "descripcion": ""
     },
     {
         "nombre": "Limas",
-        "precio": 200,
+        "precio": 0.35,
         "categoria": "3",
         "imagen": "img/herramientas/limas.webp",
         "descripcion": ""
     },
     {
         "nombre": "Limas",
-        "precio": 200,
+        "precio": 0.35,
         "categoria": "3",
         "imagen": "img/herramientas/lima01.webp",
         "descripcion": ""
     },
     {
         "nombre": "Lima 80/120",
-        "precio": 200,
+        "precio": 0.35,
         "categoria": "3",
         "imagen": "img/ACT 5/lima 80-120 200 (3).webp",
         "descripcion": ""
     },
     {
         "nombre": "Lima 100/80",
-        "precio": 200,
+        "precio": 0.35,
         "categoria": "3",
         "imagen": "img/ACT 5/lima 100-80 200 (3).webp",
         "descripcion": ""
     },
     {
         "nombre": "Muestrarios",
-        "precio": 800,
+        "precio": 1.40,
         "categoria": "3",
         "imagen": "img/herramientas/muestrarios.webp",
         "descripcion": ""
     },
     {
         "nombre": "Manteles de papel",
-        "precio": 100,
+        "precio": 0.20,
         "categoria": "3",
         "imagen": "img/herramientas/manteles.webp",
         "descripcion": ""
     },
     {
         "nombre": "Cepillos",
-        "precio": 300,
+        "precio": 0.55,
         "categoria": "3",
         "imagen": "img/herramientas/sepillo.webp",
         "descripcion": ""
     },
     {
         "nombre": "Fresas de cerámica",
-        "precio": 600,
+        "precio": 1.05,
         "categoria": "3",
         "imagen": "img/herramientas/fresa de seramica.webp",
         "descripcion": ""
     },
     {
         "nombre": "Cuños con una placa",
-        "precio": 450,
+        "precio": 0.80,
         "categoria": "3",
         "imagen": "img/herramientas/cunos con una placa.webp",
         "descripcion": ""
     },
     {
         "nombre": "Imán cuadrado",
-        "precio": 500,
+        "precio": 0.85,
         "categoria": "3",
         "imagen": "img/herramientas/iman.webp",
         "descripcion": ""
     },
     {
         "nombre": "Toallas antipelusas",
-        "precio": 1200,
+        "precio": 2.10,
         "categoria": "3",
         "imagen": "img/herramientas/toallas anti peluzas.webp",
         "descripcion": ""
     },
     {
         "nombre": "Bloque de toallas antipelusas",
-        "precio": 140,
+        "precio": 0.25,
         "categoria": "3",
         "imagen": "img/herramientas/toallas anti peluzas.webp",
         "descripcion": ""
     },
     {
         "nombre": "Keeper (pinzas reutilizables para retirar producto)",
-        "precio": 850,
+        "precio": 1.50,
         "categoria": "3",
         "imagen": "img/herramientas/pinzas de retiro.webp",
         "descripcion": ""
     },
     {
         "nombre": "Pozuelo de mano",
-        "precio": 700,
+        "precio": 1.20,
         "categoria": "3",
         "imagen": "img/herramientas/pozuelo de mano.webp",
         "descripcion": ""
     },
     {
         "nombre": "Moldes dual caja",
-        "precio": 1600,
+        "precio": 2.75,
         "categoria": "3",
         "imagen": "img/herramientas/moldes dual.webp",
         "descripcion": ""
     },
     {
         "nombre": "Moldes dual juego de 12",
-        "precio": 200,
+        "precio": 0.35,
         "categoria": "3",
         "imagen": "img/herramientas/moldes dual.webp",
         "descripcion": ""
     },
     {
         "nombre": "Esponjas difuminadoras",
-        "precio": 1700,
+        "precio": 2.95,
         "categoria": "3",
         "imagen": "img/herramientas/esponjas difuminadoras.webp",
         "descripcion": ""
     },
     {
         "nombre": "Limas Mana Beauty 80/80",
-        "precio": 200,
+        "precio": 0.35,
         "categoria": "3",
         "imagen": "img/ACT 3/limas mana beauty 80-80 200.webp",
         "descripcion": ""
     },
     {
         "nombre": "Guillotinas",
-        "precio": 850,
+        "precio": 1.50,
         "categoria": "3",
         "imagen": "img/herramientas/guillotina.webp",
         "descripcion": ""
     },
     {
         "nombre": "Palitos de naranjo",
-        "precio": 15,
+        "precio": "2x 0.05",
         "categoria": "3",
         "imagen": "img/herramientas/palitos de naranjo.webp",
         "descripcion": ""
     },
     {
         "nombre": "Goma de piedras",
-        "precio": 600,
+        "precio": 1.05,
         "categoria": "3",
         "imagen": "img/herramientas/goma de piedras.webp",
         "descripcion": ""
@@ -641,49 +634,49 @@
 
     {
         "nombre": "120 tips cofen extralargas",
-        "precio": 1000,
+        "precio": 1.75,
         "categoria": "3",
         "imagen": "img/ACT 1/120 tips cofen extralargas 1000.webp"
     },
     {
         "nombre": "120 tips extralargas estiletos",
-        "precio": 1100,
+        "precio": 1.90,
         "categoria": "3",
         "imagen": "img/ACT 1/120 tips extralargas estiletos 1100.webp"
     },
     {
         "nombre": "Alicates",
-        "precio": 1000,
+        "precio": 1.75,
         "categoria": "3",
         "imagen": "img/ACT 1/alicates 950.webp"
     },
     {
         "nombre": "Aplicadores",
-        "precio": 400,
+        "precio": 0.70,
         "categoria": "3",
         "imagen": "img/ACT 1/aplicadores 400.webp"
     },
     {
         "nombre": "Dispensadores",
-        "precio": 650,
+        "precio": 1.15,
         "categoria": "3",
         "imagen": "img/ACT 1/dispensador 650.webp"
     },
     {
         "nombre": "Piedra Pome",
-        "precio": 380,
+        "precio": 0.70,
         "categoria": "3",
         "imagen": "img/ACT 1/piedra pome 380.webp"
     },
     {
         "nombre": "Punteros de silicona (estuche)",
-        "precio": 1250,
+        "precio": 2.15,
         "categoria": "3",
         "imagen": "img/ACT 1/punteros de silicona 1250|250.webp"
     },
     {
         "nombre": "Punteros de silicona (individual)",
-        "precio": 250,
+        "precio": 0.45,
         "categoria": "3",
         "imagen": "img/ACT 1/punteros de silicona 1250|250.webp"
     },
@@ -693,45 +686,45 @@
 
     {
         "nombre": "Pincel de poligel",
-        "precio": 600,
+        "precio": 1.05,
         "categoria": "4",
         "imagen": "img/pinceles/pincel de poligel.webp",
         "descripcion": ""
     },
     {
         "nombre": "Pincel de relleno kalanzi #10",
-        "precio": 700,
+        "precio": 1.30,
         "categoria": "4",
         "imagen": "img/pinceles/pincel de relleno kalanzi.webp",
         "descripcion": ""
     },
     {
         "nombre": "Juego de pinceles de gel",
-        "precio": 800,
+        "precio": 1.40,
         "categoria": "4",
         "imagen": "img/ACT 1/juego de pinceles de gel 800.webp"
     },
     {
         "nombre": "Pincel liner juego (estuche)",
-        "precio": 700,
+        "precio": 1.20,
         "categoria": "4",
         "imagen": "img/ACT 1/pincel liner juego 700|240.webp"
     },
     {
         "nombre": "Pincel liner juego (individual)",
-        "precio": 240,
+        "precio": 0.45,
         "categoria": "4",
         "imagen": "img/ACT 1/pincel liner juego 700|240.webp"
     },
     {
         "nombre": "Pincel de relleno kalanzi #8",
-        "precio": 750,
+        "precio": 1.30,
         "categoria": "4",
         "imagen": "img/ACT 2/pincel de relleno kalanzi 8 700.webp"
     },
     {
         "nombre": "Pincel de relleno kalanzi #10",
-        "precio": 750,
+        "precio": 1.30,
         "categoria": "4",
         "imagen": "img/ACT 2/pincel de relleno kalanzi 10 700.webp"
     },
@@ -740,224 +733,203 @@
 
     {
         "nombre": "Cover de colores varios",
-        "precio": 300,
+        "precio": 0.55,
         "categoria": "5",
         "imagen": "img/efectos/cover.webp",
         "descripcion": ""
     },
     {
         "nombre": "Cover de colores varios",
-        "precio": 300,
+        "precio": 0.55,
         "categoria": "5",
         "imagen": "img/efectos/cover1.webp",
         "descripcion": ""
     },
     {
         "nombre": "Cover Pinky IVA 1 onza",
-        "precio": 350,
+        "precio": 0.65,
         "categoria": "6",
         "imagen": "img/efectos/cover pinky.webp",
         "descripcion": ""
     },
     {
         "nombre": "Piedras encapsulado",
-        "precio": 100,
+        "precio": 0.20,
         "categoria": "5",
         "imagen": "img/efectos/piedras de encapsular.webp",
         "descripcion": ""
     },
     {
         "nombre": "Pomos mini",
-        "precio": 100,
+        "precio": 0.20,
         "categoria": "5",
         "imagen": "img/efectos/pomos mini.webp",
         "descripcion": ""
     },
     {
         "nombre": "Cinta dorada y plateada",
-        "precio": 20,
+        "precio": 0.05,
         "categoria": "5",
         "imagen": "img/efectos/cinta.webp",
         "descripcion": ""
     },
     {
         "nombre": "Lazos",
-        "precio": 300,
+        "precio": 0.55,
         "categoria": "5",
         "imagen": "img/efectos/lazos pequenos.webp",
         "descripcion": ""
     },
     {
         "nombre": "Estuche corazón y flor",
-        "precio": 300,
+        "precio": 0.55,
         "categoria": "5",
         "imagen": "img/efectos/estuche corazon y flor.webp",
         "descripcion": ""
     },
     {
         "nombre": "Concha nácar",
-        "precio": 250,
+        "precio": 0.45,
         "categoria": "5",
         "imagen": "img/efectos/concha nacar.webp",
         "descripcion": ""
     },
     {
         "nombre": "Torres de pigmento",
-        "precio": 500,
+        "precio": 0.90,
         "categoria": "5",
         "imagen": "img/efectos/torres de pigmentos.webp",
         "descripcion": ""
     },
     {
         "nombre": "Stiquer agua (2 unidades)",
-        "precio": 100,
+        "precio": 0.20,
         "categoria": "5",
         "imagen": "img/efectos/stiker de agua.webp",
         "descripcion": ""
     },
     {
-        "nombre": "Stiquer agua (2 unidades)",
-        "precio": 100,
-        "categoria": "5",
-        "imagen": "img/efectos/stiker de agua1.webp",
-        "descripcion": ""
-    },
-    {
-        "nombre": "Stiquer agua (2 unidades)",
-        "precio": 100,
-        "categoria": "5",
-        "imagen": "img/efectos/stiker de agua2.webp",
-        "descripcion": ""
-    },
-    {
-        "nombre": "Stiquer agua (2 unidades)",
-        "precio": 100,
-        "categoria": "5",
-        "imagen": "img/efectos/stiker de agua3.webp",
-        "descripcion": ""
-    },
-    {
         "nombre": "Stiquer de corazones",
-        "precio": 200,
+        "precio": 0.35,
         "categoria": "5",
         "imagen": "img/efectos/stiker.webp",
         "descripcion": ""
     },
     {
-        "nombre": "Stiquer pequeños",
-        "precio": 100,
+        "nombre": "Stiquer pequeño",
+        "precio": 0.15,
         "categoria": "5",
         "imagen": "img/efectos/stiker2.webp",
         "descripcion": ""
     },
     {
-        "nombre": "Stiquer de diseños",
-        "precio": 200,
+        "nombre": "Stiquer de diseño",
+        "precio": 0.35,
         "categoria": "5",
         "imagen": "img/efectos/stiker3.webp",
         "descripcion": ""
     },
     {
         "nombre": "Flake",
-        "precio": 380,
+        "precio": 0.65,
         "categoria": "5",
         "imagen": "img/efectos/flake.webp",
         "descripcion": ""
     },
     {
         "nombre": "Lazos grandes",
-        "precio": 350,
+        "precio": 0.60,
         "categoria": "5",
         "imagen": "img/efectos/lazos grandes.webp",
         "descripcion": ""
     },
     {
         "nombre": "Papel foil",
-        "precio": 700,
+        "precio": 1.25,
         "categoria": "5",
         "imagen": "img/efectos/papel foil.webp",
         "descripcion": ""
     },
     {
         "nombre": "Estuche con 6 efectos de papel oro, azúcar y glitter",
-        "precio": 700,
+        "precio": 1.25,
         "categoria": "5",
         "imagen": "img/efectos/estuche de papel oro, azucar y gliter.webp",
         "descripcion": ""
     },
     {
         "nombre": "Estuche variado",
-        "precio": 600,
+        "precio": 1.05,
         "categoria": "5",
         "imagen": "img/efectos/estuche variado.webp",
         "descripcion": ""
     },
     {
         "nombre": "Estuche de 6 variados",
-        "precio": 200,
+        "precio": 2.00,
         "categoria": "5",
         "imagen": "img/efectos/estuches variados.webp",
         "descripcion": ""
     },
     {
         "nombre": "Spider gel negro(blanco agotado)",
-        "precio": 300,
+        "precio": 0.55,
         "categoria": "5",
         "imagen": "img/efectos/spider gel.webp",
         "descripcion": ""
     },
     {
         "nombre": "Joyería serpientes",
-        "precio": 450,
+        "precio": 0.80,
         "categoria": "5",
         "imagen": "img/efectos/serpientes.webp",
         "descripcion": ""
     },
     {
         "nombre": "Estuche de efecto azúcar (6 potes)",
-        "precio": 600,
+        "precio": 1.05,
         "categoria": "5",
         "imagen": "img/efectos/efecto azucar.webp",
         "descripcion": ""
     },
     {
         "nombre": "Efecto azúcar - glitter (6 potes)",
-        "precio": 700,
+        "precio": 1.25,
         "categoria": "5",
         "imagen": "img/efectos/estuche azucar y gliter.webp",
         "descripcion": ""
     },
     {
         "nombre": "Efecto papel de oro (grande)",
-        "precio": 400,
+        "precio": 0.70,
         "categoria": "5",
         "imagen": "img/efectos/papel de oro.webp",
         "descripcion": ""
     },
     {
         "nombre": "Efecto espejo",
-        "precio": 400,
+        "precio": 0.70,
         "categoria": "5",
         "imagen": "img/efectos/efecto espejo plateado.webp",
         "descripcion": ""
     },
     {
         "nombre": "Carrusel de dijes",
-        "precio": 650,
+        "precio": 1.15,
         "categoria": "5",
         "imagen": "img/efectos/carrusel de dijes.webp",
         "descripcion": ""
     },
     {
         "nombre": "Efecto dorado",
-        "precio": 350,
+        "precio": 0.60,
         "categoria": "5",
         "imagen": "img/ACT 3/efecto dorado 350.webp",
         "descripcion": ""
     },
     {
         "nombre": "Efecto plateado",
-        "precio": 350,
+        "precio": 0.60,
         "categoria": "5",
         "imagen": "img/ACT 3/efecto plateado 350.webp",
         "descripcion": ""
