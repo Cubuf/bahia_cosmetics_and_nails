@@ -7,6 +7,34 @@
         "descripcion": ""
     },
     {
+        "nombre": "Serum Facial 35ml",
+        "precio": 2.10,
+        "categoria": "1",
+        "imagen": "img/ACT 6/serum facial 35 ml 1 2.1.webp",
+        "descripcion": ""
+    },
+    {
+        "nombre": "Serum Facial 35ml",
+        "precio": 2.10,
+        "categoria": "1.00",
+        "imagen": "img/ACT 6/serum facial 35 ml 1 2.10.webp",
+        "descripcion": ""
+    },
+    {
+        "nombre": "Serum Facial 35ml",
+        "precio": 2.10,
+        "categoria": "1.00",
+        "imagen": "img/ACT 6/serum facial 35ml 1 2.1.webp",
+        "descripcion": ""
+    },
+    {
+        "nombre": "Serum Facial 35ml",
+        "precio": 2.10,
+        "categoria": "1.00",
+        "imagen": "img/ACT 6/serum facial 35ml 1 2.10.webp",
+        "descripcion": ""
+    },
+    {
         "nombre": "Pestañas #14",
         "precio": 1.40,
         "categoria": "1",
@@ -388,7 +416,34 @@
         "imagen": "img/ACT 4/top coat micherry cristal 21 ml 1600.webp",
         "descripcion": ""
     },
-
+    {
+        "nombre": "Pintura blanca natural 20ml",
+        "precio": 1.00,
+        "categoria": "2",
+        "imagen": "img/ACT 6/pintura blanca natural 20ml  2 1.00.webp",
+        "descripcion": ""
+    },
+    {
+        "nombre": "Pintura de gel",
+        "precio": 1.00,
+        "categoria": "2",
+        "imagen": "img/ACT 6/pintura de gel 2 1.00.webp",
+        "descripcion": ""
+    },
+    {
+        "nombre": "Pintura natural 20ml",
+        "precio": 1.00,
+        "categoria": "2",
+        "imagen": "img/ACT 6/pintura natural 20ml 2 1.00.webp",
+        "descripcion": ""
+    },
+    {
+        "nombre": "Pintura negra natural 20ml",
+        "precio": 0.85,
+        "categoria": "2",
+        "imagen": "img/ACT 6/pintura negra natural 20ml  2 0.85.webp",
+        "descripcion": ""
+    },
 
 
 
@@ -679,6 +734,12 @@
         "precio": 0.45,
         "categoria": "3",
         "imagen": "img/ACT 1/punteros de silicona 1250|250.webp"
+    },
+    {
+        "nombre": "Lija de pie",
+        "precio": 1.00,
+        "categoria": "3",
+        "imagen": "img/ACT 6/lija de pie 3 1.00.webp"
     },
 
 
