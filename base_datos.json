@@ -386,13 +386,6 @@
         "descripcion": ""
     },
     {
-        "nombre": "Líquido Chelly secado medio/lento(onza)|(traer envase)",
-        "precio": 0.65,
-        "categoria": "2",
-        "imagen": "img/Productos para unas/liquido chelly.webp",
-        "descripcion": ""
-    },
-    {
         "nombre": "Top Mate Terciopelo",
         "precio": 1.50,
         "categoria": "2",
@@ -470,13 +463,6 @@
         "precio": 1.00,
         "categoria": "2",
         "imagen": "img/ACT 6/pintura de gel 2 1.00.webp",
-        "descripcion": ""
-    },
-    {
-        "nombre": "Pintura natural 20ml",
-        "precio": 1.00,
-        "categoria": "2",
-        "imagen": "img/ACT 6/pintura natural 20ml 2 1.00.webp",
         "descripcion": ""
     },
     {
@@ -874,13 +860,6 @@
         "precio": 0.65,
         "categoria": "6",
         "imagen": "img/efectos/cover pinky.webp",
-        "descripcion": ""
-    },
-    {
-        "nombre": "Piedras encapsulado",
-        "precio": 0.20,
-        "categoria": "5",
-        "imagen": "img/efectos/piedras de encapsular.webp",
         "descripcion": ""
     },
     {
