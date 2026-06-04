@@ -472,6 +472,27 @@
         "imagen": "img/ACT 6/pintura negra natural 20ml  2 0.85.webp",
         "descripcion": ""
     },
+    {
+        "nombre": "Líquido chelly secado medio",
+        "precio": 0.65,
+        "categoria": "2",
+        "imagen": "img/ACT 8/liquido chelly secado medio 0.65.webp",
+        "descripcion": ""
+    },
+    {
+        "nombre": "Líquido desi secado medio rápido",
+        "precio": 0.65,
+        "categoria": "2",
+        "imagen": "img/ACT 8/liquido desi secado rapido 0.65.webp",
+        "descripcion": ""
+    },
+    {
+        "nombre": "Primer yuma 10ml",
+        "precio": 1.00,
+        "categoria": "2",
+        "imagen": "img/ACT 8/primer yuma 10ml 1.00.webp",
+        "descripcion": ""
+    },
 
 
 
