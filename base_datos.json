@@ -253,13 +253,6 @@
         "descripcion": ""
     },
     {
-        "nombre": "Pintura de gel JR 12ml",
-        "precio": 1,
-        "categoria": "6",
-        "imagen": "img/Productos para unas/pintura de gel jr 12ml.webp",
-        "descripcion": ""
-    },
-    {
         "nombre": "Pintura natural 15ml(traer envase)",
         "precio": 0.60,
         "categoria": "2",
@@ -722,13 +715,6 @@
         "descripcion": ""
     },
     {
-        "nombre": "Esponjas difuminadoras",
-        "precio": 2.95,
-        "categoria": "3",
-        "imagen": "img/herramientas/esponjas difuminadoras.webp",
-        "descripcion": ""
-    },
-    {
         "nombre": "Limas Mana Beauty 80/80",
         "precio": 0.35,
         "categoria": "3",
@@ -815,13 +801,6 @@
 
 
 
-    {
-        "nombre": "Pincel de poligel",
-        "precio": 1.05,
-        "categoria": "4",
-        "imagen": "img/pinceles/pincel de poligel.webp",
-        "descripcion": ""
-    },
     {
         "nombre": "Pincel de relleno kalanzi #10",
         "precio": 1.30,
