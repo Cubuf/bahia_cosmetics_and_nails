@@ -133,13 +133,6 @@
         "descripcion": ""
     },
     {
-        "nombre": "Lápiz con cepillo de cejas carmelita",
-        "precio": 0.55,
-        "categoria": "1",
-        "imagen": "img/cosmeticos/lapiz de ceja con sepillo.webp",
-        "descripcion": ""
-    },
-    {
         "nombre": "Marbellin(no plástico)",
         "precio": 0.80,
         "categoria": "1",
@@ -568,7 +561,7 @@
         "descripcion": ""
     },
     {
-        "nombre": "Placa para cuño metálica",
+        "nombre": "Placa metálica para cuño",
         "precio": 1.40,
         "categoria": "3",
         "imagen": "img/herramientas/placa para cuno metalica.webp",
@@ -579,13 +572,6 @@
         "precio": 0.35,
         "categoria": "3",
         "imagen": "img/herramientas/limas.webp",
-        "descripcion": ""
-    },
-    {
-        "nombre": "Balines",
-        "precio": 1.00,
-        "categoria": "3",
-        "imagen": "/home/cubuf/Escritorio/Página web (Copiar 2)/img/ACT 7/balines 3 1.00.webp",
         "descripcion": ""
     },
     {
@@ -899,13 +885,6 @@
         "descripcion": ""
     },
     {
-        "nombre": "Stiquer de corazones",
-        "precio": 0.35,
-        "categoria": "5",
-        "imagen": "img/efectos/stiker.webp",
-        "descripcion": ""
-    },
-    {
         "nombre": "Stiquer pequeño",
         "precio": 0.15,
         "categoria": "5",
@@ -1022,6 +1001,13 @@
         "precio": 0.60,
         "categoria": "5",
         "imagen": "img/ACT 3/efecto plateado 350.webp",
+        "descripcion": ""
+    },
+    {
+        "nombre": "Balines",
+        "precio": 1.00,
+        "categoria": "5",
+        "imagen": "img/ACT 7/balines 3 1.00.webp",
         "descripcion": ""
     }
 ]
