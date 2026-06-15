@@ -366,7 +366,7 @@
     },
     {
         "nombre": "Acetona 120ml(traer envase)",
-        "precio": 0.65,
+        "precio": 0.60,
         "categoria": "2",
         "imagen": "img/Productos para unas/acetona.webp",
         "descripcion": ""
@@ -393,19 +393,19 @@
     },
     {
         "nombre": "Polvo Chelly Clear(onza)|(traer envase)",
-        "precio": 0.70,
+        "precio": 0.65,
         "categoria": "2",
         "imagen": "img/Productos para unas/polvo chelly clear.webp"
     },
     {
         "nombre": "Polvo Chelly Cover nude(onza)|(traer envase)",
-        "precio": 0.70,
+        "precio": 0.65,
         "categoria": "2",
         "imagen": "img/Productos para unas/polvo chelly cover.webp"
     },
     {
         "nombre": "Polvo Chelly Medium Pink(onza)|(traer envase)",
-        "precio": 0.70,
+        "precio": 0.65,
         "categoria": "2",
         "imagen": "img/Productos para unas/color chelly pink.webp"
     },
@@ -446,14 +446,14 @@
     },
     {
         "nombre": "Líquido chelly secado medio",
-        "precio": 0.65,
+        "precio": 0.60,
         "categoria": "2",
         "imagen": "img/ACT 8/liquido chelly secado medio 0.65.webp",
         "descripcion": ""
     },
     {
         "nombre": "Líquido desi secado medio rápido",
-        "precio": 0.65,
+        "precio": 0.60,
         "categoria": "2",
         "imagen": "img/ACT 8/liquido desi secado rapido 0.65.webp",
         "descripcion": ""
@@ -463,6 +463,13 @@
         "precio": 1.00,
         "categoria": "2",
         "imagen": "img/ACT 8/primer yuma 10ml 1.00.webp",
+        "descripcion": ""
+    },
+    {
+        "nombre": "Builder Gel",
+        "precio": 2.25,
+        "categoria": "2",
+        "imagen": "img/ACT 9/builder gel 2 2.25.webp",
         "descripcion": ""
     },
 
@@ -534,7 +541,7 @@
     },
     {
         "nombre": "Pegamento de tubo blanco",
-        "precio": 0.20,
+        "precio": 0.15,
         "categoria": "3",
         "imagen": "img/herramientas/goma.webp",
         "descripcion": ""
@@ -544,13 +551,6 @@
         "precio": 0.35,
         "categoria": "3",
         "imagen": "img/herramientas/anillos.webp",
-        "descripcion": ""
-    },
-    {
-        "nombre": "Presillas de Poligel",
-        "precio": 0.15,
-        "categoria": "3",
-        "imagen": "img/herramientas/pinzas.webp",
         "descripcion": ""
     },
     {
