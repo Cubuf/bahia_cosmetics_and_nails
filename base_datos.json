@@ -190,12 +190,6 @@
         "descripcion": ""
     },
     {
-        "nombre": "Goma de pestañas",
-        "precio": 1.70,
-        "categoria": "1",
-        "imagen": "img/ACT 1/goma de pestanas 950.webp"
-    },
-    {
         "nombre": "Pestañas 10mm",
         "precio": 1.40,
         "categoria": "1",
@@ -561,20 +555,6 @@
         "descripcion": ""
     },
     {
-        "nombre": "Limas",
-        "precio": 0.35,
-        "categoria": "3",
-        "imagen": "img/herramientas/limas.webp",
-        "descripcion": ""
-    },
-    {
-        "nombre": "Limas",
-        "precio": 0.35,
-        "categoria": "3",
-        "imagen": "img/herramientas/lima01.webp",
-        "descripcion": ""
-    },
-    {
         "nombre": "Lima 80/120",
         "precio": 0.35,
         "categoria": "3",
@@ -586,6 +566,13 @@
         "precio": 0.35,
         "categoria": "3",
         "imagen": "img/ACT 5/lima 100-80 200 (3).webp",
+        "descripcion": ""
+    },
+    {
+        "nombre": "Limas Mana Beauty 80/80",
+        "precio": 0.35,
+        "categoria": "3",
+        "imagen": "img/ACT 3/limas mana beauty 80-80 200.webp",
         "descripcion": ""
     },
     {
@@ -684,13 +671,6 @@
         "precio": 0.35,
         "categoria": "3",
         "imagen": "img/herramientas/moldes dual.webp",
-        "descripcion": ""
-    },
-    {
-        "nombre": "Limas Mana Beauty 80/80",
-        "precio": 0.35,
-        "categoria": "3",
-        "imagen": "img/ACT 3/limas mana beauty 80-80 200.webp",
         "descripcion": ""
     },
     {
