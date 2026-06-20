@@ -439,13 +439,6 @@
         "descripcion": ""
     },
     {
-        "nombre": "Líquido chelly secado medio",
-        "precio": 0.60,
-        "categoria": "2",
-        "imagen": "img/ACT 8/liquido chelly secado medio 0.65.webp",
-        "descripcion": ""
-    },
-    {
         "nombre": "Líquido desi secado medio rápido",
         "precio": 0.60,
         "categoria": "2",
@@ -496,13 +489,6 @@
         "precio": 0.45,
         "categoria": "3",
         "imagen": "img/herramientas/bloque.webp",
-        "descripcion": ""
-    },
-    {
-        "nombre": "Soft gel 500 tips",
-        "precio": 3.30,
-        "categoria": "3",
-        "imagen": "img/herramientas/tips de sof gel.webp",
         "descripcion": ""
     },
     {
