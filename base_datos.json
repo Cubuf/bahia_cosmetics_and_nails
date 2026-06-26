@@ -365,22 +365,10 @@
         "imagen": "img/ACT 1/gel de construccion clear 700.webp"
     },
     {
-        "nombre": "Polvo Chelly Clear(onza)|(traer envase)",
-        "precio": 0.65,
-        "categoria": "2",
-        "imagen": "img/Productos para unas/polvo chelly clear.webp"
-    },
-    {
         "nombre": "Polvo Chelly Cover nude(onza)|(traer envase)",
         "precio": 0.65,
         "categoria": "2",
         "imagen": "img/Productos para unas/polvo chelly cover.webp"
-    },
-    {
-        "nombre": "Polvo Chelly Medium Pink(onza)|(traer envase)",
-        "precio": 0.65,
-        "categoria": "2",
-        "imagen": "img/Productos para unas/color chelly pink.webp"
     },
     {
         "nombre": "Carving gel clear",
