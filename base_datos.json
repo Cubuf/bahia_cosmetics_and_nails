@@ -317,7 +317,7 @@
         "descripcion": ""
     },
     {
-        "nombre": "Poligel hiaxiaoxiao 30ml tonos nude",
+        "nombre": "Poligel hiaxiaoxiao 30ml tonos nude (número 1 disponible)",
         "precio": 2.10,
         "categoria": "2",
         "imagen": "img/Productos para unas/poligel 30 ml.webp",
@@ -389,13 +389,6 @@
         "precio": 1.00,
         "categoria": "2",
         "imagen": "img/ACT 6/pintura blanca natural 20ml  2 1.00.webp",
-        "descripcion": ""
-    },
-    {
-        "nombre": "Pintura de gel",
-        "precio": 1.00,
-        "categoria": "2",
-        "imagen": "img/ACT 6/pintura de gel 2 1.00.webp",
         "descripcion": ""
     },
     {
@@ -695,12 +688,6 @@
         "precio": 0.45,
         "categoria": "3",
         "imagen": "img/ACT 1/punteros de silicona 1250|250.webp"
-    },
-    {
-        "nombre": "Lija de pie",
-        "precio": 1.00,
-        "categoria": "3",
-        "imagen": "img/ACT 6/lija de pie 3 1.00.webp"
     },
 
 
