@@ -190,25 +190,11 @@
         "descripcion": ""
     },
     {
-        "nombre": "Pintura de gel Yuan Quan 15ml",
-        "precio": 0.70,
-        "categoria": "6",
-        "imagen": "img/Productos para unas/pintura de gel 15ml.webp",
-        "descripcion": ""
-    },
-    {
         "nombre": "Pintura de gel mana Beauty(negra agotada)",
         "disponible": "Disponible",
         "precio": 0.60,
         "categoria": "6",
         "imagen": "img/Productos para unas/pintura de gel 480.webp",
-        "descripcion": ""
-    },
-    {
-        "nombre": "Pintura de gel 10ml JR",
-        "precio": 0.75,
-        "categoria": "6",
-        "imagen": "img/Productos para unas/pintura de gel jr.webp",
         "descripcion": ""
     },
     {
