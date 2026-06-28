@@ -311,7 +311,7 @@
     },
     {
         "nombre": "Polvo white(onza)|(traer envase)",
-        "precio": 0.65,
+        "precio": 0.70,
         "categoria": "2",
         "imagen": "img/Productos para unas/polvo chelly white.webp",
         "descripcion": ""
@@ -325,7 +325,7 @@
     },
     {
         "nombre": "Acetona 120ml(traer envase)",
-        "precio": 0.60,
+        "precio": 0.65,
         "categoria": "2",
         "imagen": "img/Productos para unas/acetona.webp",
         "descripcion": ""
@@ -352,7 +352,7 @@
     },
     {
         "nombre": "Polvo Chelly Cover nude(onza)|(traer envase)",
-        "precio": 0.65,
+        "precio": 0.70,
         "categoria": "2",
         "imagen": "img/Productos para unas/polvo chelly cover.webp"
     },
@@ -386,7 +386,7 @@
     },
     {
         "nombre": "Líquido desi secado medio rápido",
-        "precio": 0.60,
+        "precio": 0.65,
         "categoria": "2",
         "imagen": "img/ACT 8/liquido desi secado rapido 0.65.webp",
         "descripcion": ""
@@ -526,13 +526,6 @@
         "precio": 1.40,
         "categoria": "3",
         "imagen": "img/herramientas/muestrarios.webp",
-        "descripcion": ""
-    },
-    {
-        "nombre": "Manteles de papel",
-        "precio": 0.20,
-        "categoria": "3",
-        "imagen": "img/herramientas/manteles.webp",
         "descripcion": ""
     },
     {
