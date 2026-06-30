@@ -371,13 +371,6 @@
         "descripcion": ""
     },
     {
-        "nombre": "Top Coat Miss cherry",
-        "precio": 2.75,
-        "categoria": "2",
-        "imagen": "img/ACT 4/top coat micherry cristal 21 ml 1600.webp",
-        "descripcion": ""
-    },
-    {
         "nombre": "Pintura blanca natural 20ml",
         "precio": 1.00,
         "categoria": "2",
@@ -714,13 +707,13 @@
         "nombre": "Pincel de relleno #8",
         "precio": 1.30,
         "categoria": "4",
-        "imagen": "img/ACT 10/pincel de relleno #8.webp"
+        "imagen": "img/ACT 10/pincel de relleno 8.webp"
     },
     {
         "nombre": "Pincel de relleno #10",
         "precio": 1.30,
         "categoria": "4",
-        "imagen": "img/ACT 10/pincel de relleno #10.webp"
+        "imagen": "img/ACT 10/pincel de relleno 10.webp"
     },
 
 
