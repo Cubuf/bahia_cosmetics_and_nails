@@ -205,6 +205,13 @@
         "descripcion": ""
     },
     {
+        "nombre": "Ruber Cristal",
+        "precio": 3.00,
+        "categoria": "2",
+        "imagen": "img/ACT 10/Ruber cristal 3.00.webp",
+        "descripcion": ""
+    },
+    {
         "nombre": "Pintura natural 15ml(traer envase)",
         "precio": 0.60,
         "categoria": "2",
@@ -382,13 +389,6 @@
         "precio": 0.85,
         "categoria": "2",
         "imagen": "img/ACT 6/pintura negra natural 20ml  2 0.85.webp",
-        "descripcion": ""
-    },
-    {
-        "nombre": "Líquido desi secado medio rápido",
-        "precio": 0.65,
-        "categoria": "2",
-        "imagen": "img/ACT 8/liquido desi secado rapido 0.65.webp",
         "descripcion": ""
     },
     {
@@ -585,6 +585,13 @@
         "descripcion": ""
     },
     {
+        "nombre": "Aceite de cutícula",
+        "precio": 1.00,
+        "categoria": "3",
+        "imagen": "img/ACT 10/aceite de cuticula 1.00.webp",
+        "descripcion": ""
+    },
+    {
         "nombre": "Moldes dual caja",
         "precio": 2.75,
         "categoria": "3",
@@ -702,6 +709,18 @@
         "precio": 1.30,
         "categoria": "4",
         "imagen": "img/ACT 2/pincel de relleno kalanzi 10 700.webp"
+    },
+    {
+        "nombre": "Pincel de relleno #8",
+        "precio": 1.30,
+        "categoria": "4",
+        "imagen": "img/ACT 10/pincel de relleno #8.webp"
+    },
+    {
+        "nombre": "Pincel de relleno #10",
+        "precio": 1.30,
+        "categoria": "4",
+        "imagen": "img/ACT 10/pincel de relleno #10.webp"
     },
 
 
