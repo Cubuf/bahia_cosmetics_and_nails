@@ -673,13 +673,6 @@
 
 
     {
-        "nombre": "Pincel de relleno kalanzi #10",
-        "precio": 1.30,
-        "categoria": "4",
-        "imagen": "img/pinceles/pincel de relleno kalanzi.webp",
-        "descripcion": ""
-    },
-    {
         "nombre": "Juego de pinceles de gel",
         "precio": 1.40,
         "categoria": "4",
@@ -696,12 +689,6 @@
         "precio": 0.45,
         "categoria": "4",
         "imagen": "img/ACT 1/pincel liner juego 700|240.webp"
-    },
-    {
-        "nombre": "Pincel de relleno kalanzi #10",
-        "precio": 1.30,
-        "categoria": "4",
-        "imagen": "img/ACT 2/pincel de relleno kalanzi 10 700.webp"
     },
     {
         "nombre": "Pincel de relleno #8",
@@ -821,13 +808,6 @@
         "precio": 1.25,
         "categoria": "5",
         "imagen": "img/efectos/papel foil.webp",
-        "descripcion": ""
-    },
-    {
-        "nombre": "Estuche con 6 efectos de papel oro, azúcar y glitter",
-        "precio": 1.25,
-        "categoria": "5",
-        "imagen": "img/efectos/estuche de papel oro, azucar y gliter.webp",
         "descripcion": ""
     },
     {
