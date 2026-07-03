@@ -364,13 +364,6 @@
         "imagen": "img/Productos para unas/polvo chelly cover.webp"
     },
     {
-        "nombre": "Carving gel clear",
-        "precio": 1.15,
-        "categoria": "2",
-        "imagen": "img/ACT 3/carving gel clear 650.webp",
-        "descripcion": ""
-    },
-    {
         "nombre": "Pintura blanca natural 20ml",
         "precio": 1.00,
         "categoria": "2",
@@ -398,6 +391,49 @@
         "imagen": "img/ACT 9/builder gel 2 2.25.webp",
         "descripcion": ""
     },
+    {
+        "nombre": "Líquido D'Rose secado medio",
+        "precio": 0.65,
+        "categoria": "2",
+        "imagen": "img/ACT 11/liquido D'Rose secado medio 0.65.webp",
+        "descripcion": ""
+    },
+    {
+        "nombre": "Pintura natural con efecto espejo 15ml",
+        "precio": 0.60,
+        "categoria": "2",
+        "imagen": "img/ACT 11/Pintura natural con efecto espejo 0.60 15ml.webp",
+        "descripcion": ""
+    },
+    {
+        "nombre": "Pintura natural con efecto espejo 15ml",
+        "precio": 0.60,
+        "categoria": "2",
+        "imagen": "img/ACT 11/pintura natural con efecto espejo2 0.60 15ml.webp",
+        "descripcion": ""
+    },
+    {
+        "nombre": "Pintural natural con efecto aurora 15ml",
+        "precio": 0.60,
+        "categoria": "2",
+        "imagen": "img/ACT 11/Pintura natural efecto aurora 0.60.webp",
+        "descripcion": ""
+    },
+    {
+        "nombre": "Polvo clear D'Rose",
+        "precio": 0.70,
+        "categoria": "2",
+        "imagen": "img/ACT 11/Polvo clear D'Rose 0.70.webp",
+        "descripcion": ""
+    },
+    {
+        "nombre": "Polvo rosa traslucido D'Rose",
+        "precio": 0.70,
+        "categoria": "2",
+        "imagen": "img/ACT 11/Polvo rosa traslucido D'Rose 0.70.webp",
+        "descripcion": ""
+    },
+
 
 
 
