@@ -112,13 +112,6 @@
         "descripcion": ""
     },
     {
-        "nombre": "Creyones mate",
-        "precio": 0.70,
-        "categoria": "1",
-        "imagen": "img/cosmeticos/crellones mate.webp",
-        "descripcion": ""
-    },
-    {
         "nombre": "Marbellin(no plástico)",
         "precio": 0.80,
         "categoria": "1",
@@ -159,13 +152,6 @@
         "precio": 0.55,
         "categoria": "1",
         "imagen": "img/cosmeticos/esponjas difuminadoras.webp",
-        "descripcion": ""
-    },
-    {
-        "nombre": "Brillo grueso de labio sabor miel",
-        "precio": 0.80,
-        "categoria": "1",
-        "imagen": "img/cosmeticos/brillo transparente de miel.webp",
         "descripcion": ""
     },
     {
@@ -310,13 +296,6 @@
         "descripcion": ""
     },
     {
-        "nombre": "Poligel hiaxiaoxiao 30ml tonos nude (número 1 disponible)",
-        "precio": 2.10,
-        "categoria": "2",
-        "imagen": "img/Productos para unas/poligel 30 ml.webp",
-        "descripcion": ""
-    },
-    {
         "nombre": "Polvo white(onza)|(traer envase)",
         "precio": 0.70,
         "categoria": "2",
@@ -356,12 +335,6 @@
         "precio": 1.25,
         "categoria": "2",
         "imagen": "img/ACT 1/gel de construccion clear 700.webp"
-    },
-    {
-        "nombre": "Polvo Chelly Cover nude(onza)|(traer envase)",
-        "precio": 0.70,
-        "categoria": "2",
-        "imagen": "img/Productos para unas/polvo chelly cover.webp"
     },
     {
         "nombre": "Pintura blanca natural 20ml",
