@@ -413,7 +413,7 @@
 
     {
         "nombre": "120 tips cofen extralargas transparentes",
-        "precio": 1.90,
+        "precio": 1.40,
         "categoria": "3",
         "imagen": "img/ACT 3/120 tips cofen extralargas transparentes 800.webp",
         "descripcion": ""
@@ -634,12 +634,6 @@
         "precio": 1.75,
         "categoria": "3",
         "imagen": "img/ACT 1/120 tips cofen extralargas 1000.webp"
-    },
-    {
-        "nombre": "120 tips extralargas estiletos",
-        "precio": 1.90,
-        "categoria": "3",
-        "imagen": "img/ACT 1/120 tips extralargas estiletos 1100.webp"
     },
     {
         "nombre": "Alicates",
