@@ -2,21 +2,21 @@
     {
         "nombre": "Delineador de plumón negro",
         "precio": 0.55,
-        "categoria": "1",
+        "categoria": "6",
         "imagen": "img/ACT 5/delineador de plumon negro 300 (1).webp",
         "descripcion": ""
     },
     {
         "nombre": "Pigmento de cejas semipermanente marrón oscuro",
         "precio": 2.00,
-        "categoria": "1",
+        "categoria": "6",
         "imagen": "img/ACT 7/pigmento de cejas semipermanente marron oscuro 1 2.00.webp",
         "descripcion": ""
     },
     {
         "nombre": "Shampoo de pestañas",
         "precio": 3.50,
-        "categoria": "1",
+        "categoria": "6",
         "imagen": "img/ACT 7/shampoo de pestanas 1 3.50.webp",
         "descripcion": ""
     },
@@ -889,5 +889,161 @@
         "categoria": "5",
         "imagen": "img/ACT 7/balines 3 1.00.webp",
         "descripcion": ""
+    },
+    {
+        "nombre": "Blusa talla LG",
+        "precio": 2.0,
+        "categoria": "7",
+        "imagen": "img/Varios/2blusa nueva talla lg 2.0.webp"
+    },
+    {
+        "nombre": "Tenis de uso #38",
+        "precio": 3.0,
+        "categoria": "7",
+        "imagen":"img/Varios/2tenis de uso 38 3.00.webp"
+    },
+    {
+        "nombre": "Trusa de señora talla OXL",
+        "precio":3.0,
+        "categoria": "7",
+        "imagen": "img/Varios/2trusa de senora talla oxl nueva 3.0.webp"
+    },
+    {
+        "nombre": "Ajustador",
+        "precio": 1.0,
+        "categoria": "7",
+        "imagen": "img/Varios/3ajustador nuevo 1.0.webp"
+    },
+    {
+        "nombre": "Tenis de uso #38",
+        "precio": 3.0,
+        "categoria": "7",
+        "imagen": "img/Varios/3tenis de uso 38 3.00.webp"
+    },
+    {
+        "nombre": "Ajustador",
+        "precio": 1.0,
+        "categoria": "7",
+        "imagen": "img/Varios/ajustador 1.0.webp"
+    },
+    {
+        "nombre": "Ajustador",
+        "precio": 1.0,
+        "categoria": "7",
+        "imagen": "img/Varios/ajustador verde nuevo1.0.webp"
+    },
+    {
+        "nombre": "Blusa de mujer talla XL",
+        "precio": 0.5,
+        "categoria": "7",
+        "imagen": "img/Varios/blusa de mujer talla xl 0.5.webp"
+    },
+    {
+        "nombre": "Blusa talla XL",
+        "precio": 2.0,
+        "categoria": "7",
+        "imagen": "img/Varios/blusa nueva talla xl 2.0.webp"
+    },
+    {
+        "nombre": "Blusa talla XL",
+        "precio": 0.5,
+        "categoria": "7",
+        "imagen": "img/Varios/blusa xl 0.50.webp"
+    },
+    {
+        "nombre": "Bolso",
+        "precio": 3.0,
+        "categoria": "7",
+        "imagen": "img/Varios/bolso nuevo 3.0.webp"
+    },
+    {
+        "nombre": "Cuñas de mujer de uso #38",
+        "precio": 3.0,
+        "categoria": "7",
+        "imagen":" img/Varios/cunas de mujer de uso 38 3.00.webp"
+    },
+    {
+        "nombre": "Enguatada de playa de hombre talla XXL",
+        "precio": 2.5,
+        "categoria": "7",
+        "imagen": "img/Varios/enguatada de playa de hombre talla xxl 2.50.webp"
+    },
+    {
+        "nombre": "Ganchos",
+        "precio": 1.0,
+        "categoria": "7",
+        "imagen": "img/Varios/ganchos 1.0.webp"
+    },
+    {
+        "nombre": "Juego de bikini talla M",
+        "precio": 3.0,
+        "categoria": "7",
+        "imagen": "img/Varios/juego de bikini 3.0 nuevo talla m.webp"
+    },
+    {
+        "nombre": "Pantalones de mujer talla L",
+        "precio": 3.0,
+        "categoria": "7",
+        "imagen": "img/Varios/pantaloneta nueva de mujer talla l 3.0.webp"
+    },
+    {
+        "nombre": "Saya talla M",
+        "precio": 2.5,
+        "categoria": "7",
+        "imagen": "img/Varios/saya talla m 2.50.webp"
+    },
+    {
+        "nombre": "Tenis de playa #38",
+        "precio": 4.0,
+        "categoria": "7",
+        "imagen": "img/Varios/tenis de playa nuevos 38 4.0.webp"
+    },
+    {
+        "nombre": "Tenis de uso #38",
+        "precio": 3.0,
+        "categoria": "7",
+        "imagen": "img/Varios/tenis de uso 38 3.00.webp"
+    },
+    {
+        "nombre": "Trusa de mujer talla G",
+        "precio": 3.0,
+        "categoria": "7",
+        "imagen": "img/Varios/trusa de mujer talla g.webp"
+    },
+    {
+        "nombre": "Trusa talla XL",
+        "precio": 3.0,
+        "categoria": "7",
+        "imagen": "img/Varios/trusa de senora nueva 3.0 talla xl.webp"
+    },
+    {
+        "nombre": "Trusa mono talla OXL",
+        "precio": 3.0,
+        "categoria": "7",
+        "imagen": "img/Varios/trusa mono 3.0 talla oxl.webp"
+    },
+    {
+        "nombre": "Trusa talla XL",
+        "precio": 3.0,
+        "categoria": "7",
+        "imagen": "img/Varios/trusa nueva  3.0 talla xl.webp"
+    },
+    {
+        "nombre": "Vestido talla 1XL",
+        "precio": 4,
+        "categoria": "7",
+        "imagen": "img/Varios/vestido nuevo 3.50 talla 1xl.webp"
+    },
+    {
+        "nombre": "Vestido nuevo talla XL",
+        "precio": 4.0,
+        "categoria": "7",
+        "imagen": "img/Varios/vestido nuevo 4.0 xl.webp"
+    },
+    {
+        "nombre": "Zapatos de mujer nuevos #38",
+        "precio": 10.0,
+        "categoria": "7",
+        "imagen": "img/Varios/zapatos de mujer nuevos 38 10.0.webp"
     }
 ]
