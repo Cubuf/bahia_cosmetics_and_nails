@@ -3,7 +3,8 @@ const categorias = {
   "2": "Productos de uñas",
   "3": "Herramientas",
   "4": "Pinceles",
-  "5": "Efectos"
+  "5": "Efectos",
+  "6": "Rebajas"
 }
 
 async function cargar() {
@@ -35,7 +36,7 @@ function mostrar(lista) {
     card.innerHTML = `
       <img src="${producto.imagen}" alt="${producto.nombre}">
       <h4>${producto.nombre}</h4>
-      <p class="precio">Precio: $${producto.precio}</p>
+      <p class="precio">Precio: ${producto.precio}</p>
       <p class="categ">${nombreCateg}</p>
     `
     contenedor.appendChild(card)
