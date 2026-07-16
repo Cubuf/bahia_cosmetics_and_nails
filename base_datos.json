@@ -161,6 +161,11 @@
         "imagen": "img/cosmeticos/base con protector solar.webp",
         "descripcion": ""
     },
+
+
+
+
+
     {
         "nombre": "Top coat nenas 10ml",
         "precio": 0.90,
@@ -289,13 +294,6 @@
         "descripcion": ""
     },
     {
-        "nombre": "Poligel yuan quan 15ml",
-        "precio": 0.95,
-        "categoria": "2",
-        "imagen": "img/Productos para unas/poligel 15 ml.webp",
-        "descripcion": ""
-    },
-    {
         "nombre": "Polvo white(onza)|(traer envase)",
         "precio": 0.70,
         "categoria": "2",
@@ -348,13 +346,6 @@
         "precio": 0.85,
         "categoria": "2",
         "imagen": "img/ACT 6/pintura negra natural 20ml  2 0.85.webp",
-        "descripcion": ""
-    },
-    {
-        "nombre": "Primer yuma 10ml",
-        "precio": 1.00,
-        "categoria": "2",
-        "imagen": "img/ACT 8/primer yuma 10ml 1.00.webp",
         "descripcion": ""
     },
     {
@@ -897,40 +888,10 @@
         "imagen": "img/Varios/2blusa nueva talla lg 2.0.webp"
     },
     {
-        "nombre": "Tenis de uso #38",
-        "precio": 3.0,
-        "categoria": "7",
-        "imagen":"img/Varios/2tenis de uso 38 3.00.webp"
-    },
-    {
         "nombre": "Trusa de señora talla OXL",
         "precio":3.0,
         "categoria": "7",
         "imagen": "img/Varios/2trusa de senora talla oxl nueva 3.0.webp"
-    },
-    {
-        "nombre": "Ajustador",
-        "precio": 1.0,
-        "categoria": "7",
-        "imagen": "img/Varios/3ajustador nuevo 1.0.webp"
-    },
-    {
-        "nombre": "Tenis de uso #38",
-        "precio": 3.0,
-        "categoria": "7",
-        "imagen": "img/Varios/3tenis de uso 38 3.00.webp"
-    },
-    {
-        "nombre": "Ajustador",
-        "precio": 1.0,
-        "categoria": "7",
-        "imagen": "img/Varios/ajustador 1.0.webp"
-    },
-    {
-        "nombre": "Ajustador",
-        "precio": 1.0,
-        "categoria": "7",
-        "imagen": "img/Varios/ajustador verde nuevo1.0.webp"
     },
     {
         "nombre": "Blusa de mujer talla XL",
@@ -955,12 +916,6 @@
         "precio": 3.0,
         "categoria": "7",
         "imagen": "img/Varios/bolso nuevo 3.0.webp"
-    },
-    {
-        "nombre": "Cuñas de mujer de uso #38",
-        "precio": 3.0,
-        "categoria": "7",
-        "imagen":" img/Varios/cunas de mujer de uso 38 3.00.webp"
     },
     {
         "nombre": "Enguatada de playa de hombre talla XXL",
