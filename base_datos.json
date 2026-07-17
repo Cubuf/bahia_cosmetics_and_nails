@@ -930,12 +930,6 @@
         "imagen": "img/Varios/ganchos 1.0.webp"
     },
     {
-        "nombre": "Juego de bikini talla M",
-        "precio": 3.0,
-        "categoria": "7",
-        "imagen": "img/Varios/juego de bikini 3.0 nuevo talla m.webp"
-    },
-    {
         "nombre": "Pantalones de mujer talla L",
         "precio": 3.0,
         "categoria": "7",
@@ -948,28 +942,10 @@
         "imagen": "img/Varios/saya talla m 2.50.webp"
     },
     {
-        "nombre": "Tenis de playa #38",
-        "precio": 4.0,
-        "categoria": "7",
-        "imagen": "img/Varios/tenis de playa nuevos 38 4.0.webp"
-    },
-    {
         "nombre": "Tenis de uso #38",
         "precio": 3.0,
         "categoria": "7",
         "imagen": "img/Varios/tenis de uso 38 3.00.webp"
-    },
-    {
-        "nombre": "Trusa de mujer talla G",
-        "precio": 3.0,
-        "categoria": "7",
-        "imagen": "img/Varios/trusa de mujer talla g.webp"
-    },
-    {
-        "nombre": "Trusa talla XL",
-        "precio": 3.0,
-        "categoria": "7",
-        "imagen": "img/Varios/trusa de senora nueva 3.0 talla xl.webp"
     },
     {
         "nombre": "Trusa mono talla OXL",
@@ -982,12 +958,6 @@
         "precio": 3.0,
         "categoria": "7",
         "imagen": "img/Varios/trusa nueva  3.0 talla xl.webp"
-    },
-    {
-        "nombre": "Vestido talla 1XL",
-        "precio": 4,
-        "categoria": "7",
-        "imagen": "img/Varios/vestido nuevo 3.50 talla 1xl.webp"
     },
     {
         "nombre": "Vestido nuevo talla XL",
