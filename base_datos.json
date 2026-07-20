@@ -308,13 +308,6 @@
         "descripcion": ""
     },
     {
-        "nombre": "Acetona 120ml(traer envase)",
-        "precio": 0.65,
-        "categoria": "2",
-        "imagen": "img/Productos para unas/acetona.webp",
-        "descripcion": ""
-    },
-    {
         "nombre": "Brillo liso natural 10ml",
         "precio": 0.45,
         "categoria": "2",
@@ -397,6 +390,21 @@
         "imagen": "img/ACT 11/Polvo rosa traslucido D'Rose 0.70.webp",
         "descripcion": ""
     },
+    {
+        "nombre": "Pinturas de gel 20ml Miss nana",
+        "precio": 2.0,
+        "categoria": "2",
+        "imagen": "img/ACT 12/pinturas de gel 20ml miss nana 2 2.00.webp",
+        "descripcion": ""
+    },
+    {
+        "nombre": "Top coat Miss Nana diamond 15ml",
+        "precio": 2.25,
+        "categoria": "2",
+        "imagen": "img/ACT 12/top coat miss nana diamond 2 15ml 2.25.webp",
+        "descripcion": ""
+    },
+
 
 
 
@@ -519,13 +527,6 @@
         "precio": 1.40,
         "categoria": "3",
         "imagen": "img/herramientas/muestrarios.webp",
-        "descripcion": ""
-    },
-    {
-        "nombre": "Cepillos",
-        "precio": 0.55,
-        "categoria": "3",
-        "imagen": "img/herramientas/sepillo.webp",
         "descripcion": ""
     },
     {
@@ -661,6 +662,12 @@
         "precio": 0.45,
         "categoria": "3",
         "imagen": "img/ACT 1/punteros de silicona 1250|250.webp"
+    },
+    {
+        "nombre": "Toallas antipeluzas 1.75",
+        "precio": 1.75,
+        "categoria": "3",
+        "imagen": "img/ACT 12/toallas antipeluzas 3 1.75.webp"
     },
 
 
@@ -879,6 +886,13 @@
         "precio": 1.00,
         "categoria": "5",
         "imagen": "img/ACT 7/balines 3 1.00.webp",
+        "descripcion": ""
+    },
+    {
+        "nombre": "Joyas Mariposas",
+        "precio": 1.10,
+        "categoria": "5",
+        "imagen": "img/ACT 12/joyas mariposas 5 1.10.webp",
         "descripcion": ""
     },
     {
