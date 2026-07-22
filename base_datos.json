@@ -984,5 +984,11 @@
         "precio": 10.0,
         "categoria": "7",
         "imagen": "img/Varios/zapatos de mujer nuevos 38 10.0.webp"
+    },
+    {
+        "nombre": "Forro de iPhone 12 y 12 pro -3.00",
+        "precio": 3.0,
+        "categoria": "7",
+        "imagen": "img/ACT 13/Forro de iPhone 12 y 12 pro -3.00.webp"
     }
 ]
