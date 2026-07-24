@@ -908,22 +908,10 @@
         "imagen": "img/Varios/2trusa de senora talla oxl nueva 3.0.webp"
     },
     {
-        "nombre": "Blusa de mujer talla XL",
-        "precio": 0.5,
-        "categoria": "7",
-        "imagen": "img/Varios/blusa de mujer talla xl 0.5.webp"
-    },
-    {
         "nombre": "Blusa talla XL",
         "precio": 2.0,
         "categoria": "7",
         "imagen": "img/Varios/blusa nueva talla xl 2.0.webp"
-    },
-    {
-        "nombre": "Blusa talla XL",
-        "precio": 0.5,
-        "categoria": "7",
-        "imagen": "img/Varios/blusa xl 0.50.webp"
     },
     {
         "nombre": "Bolso",
