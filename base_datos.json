@@ -173,13 +173,7 @@
         "imagen": "img/Productos para unas/top coat nena.webp",
         "descripcion": ""
     },
-    {
-        "nombre": "Base Coat nena's 10ml(traer envase)",
-        "precio": 0.70,
-        "categoria": "2",
-        "imagen": "img/Productos para unas/base coat nena.webp",
-        "descripcion": ""
-    },
+
     {
         "nombre": "Pintura de gel mana Beauty(negra agotada)",
         "disponible": "Disponible",
@@ -342,13 +336,6 @@
         "descripcion": ""
     },
     {
-        "nombre": "Builder Gel(tonos 1, 3, 5, 8)",
-        "precio": 2.25,
-        "categoria": "2",
-        "imagen": "img/ACT 9/builder gel 2 2.25.webp",
-        "descripcion": ""
-    },
-    {
         "nombre": "Líquido D'Rose secado medio",
         "precio": 0.65,
         "categoria": "2",
@@ -464,13 +451,6 @@
         "precio": 0.60,
         "categoria": "3",
         "imagen": "img/herramientas/godette.webp",
-        "descripcion": ""
-    },
-    {
-        "nombre": "Pegamento de tubo blanco",
-        "precio": 0.15,
-        "categoria": "3",
-        "imagen": "img/herramientas/goma.webp",
         "descripcion": ""
     },
     {
@@ -833,13 +813,6 @@
         "descripcion": ""
     },
     {
-        "nombre": "Joyería serpientes",
-        "precio": 0.80,
-        "categoria": "5",
-        "imagen": "img/efectos/serpientes.webp",
-        "descripcion": ""
-    },
-    {
         "nombre": "Estuche de efecto azúcar (6 potes)",
         "precio": 1.05,
         "categoria": "5",
@@ -850,6 +823,14 @@
         "nombre": "Efecto azúcar - glitter (6 potes)",
         "precio": 1.25,
         "categoria": "5",
+        "imagen": "img/efectos/estuche azucar y gliter.webp"
+    },
+    {
+        "nombre": "Estuche de efecto azúcar (6 potes)",
+        "precio": 1.05,
+        "categoria": "5",
+        "imagen": "img/efectos/efecto azucar.webp",
+      
         "imagen": "img/efectos/estuche azucar y gliter.webp",
         "descripcion": ""
     },
