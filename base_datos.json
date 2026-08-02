@@ -119,6 +119,27 @@
         "descripcion": ""
     },
     {
+        "nombre": "Goma de pestañas pro 30ml",
+        "precio": 1.50,
+        "categoria": "1",
+        "imagen": "img/ACT 14/goma de pestanas pro 30 ml 1 1.50.webp",
+        "descripcion": ""
+    },
+    {
+        "nombre": "Goma de pestañas pro",
+        "precio": 1.50,
+        "categoria": "1",
+        "imagen": "img/ACT 14/goma pro 1 1.50.webp",
+        "descripcion": ""
+    },
+    {
+        "nombre": "Pestañas MAC 20p mixtas",
+        "precio": 3.40,
+        "categoria": "1",
+        "imagen": "img/ACT 14/pestanas MAC 20 p mixtas 1 3.40.webp",
+        "descripcion": ""
+    },
+    {
         "id": 9,
         "nombre": "Creyones Adas",
         "precio": 0.70,
@@ -350,6 +371,20 @@
         "descripcion": ""
     },
     {
+        "nombre": "Builder gel 25g #6 #2 #5 #7",
+        "precio": 2.30,
+        "categoria": "2",
+        "imagen": "img/ACT 14/builder gel 25g 6-2-5-7 2 2.30.webp",
+        "descripcion": ""
+    },
+    {
+        "nombre": "Builder gel blanco 15ml",
+        "precio": 2.30,
+        "categoria": "2",
+        "imagen": "img/ACT 14/builder gel blanco 15ml 2 2.30.webp",
+        "descripcion": ""
+    },
+    {
         "nombre": "Pintura natural con efecto espejo 15ml",
         "precio": 0.60,
         "categoria": "2",
@@ -511,7 +546,7 @@
     },
     {
         "nombre": "Fresas de cerámica",
-        "precio": 1.05,
+        "precio": 1.20,
         "categoria": "3",
         "imagen": "img/herramientas/fresa de seramica.webp",
         "descripcion": ""
@@ -644,10 +679,46 @@
         "imagen": "img/ACT 1/punteros de silicona 1250|250.webp"
     },
     {
+        "nombre": "Uñas estileto etralargas transparentes 100 tips",
+        "precio": 2.20,
+        "categoria": "3",
+        "imagen": "img/ACT 14/unas estileto extralargas transparentes 100 tips 3 2.20.webp"
+    },
+    {
         "nombre": "Toallas antipeluzas 1.75",
         "precio": 1.75,
         "categoria": "3",
         "imagen": "img/ACT 12/toallas antipeluzas 3 1.75.webp"
+    },
+    {
+        "nombre": "100 tips de coffen blancas extralargas",
+        "precio": 2.20,
+        "categoria": "3",
+        "imagen": "img/ACT 14/100 tips de coffen blancas extralargas 2.20.webp"
+    },
+    {
+        "nombre": "100 tips de coffen transparentes",
+        "precio": 2.20,
+        "categoria": "3",
+        "imagen": "img/ACT 14/100 tips de coffen transparentes 2.20.webp"
+    },
+    {
+        "nombre": "120 tips soft gel extralargas transparentes",
+        "precio": 2.20,
+        "categoria": "3",
+        "imagen": "img/ACT 14/120 tips soft gel extralargas transparentes 2.20.webp"
+    },
+    {
+        "nombre": "Fresas de cerámica",
+        "precio": 1.20,
+        "categoria": "3",
+        "imagen": "img/ACT 14/fresa de ceramica 3 1.20.webp"
+    },
+    {
+        "nombre": "Fresas de cerámica",
+        "precio": 1.20,
+        "categoria": "3",
+        "imagen": "img/ACT 14/fresas de ceramica 3 1.20.webp"
     },
 
 
