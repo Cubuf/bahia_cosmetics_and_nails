@@ -2,21 +2,21 @@
     {
         "nombre": "Delineador de plumón negro",
         "precio": 0.55,
-        "categoria": "6",
+        "categoria": "1",
         "imagen": "img/ACT 5/delineador de plumon negro 300 (1).webp",
         "descripcion": ""
     },
     {
         "nombre": "Pigmento de cejas semipermanente marrón oscuro",
         "precio": 2.00,
-        "categoria": "6",
+        "categoria": "1",
         "imagen": "img/ACT 7/pigmento de cejas semipermanente marron oscuro 1 2.00.webp",
         "descripcion": ""
     },
     {
         "nombre": "Shampoo de pestañas",
         "precio": 3.50,
-        "categoria": "6",
+        "categoria": "1",
         "imagen": "img/ACT 7/shampoo de pestanas 1 3.50.webp",
         "descripcion": ""
     },
@@ -93,7 +93,7 @@
     {
         "nombre": "Plumón delineador de labios",
         "precio": 0.40,
-        "categoria": "6",
+        "categoria": "1",
         "imagen": "img/cosmeticos/plumon de labios.webp",
         "descripcion": ""
     },
@@ -199,7 +199,7 @@
         "nombre": "Pintura de gel mana Beauty(negra agotada)",
         "disponible": "Disponible",
         "precio": 0.60,
-        "categoria": "6",
+        "categoria": "2",
         "imagen": "img/Productos para unas/pintura de gel 480.webp",
         "descripcion": ""
     },
@@ -774,7 +774,7 @@
     {
         "nombre": "Cover Pinky IVA 1 onza",
         "precio": 0.65,
-        "categoria": "6",
+        "categoria": "5",
         "imagen": "img/efectos/cover pinky.webp",
         "descripcion": ""
     },
@@ -895,15 +895,6 @@
         "precio": 1.25,
         "categoria": "5",
         "imagen": "img/efectos/estuche azucar y gliter.webp"
-    },
-    {
-        "nombre": "Estuche de efecto azúcar (6 potes)",
-        "precio": 1.05,
-        "categoria": "5",
-        "imagen": "img/efectos/efecto azucar.webp",
-      
-        "imagen": "img/efectos/estuche azucar y gliter.webp",
-        "descripcion": ""
     },
     {
         "nombre": "Efecto papel de oro (grande)",
