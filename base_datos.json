@@ -587,6 +587,13 @@
         "descripcion": ""
     },
     {
+        "nombre": "Goma de tubo blanco",
+        "precio": 0.15,
+        "categoria": "3",
+        "imagen": "img/ACT 15/goma de tubo blanco.webp",
+        "descripcion": ""
+    },
+    {
         "nombre": "Pozuelo de mano",
         "precio": 1.20,
         "categoria": "3",
