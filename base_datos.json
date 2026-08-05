@@ -162,13 +162,6 @@
         "descripcion": ""
     },
     {
-        "nombre": "Mascarilla facial negra",
-        "precio": 0.55,
-        "categoria": "1",
-        "imagen": "img/cosmeticos/mascarilla facial.webp",
-        "descripcion": ""
-    },
-    {
         "nombre": "Esponjas difuminadoras",
         "precio": 0.55,
         "categoria": "1",
