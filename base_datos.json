@@ -330,12 +330,6 @@
         "descripcion": ""
     },
     {
-        "nombre": "Gel de construcción clear",
-        "precio": 1.25,
-        "categoria": "2",
-        "imagen": "img/ACT 1/gel de construccion clear 700.webp"
-    },
-    {
         "nombre": "Pintura blanca natural 20ml",
         "precio": 1.00,
         "categoria": "2",
@@ -620,13 +614,6 @@
         "categoria": "3",
         "imagen": "img/herramientas/goma de piedras.webp",
         "descripcion": ""
-    },
-
-    {
-        "nombre": "120 tips cofen extralargas",
-        "precio": 1.75,
-        "categoria": "3",
-        "imagen": "img/ACT 1/120 tips cofen extralargas 1000.webp"
     },
     {
         "nombre": "Alicates",
