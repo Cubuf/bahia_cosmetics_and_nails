@@ -180,6 +180,37 @@
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
     {
         "nombre": "Top coat nenas 10ml",
         "precio": 0.90,
@@ -400,12 +431,52 @@
         "descripcion": ""
     },
     {
-        "nombre": "Pinturas de gel 20ml Mely Beauty",
-        "precio": 2.0,
+        "nombre": "Pinturas mely beauty 20ml",
+        "precio": 2.30,
         "categoria": "2",
-        "imagen": "img/ACT 12/pinturas de gel 20ml miss nana 2 2.00.webp",
+        "imagen": "img/ACT 15/pinturas mely beauty 20ml 2.30 2",
         "descripcion": ""
     },
+    {
+        "nombre": "Removedor de gel 18ml yuan quan",
+        "precio": 2.40,
+        "categoria": "2",
+        "imagen": "img/ACT 15/removedor de gel 18ml yuan quan 2.40 2",
+        "descripcion": ""
+    },
+    {
+        "nombre": "Top coat Miss Nana diamond",
+        "precio": 2.30,
+        "categoria": "2",
+        "imagen": "img/ACT 15/top coat miss nana diamond 2 2.30",
+        "descripcion": ""
+    },
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -417,6 +488,13 @@
         "precio": 0.20,
         "categoria": "3",
         "imagen": "img/herramientas/moldes cutural01.webp",
+        "descripcion": ""
+    },
+    {
+        "nombre": "Limas 100/180",
+        "precio": 0.35,
+        "categoria": "3",
+        "imagen": "img/ACT 15/limas 100-180 3 0.35.webp",
         "descripcion": ""
     },
     {
@@ -676,12 +754,6 @@
         "imagen": "img/ACT 14/100 tips de coffen transparentes 2.20.webp"
     },
     {
-        "nombre": "120 tips soft gel extralargas transparentes",
-        "precio": 2.20,
-        "categoria": "3",
-        "imagen": "img/ACT 14/120 tips soft gel extralargas transparentes 2.20.webp"
-    },
-    {
         "nombre": "Fresas de cerámica",
         "precio": 1.20,
         "categoria": "3",
@@ -693,6 +765,32 @@
         "categoria": "3",
         "imagen": "img/ACT 14/fresas de ceramica 3 1.20.webp"
     },
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -727,6 +825,38 @@
         "categoria": "4",
         "imagen": "img/ACT 10/pincel de relleno 10.webp"
     },
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -911,6 +1041,56 @@
         "imagen": "img/ACT 12/joyas mariposas 5 1.10.webp",
         "descripcion": ""
     },
+    {
+        "nombre": "Decoraciones variadas de 12 a 14 parejas",
+        "precio": 0.60,
+        "categoria": "5",
+        "imagen": "img/ACT 15/decoraciones variadas de 12 a 14 parejas 0.60 5.webp"
+    },
+    {
+        "nombre": "Flores de resina",
+        "precio": 1.20,
+        "categoria": "5",
+        "imagen": "img/ACT 15/flores de resina 5 1.20.webp"
+    },
+    {
+        "nombre": "Papel oro",
+        "precio": 0.35,
+        "categoria": "5",
+        "imagen": "img/ACT 15/papel oro 0.35 5"
+    },
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
     {
         "nombre": "Blusa talla LG",
         "precio": 2.0,
