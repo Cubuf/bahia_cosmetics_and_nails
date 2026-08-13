@@ -434,21 +434,21 @@
         "nombre": "Pinturas mely beauty 20ml",
         "precio": 2.30,
         "categoria": "2",
-        "imagen": "img/ACT 16/pinturas mely beauty 20ml 2.30 2",
+        "imagen": "img/ACT 16/pinturas mely beauty 20ml 2.30 2.webp",
         "descripcion": ""
     },
     {
         "nombre": "Removedor de gel 18ml yuan quan",
         "precio": 2.40,
         "categoria": "2",
-        "imagen": "img/ACT 16/removedor de gel 18ml yuan quan 2.40 2",
+        "imagen": "img/ACT 16/removedor de gel 18ml yuan quan 2.40 2.webp",
         "descripcion": ""
     },
     {
         "nombre": "Top coat Miss Nana diamond",
         "precio": 2.30,
         "categoria": "2",
-        "imagen": "img/ACT 16/top coat miss nana diamond 2 2.30",
+        "imagen": "img/ACT 16/top coat miss nana diamond 2 2.30.webp",
         "descripcion": ""
     },
 
@@ -721,13 +721,13 @@
         "nombre": "Punteros de silicona (estuche)",
         "precio": 2.15,
         "categoria": "3",
-        "imagen": "img/ACT 1/punteros de silicona 1250|250.webp"
+        "imagen": "img/ACT 1/punteros de silicona 1250_250.webp"
     },
     {
         "nombre": "Punteros de silicona (individual)",
         "precio": 0.45,
         "categoria": "3",
-        "imagen": "img/ACT 1/punteros de silicona 1250|250.webp"
+        "imagen": "img/ACT 1/punteros de silicona 1250_250.webp"
     },
     {
         "nombre": "Uñas estileto etralargas transparentes 100 tips",
@@ -805,13 +805,13 @@
         "nombre": "Pincel liner juego (estuche)",
         "precio": 1.20,
         "categoria": "4",
-        "imagen": "img/ACT 1/pincel liner juego 700|240.webp"
+        "imagen": "img/ACT 1/punteros de silicona 1250_250.webp"
     },
     {
         "nombre": "Pincel liner juego (individual)",
         "precio": 0.45,
         "categoria": "4",
-        "imagen": "img/ACT 1/pincel liner juego 700|240.webp"
+        "imagen": "img/ACT 1/punteros de silicona 1250_250.webp"
     },
     {
         "nombre": "Pincel de relleno #8",
@@ -1057,7 +1057,7 @@
         "nombre": "Papel oro",
         "precio": 0.35,
         "categoria": "5",
-        "imagen": "img/ACT 16/papel oro 0.35 5"
+        "imagen": "img/ACT 16/papel oro 0.35 5.webp"
     },
 
 
