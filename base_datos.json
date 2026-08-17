@@ -410,6 +410,27 @@
         "descripcion": ""
     },
     {
+        "nombre": "Pintura de gel tonos neon 15ml",
+        "precio": 1.50,
+        "categoria": "2",
+        "imagen": "img/ACT 17/pintura de gel tonos neon 15ml 1.50.webp",
+        "descripcion": ""
+    },
+    {
+        "nombre": "Pintura de gel yuan quan 10ml",
+        "precio": 1.40,
+        "categoria": "2",
+        "imagen": "img/ACT 17/pintura de gel yuan quan 10ml 1.40.webp",
+        "descripcion": ""
+    },
+    {
+        "nombre": "Pintura vitral 10ml",
+        "precio": 1.40,
+        "categoria": "2",
+        "imagen": "img/ACT 17/pintura vitral 10 ml 1.40.webp",
+        "descripcion": ""
+    },
+    {
         "nombre": "Pintural natural con efecto aurora 15ml",
         "precio": 0.60,
         "categoria": "2",
@@ -442,6 +463,13 @@
         "precio": 2.30,
         "categoria": "2",
         "imagen": "img/ACT 16/top coat miss nana diamond 2 2.30.webp",
+        "descripcion": ""
+    },
+    {
+        "nombre": "Polvo rosa translucido D'Rose (onza)",
+        "precio": 0.70,
+        "categoria": "2",
+        "imagen": "img/ACT 11/Polvo clear D'Rose 0.70.webp",
         "descripcion": ""
     },
 
@@ -484,13 +512,6 @@
         "descripcion": ""
     },
     {
-        "nombre": "Limas 100/180",
-        "precio": 0.35,
-        "categoria": "3",
-        "imagen": "img/ACT 16/limas 100-180 3 0.35.webp",
-        "descripcion": ""
-    },
-    {
         "nombre": "Fresas de manicura rusa",
         "precio": 0.25,
         "categoria": "3",
@@ -509,13 +530,6 @@
         "precio": 0.20,
         "categoria": "3",
         "imagen": "img/herramientas/molde escultural.webp",
-        "descripcion": ""
-    },
-    {
-        "nombre": "Empujador de cutícula",
-        "precio": 0.70,
-        "categoria": "3",
-        "imagen": "img/herramientas/empujador de cuticulas.webp",
         "descripcion": ""
     },
     {
@@ -907,13 +921,6 @@
         "precio": 0.45,
         "categoria": "5",
         "imagen": "img/efectos/concha nacar.webp",
-        "descripcion": ""
-    },
-    {
-        "nombre": "Torres de pigmento",
-        "precio": 0.90,
-        "categoria": "5",
-        "imagen": "img/efectos/torres de pigmentos.webp",
         "descripcion": ""
     },
     {
