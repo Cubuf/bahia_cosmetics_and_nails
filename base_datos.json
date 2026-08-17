@@ -469,7 +469,7 @@
         "nombre": "Polvo rosa translucido D'Rose (onza)",
         "precio": 0.70,
         "categoria": "2",
-        "imagen": "img/ACT 11/Polvo clear D'Rose 0.70.webp",
+        "imagen": "img/ACT 11/Polvo rosa traslucido D'Rose 0.70.webp",
         "descripcion": ""
     },
 
@@ -759,12 +759,6 @@
         "precio": 2.20,
         "categoria": "3",
         "imagen": "img/ACT 14/100 tips de coffen transparentes 2.20.webp"
-    },
-    {
-        "nombre": "Fresas de cerámica",
-        "precio": 1.20,
-        "categoria": "3",
-        "imagen": "img/ACT 14/fresa de ceramica 3 1.20.webp"
     },
     {
         "nombre": "Fresas de cerámica",
