@@ -438,13 +438,6 @@
         "descripcion": ""
     },
     {
-        "nombre": "Polvo clear D'Rose",
-        "precio": 0.70,
-        "categoria": "2",
-        "imagen": "img/ACT 11/Polvo clear D'Rose 0.70.webp",
-        "descripcion": ""
-    },
-    {
         "nombre": "Pinturas mely beauty 20ml",
         "precio": 2.30,
         "categoria": "2",
@@ -705,12 +698,6 @@
         "precio": 1.75,
         "categoria": "3",
         "imagen": "img/ACT 1/alicates 950.webp"
-    },
-    {
-        "nombre": "Aplicadores",
-        "precio": 0.70,
-        "categoria": "3",
-        "imagen": "img/ACT 1/aplicadores 400.webp"
     },
     {
         "nombre": "Dispensadores",
