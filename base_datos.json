@@ -961,13 +961,6 @@
         "descripcion": ""
     },
     {
-        "nombre": "Spider gel negro(blanco agotado)",
-        "precio": 0.55,
-        "categoria": "5",
-        "imagen": "img/efectos/spider gel.webp",
-        "descripcion": ""
-    },
-    {
         "nombre": "Estuche de efecto azúcar (6 potes)",
         "precio": 1.05,
         "categoria": "5",
@@ -1072,35 +1065,12 @@
 
 
 
-    {
-        "nombre": "Blusa talla LG",
-        "precio": 2.0,
-        "categoria": "7",
-        "imagen": "img/Varios/2blusa nueva talla lg 2.0.webp"
-    },
-    {
-        "nombre": "Trusa de señora talla OXL",
-        "precio":3.0,
-        "categoria": "7",
-        "imagen": "img/Varios/2trusa de senora talla oxl nueva 3.0.webp"
-    },
+
     {
         "nombre": "Blusa talla XL",
         "precio": 2.0,
         "categoria": "7",
         "imagen": "img/Varios/blusa nueva talla xl 2.0.webp"
-    },
-    {
-        "nombre": "Bolso",
-        "precio": 3.0,
-        "categoria": "7",
-        "imagen": "img/Varios/bolso nuevo 3.0.webp"
-    },
-    {
-        "nombre": "Enguatada de playa de hombre talla XXL",
-        "precio": 2.5,
-        "categoria": "7",
-        "imagen": "img/Varios/enguatada de playa de hombre talla xxl 2.50.webp"
     },
     {
         "nombre": "Ganchos",
@@ -1115,34 +1085,10 @@
         "imagen": "img/Varios/pantaloneta nueva de mujer talla l 3.0.webp"
     },
     {
-        "nombre": "Saya talla M",
-        "precio": 2.5,
-        "categoria": "7",
-        "imagen": "img/Varios/saya talla m 2.50.webp"
-    },
-    {
-        "nombre": "Trusa mono talla OXL",
-        "precio": 3.0,
-        "categoria": "7",
-        "imagen": "img/Varios/trusa mono 3.0 talla oxl.webp"
-    },
-    {
         "nombre": "Trusa talla XL",
         "precio": 3.0,
         "categoria": "7",
         "imagen": "img/Varios/trusa nueva  3.0 talla xl.webp"
-    },
-    {
-        "nombre": "Vestido nuevo talla XL",
-        "precio": 4.0,
-        "categoria": "7",
-        "imagen": "img/Varios/vestido nuevo 4.0 xl.webp"
-    },
-    {
-        "nombre": "Zapatos de mujer nuevos #38",
-        "precio": 10.0,
-        "categoria": "7",
-        "imagen": "img/Varios/zapatos de mujer nuevos 38 10.0.webp"
     },
     {
         "nombre": "Forro de iPhone 12 y 12 pro -3.00",
