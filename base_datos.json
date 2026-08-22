@@ -465,7 +465,13 @@
         "imagen": "img/ACT 11/Polvo rosa traslucido D'Rose 0.70.webp",
         "descripcion": ""
     },
-
+    {
+        "nombre": "Polvo de uñas clear",
+        "precio": 0.70,
+        "categoria": "2",
+        "imagen": "img/ACT 18/polvo de unas clear 2 0.70.webp",
+        "descripcion": ""
+    },
 
 
 
@@ -753,6 +759,24 @@
         "categoria": "3",
         "imagen": "img/ACT 14/fresas de ceramica 3 1.20.webp"
     },
+    {
+        "nombre": "Cepillo",
+        "precio": 0.80,
+        "categoria": "3",
+        "imagen": "img/ACT 18/cepillo 0.80 3.webp"
+    },
+    {
+        "nombre": "Lima 100/120",
+        "precio": 0.45,
+        "categoria": "3",
+        "imagen": "img/ACT 18/lima 100-120 0.45.webp"
+    },
+    {
+        "nombre": "Lima 120/150",
+        "precio": 0.45,
+        "categoria": "3",
+        "imagen": "img/ACT 18/lima 120-150 0.45.webp"
+    },
 
 
 
@@ -978,13 +1002,6 @@
         "precio": 0.70,
         "categoria": "5",
         "imagen": "img/efectos/papel de oro.webp",
-        "descripcion": ""
-    },
-    {
-        "nombre": "Efecto espejo",
-        "precio": 0.70,
-        "categoria": "5",
-        "imagen": "img/efectos/efecto espejo plateado.webp",
         "descripcion": ""
     },
     {
