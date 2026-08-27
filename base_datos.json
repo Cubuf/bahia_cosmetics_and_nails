@@ -319,13 +319,6 @@
         "descripcion": ""
     },
     {
-        "nombre": "Pintura natural 15ml(traer envase)",
-        "precio": 0.60,
-        "categoria": "2",
-        "imagen": "img/Productos para unas/pintura natural 15.webp",
-        "descripcion": ""
-    },
-    {
         "nombre": "Polvo white(onza)|(traer envase)",
         "precio": 0.70,
         "categoria": "2",
@@ -386,13 +379,6 @@
         "precio": 2.30,
         "categoria": "2",
         "imagen": "img/ACT 14/builder gel 25g 6-2-5-7 2 2.30.webp",
-        "descripcion": ""
-    },
-    {
-        "nombre": "Builder gel blanco 15ml",
-        "precio": 2.30,
-        "categoria": "2",
-        "imagen": "img/ACT 14/builder gel blanco 15ml 2 2.30.webp",
         "descripcion": ""
     },
     {
