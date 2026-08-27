@@ -126,13 +126,6 @@
         "descripcion": ""
     },
     {
-        "nombre": "Goma de pestañas pro",
-        "precio": 1.50,
-        "categoria": "1",
-        "imagen": "img/ACT 14/goma pro 1 1.50.webp",
-        "descripcion": ""
-    },
-    {
         "nombre": "Pestañas MAC 20p mixtas",
         "precio": 3.40,
         "categoria": "1",
@@ -452,13 +445,6 @@
         "descripcion": ""
     },
     {
-        "nombre": "Top coat Miss Nana diamond",
-        "precio": 2.30,
-        "categoria": "2",
-        "imagen": "img/ACT 16/top coat miss nana diamond 2 2.30.webp",
-        "descripcion": ""
-    },
-    {
         "nombre": "Polvo rosa translucido D'Rose (onza)",
         "precio": 0.70,
         "categoria": "2",
@@ -712,12 +698,6 @@
         "imagen": "img/ACT 1/dispensador 650.webp"
     },
     {
-        "nombre": "Piedra Pome",
-        "precio": 0.70,
-        "categoria": "3",
-        "imagen": "img/ACT 1/piedra pome 380.webp"
-    },
-    {
         "nombre": "Punteros de silicona (estuche)",
         "precio": 2.15,
         "categoria": "3",
@@ -746,12 +726,6 @@
         "precio": 2.20,
         "categoria": "3",
         "imagen": "img/ACT 14/100 tips de coffen blancas extralargas 2.20.webp"
-    },
-    {
-        "nombre": "100 tips de coffen transparentes",
-        "precio": 2.20,
-        "categoria": "3",
-        "imagen": "img/ACT 14/100 tips de coffen transparentes 2.20.webp"
     },
     {
         "nombre": "Fresas de cerámica",
@@ -947,13 +921,6 @@
         "precio": 0.35,
         "categoria": "5",
         "imagen": "img/efectos/stiker3.webp",
-        "descripcion": ""
-    },
-    {
-        "nombre": "Flake",
-        "precio": 0.65,
-        "categoria": "5",
-        "imagen": "img/efectos/flake.webp",
         "descripcion": ""
     },
     {
