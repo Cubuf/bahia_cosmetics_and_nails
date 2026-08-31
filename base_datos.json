@@ -567,13 +567,6 @@
         "descripcion": ""
     },
     {
-        "nombre": "Muestrarios",
-        "precio": 1.40,
-        "categoria": "3",
-        "imagen": "img/herramientas/muestrarios.webp",
-        "descripcion": ""
-    },
-    {
         "nombre": "Fresas de cerámica",
         "precio": 1.20,
         "categoria": "3",
@@ -790,12 +783,6 @@
         "precio": 1.30,
         "categoria": "4",
         "imagen": "img/ACT 10/pincel de relleno 8.webp"
-    },
-    {
-        "nombre": "Pincel de relleno #10",
-        "precio": 1.30,
-        "categoria": "4",
-        "imagen": "img/ACT 10/pincel de relleno 10.webp"
     },
 
 
