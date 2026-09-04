@@ -368,10 +368,38 @@
         "descripcion": ""
     },
     {
+        "nombre": "Top coat diamond 15ml",
+        "precio": 2.30,
+        "categoria": "2",
+        "imagen": "img/ACT 20/top coat diamond 15 ml 2.30 2.webp",
+        "descripcion": ""
+    },
+    {
         "nombre": "Pintura natural con efecto espejo 15ml",
         "precio": 0.60,
         "categoria": "2",
         "imagen": "img/ACT 11/Pintura natural con efecto espejo 0.60 15ml.webp",
+        "descripcion": ""
+    },
+    {
+        "nombre": "Pintura mealy beauty 20ml",
+        "precio": 2.30,
+        "categoria": "2",
+        "imagen": "img/ACT 20/pintura mealy beauty 20 ml 2.30 2.webp",
+        "descripcion": ""
+    },
+    {
+        "nombre": "Pintura mealy beauty 20ml",
+        "precio": 2.30,
+        "categoria": "2",
+        "imagen": "img/ACT 20/pintura mealy beauty 20ml 2.30 2.webp",
+        "descripcion": ""
+    },
+    {
+        "nombre": "Pintura mealy beauty 20ml",
+        "precio": 2.30,
+        "categoria": "2",
+        "imagen": "img/ACT 20/pintura mealy beauty 20ml 2.30.webp",
         "descripcion": ""
     },
     {
@@ -442,6 +470,13 @@
         "precio": 0.70,
         "categoria": "2",
         "imagen": "img/ACT 18/polvo de unas clear 2 0.70.webp",
+        "descripcion": ""
+    },
+    {
+        "nombre": "Builder gel 30ml",
+        "precio": 3.70,
+        "categoria": "2",
+        "imagen": "img/ACT 20/builder gel 30ml 3.70 2.webp",
         "descripcion": ""
     },
 
@@ -805,8 +840,48 @@
 
 
 
-
-
+    {
+        "nombre": "Sticker",
+        "precio": "250 cup",
+        "categoria": "5",
+        "imagen": "img/ACT 20/sticker de palmera 250 5.webp",
+        "descripcion": ""
+    },
+    {
+        "nombre": "Sticker",
+        "precio": "350 cup",
+        "categoria": "5",
+        "imagen": "img/ACT 20/sticker 350 5.webp",
+        "descripcion": ""
+    },
+    {
+        "nombre": "Sticker",
+        "precio": "250 cup",
+        "categoria": "5",
+        "imagen": "img/ACT 20/sticker 250 5.webp",
+        "descripcion": ""
+    },
+    {
+        "nombre": "Sticker",
+        "precio": "100 cup",
+        "categoria": "5",
+        "imagen": "img/ACT 20/sticker 100.webp",
+        "descripcion": ""
+    },
+    {
+        "nombre": "Sticker",
+        "precio": "100 cup",
+        "categoria": "5",
+        "imagen": "img/ACT 20/sticker 100 5.webp",
+        "descripcion": ""
+    },
+    {
+        "nombre": "Decoraciones del mar 10 parejas",
+        "precio": 0.70,
+        "categoria": "5",
+        "imagen": "img/ACT 20/decoraciones del mar 10 parejas 0.70 5.webp",
+        "descripcion": ""
+    },
     {
         "nombre": "Cover de colores varios",
         "precio": 0.55,
@@ -1035,5 +1110,11 @@
         "precio": 3.0,
         "categoria": "7",
         "imagen": "img/ACT 13/Forro de iPhone 12 y 12 pro -3.00.webp"
+    },
+    {
+        "nombre": "Tenis #42 reducido sin estrenar",
+        "precio": "5000 cup",
+        "categoria": "7",
+        "imagen": "img/ACT 20/tenis 42 reducido sin estrenar 5000 6.webp"
     }
 ]
