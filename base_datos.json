@@ -98,13 +98,6 @@
         "descripcion": ""
     },
     {
-        "nombre": "Base en barra",
-        "precio": 0.60,
-        "categoria": "1",
-        "imagen": "img/cosmeticos/base en barra.webp",
-        "descripcion": ""
-    },
-    {
         "nombre": "Delineador de oso blanco y carmelita",
         "precio": 0.55,
         "categoria": "1",
@@ -1005,20 +998,6 @@
         "precio": 0.70,
         "categoria": "5",
         "imagen": "img/efectos/papel de oro.webp",
-        "descripcion": ""
-    },
-    {
-        "nombre": "Efecto dorado",
-        "precio": 0.60,
-        "categoria": "5",
-        "imagen": "img/ACT 3/efecto dorado 350.webp",
-        "descripcion": ""
-    },
-    {
-        "nombre": "Efecto plateado",
-        "precio": 0.60,
-        "categoria": "5",
-        "imagen": "img/ACT 3/efecto plateado 350.webp",
         "descripcion": ""
     },
     {
