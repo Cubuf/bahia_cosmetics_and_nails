@@ -532,7 +532,7 @@
         "descripcion": ""
     },
     {
-        "nombre": "Punteros (individual)",
+        "nombre": "Punteros",
         "precio": 0.25,
         "categoria": "3",
         "imagen": "img/herramientas/punteros.webp",
@@ -644,13 +644,6 @@
         "descripcion": ""
     },
     {
-        "nombre": "Pozuelo de mano",
-        "precio": 1.20,
-        "categoria": "3",
-        "imagen": "img/herramientas/pozuelo de mano.webp",
-        "descripcion": ""
-    },
-    {
         "nombre": "Aceite de cutícula",
         "precio": 1.00,
         "categoria": "3",
@@ -717,16 +710,16 @@
         "imagen": "img/ACT 1/punteros de silicona 1250_250.webp"
     },
     {
-        "nombre": "Toallas antipeluzas 1.75",
+        "nombre": "Toallas antipeluzas",
         "precio": 1.75,
         "categoria": "3",
         "imagen": "img/ACT 12/toallas antipeluzas 3 1.75.webp"
     },
     {
-        "nombre": "100 tips de coffen blancas extralargas",
-        "precio": 2.20,
+        "nombre": "Muestrarios",
+        "precio": 1.40,
         "categoria": "3",
-        "imagen": "img/ACT 14/100 tips de coffen blancas extralargas 2.20.webp"
+        "imagen": "img/herramientas/muestrarios.webp"
     },
     {
         "nombre": "Fresas de cerámica",
