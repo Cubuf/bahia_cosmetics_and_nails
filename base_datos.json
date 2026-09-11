@@ -77,13 +77,6 @@
         "descripcion": ""
     },
     {
-        "nombre": "Juego de perfilador con 4 cuchillas",
-        "precio": 0.85,
-        "categoria": "1",
-        "imagen": "img/ACT 5/juego de perfilador con 4 cuchillas 500 (1).webp",
-        "descripcion": ""
-    },
-    {
         "nombre": "Lápiz con sacapunta marrón y negro",
         "precio": 0.45,
         "categoria": "1",
@@ -198,6 +191,13 @@
 
 
     {
+        "nombre": "Acetona 4 onzas",
+        "precio": "500 cup",
+        "categoria": "2",
+        "imagen": "img/ACT 21/acetona 2 500.webp",
+        "descripcion": ""
+    },
+    {
         "nombre": "Top coat nenas 10ml",
         "precio": 0.90,
         "categoria": "2",
@@ -295,6 +295,41 @@
         "precio": 0.60,
         "categoria": "2",
         "imagen": "img/Productos para unas/pintura natural 11.webp",
+        "descripcion": ""
+    },
+    {
+        "nombre": "Pintura natural efecto escarcha plateada 15ml",
+        "precio": 0.60,
+        "categoria": "2",
+        "imagen": "img/ACT 21/pintura escarcha plateada 15ml 0.60.webp",
+        "descripcion": ""
+    },
+    {
+        "nombre": "Pintura natural efecto aurora 15ml",
+        "precio": 0.60,
+        "categoria": "2",
+        "imagen": "img/ACT 21/pintura natural efecto aurora 15ml 0.60.webp",
+        "descripcion": ""
+    },
+    {
+        "nombre": "Pintura natural efecto escarcha 15ml",
+        "precio": 0.60,
+        "categoria": "2",
+        "imagen": "img/ACT 21/pintura natural escarcha 0.60 15ml.webp",
+        "descripcion": ""
+    },
+    {
+        "nombre": "Pintura natural perlada 15ml",
+        "precio": 0.60,
+        "categoria": "2",
+        "imagen": "img/ACT 21/pintura natural perlada 15ml 0.60.webp",
+        "descripcion": ""
+    },
+    {
+        "nombre": "Pinturas naturales 10ml ",
+        "precio": "450 cup",
+        "categoria": "2",
+        "imagen": "img/ACT 21/pinturas naturales 10ml 450.webp",
         "descripcion": ""
     },
     {
@@ -1088,5 +1123,41 @@
         "precio": "5000 cup",
         "categoria": "7",
         "imagen": "img/ACT 20/tenis 42 reducido sin estrenar 5000 6.webp"
+    },
+    {
+        "nombre": "Botas #38",
+        "precio": 35,
+        "categoria": "7",
+        "imagen": "img/ACT 21/botas 35 -38 usd.webp"
+    },
+    {
+        "nombre": "Colchon camero",
+        "precio": 50,
+        "categoria": "7",
+        "imagen": "img/ACT 21/colchon camero 50 usd.webp"
+    },
+    {
+        "nombre": "Lampara de techo",
+        "precio": 15,
+        "categoria": "7",
+        "imagen": "img/ACT 21/lampara de techo 15 usd.webp"
+    },
+    {
+        "nombre": "Parrilla",
+        "precio": 60,
+        "categoria": "7",
+        "imagen": "img/ACT 21/parrilla 60 usd.webp"
+    },
+    {
+        "nombre": "Tacones de mujer #37",
+        "precio": 12,
+        "categoria": "7",
+        "imagen": "img/ACT 21/tacones de mujer 12 usd -37.webp"
+    },
+    {
+        "nombre": "Tenis de mujer #38",
+        "precio": 55,
+        "categoria": "7",
+        "imagen": "img/ACT 21/tenis de mujer 55 -38 usd.webp"
     }
 ]
