@@ -347,13 +347,6 @@
         "descripcion": ""
     },
     {
-        "nombre": "Polvo white(onza)|(traer envase)",
-        "precio": 0.70,
-        "categoria": "2",
-        "imagen": "img/Productos para unas/polvo chelly white.webp",
-        "descripcion": ""
-    },
-    {
         "nombre": "Top Mate Terciopelo",
         "precio": 1.50,
         "categoria": "2",
@@ -424,13 +417,6 @@
         "descripcion": ""
     },
     {
-        "nombre": "Builder gel 25g #6 #2 #5 #7",
-        "precio": 2.30,
-        "categoria": "2",
-        "imagen": "img/ACT 14/builder gel 25g 6-2-5-7 2 2.30.webp",
-        "descripcion": ""
-    },
-    {
         "nombre": "Pintura natural con efecto espejo 15ml",
         "precio": 0.60,
         "categoria": "2",
@@ -469,7 +455,7 @@
         "nombre": "Pinturas mely beauty 20ml",
         "precio": 2.30,
         "categoria": "2",
-        "imagen": "img/ACT 16/pinturas mely beauty 20ml 2.30 2.webp",
+        "imagen": "img/ACT 22/pintura de gel mealy beauty.webp",
         "descripcion": ""
     },
     {
@@ -531,13 +517,7 @@
 
 
 
-    {
-        "nombre": "Moldes esculturales(20)",
-        "precio": 0.20,
-        "categoria": "3",
-        "imagen": "img/herramientas/moldes cutural01.webp",
-        "descripcion": ""
-    },
+
     {
         "nombre": "Fresas de manicura rusa",
         "precio": 0.25,
@@ -716,18 +696,6 @@
         "precio": 0.45,
         "categoria": "3",
         "imagen": "img/ACT 1/punteros de silicona 1250_250.webp"
-    },
-    {
-        "nombre": "Toallas antipeluzas",
-        "precio": 1.75,
-        "categoria": "3",
-        "imagen": "img/ACT 12/toallas antipeluzas 3 1.75.webp"
-    },
-    {
-        "nombre": "Muestrarios",
-        "precio": 1.40,
-        "categoria": "3",
-        "imagen": "img/herramientas/muestrarios.webp"
     },
     {
         "nombre": "Fresas de cerámica",
@@ -1061,7 +1029,36 @@
 
 
 
-
+    {
+        "nombre": "Losa de vinilo 1.33m",
+        "precio": 12,
+        "categoria": "7",
+        "imagen": "img/ACT 22/losa de bbinilo 1.33 12usd.webp"
+    },
+    {
+        "nombre": "Losa de vinilo 1.33m",
+        "precio": 1.0,
+        "categoria": "7",
+        "imagen": "img/ACT 22/losas de binilo 1.33 m 12 usd.webp"
+    },
+    {
+        "nombre": "Losa de vinilo 1.33m",
+        "precio": 1.0,
+        "categoria": "7",
+        "imagen": "img/ACT 22/losas de binilo 1.33 m 12.webp"
+    },
+    {
+        "nombre": "Losa de vinilo 1.33m",
+        "precio": 1.0,
+        "categoria": "7",
+        "imagen": "img/ACT 22/losas de binilo 1.33 m 12usd.webp"
+    },
+    {
+        "nombre": "Losa de vinilo 1.33m",
+        "precio": 1.0,
+        "categoria": "7",
+        "imagen": "img/Varios/ganchos 1.0.webp"
+    },
     {
         "nombre": "Ganchos",
         "precio": 1.0,
