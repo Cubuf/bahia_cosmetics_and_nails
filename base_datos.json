@@ -458,13 +458,7 @@
         "imagen": "img/ACT 18/polvo de unas clear 2 0.70.webp",
         "descripcion": ""
     },
-    {
-        "nombre": "Builder gel 30ml",
-        "precio": 3.70,
-        "categoria": "2",
-        "imagen": "img/ACT 20/builder gel 30ml 3.70 2.webp",
-        "descripcion": ""
-    },
+
 
 
 
@@ -631,6 +625,13 @@
         "descripcion": ""
     },
     {
+        "nombre": "120 tips coffeen extralargas transparentes",
+        "precio": 1.55,
+        "categoria": "3",
+        "imagen": "img/ACT 23/120 tips cofeen extralargas transparentes 1.55 3.webp",
+        "descripcion": ""
+    },
+    {
         "nombre": "Guillotinas",
         "precio": 1.50,
         "categoria": "3",
@@ -729,12 +730,6 @@
         "precio": 0.45,
         "categoria": "4",
         "imagen": "img/ACT 19/pincel liner.webp"
-    },
-    {
-        "nombre": "Pincel de relleno #8",
-        "precio": 1.30,
-        "categoria": "4",
-        "imagen": "img/ACT 10/pincel de relleno 8.webp"
     },
 
 
