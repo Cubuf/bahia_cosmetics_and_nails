@@ -458,6 +458,20 @@
         "imagen": "img/ACT 18/polvo de unas clear 2 0.70.webp",
         "descripcion": ""
     },
+    {
+        "nombre": "Builder gel 30ml",
+        "precio": 3.70,
+        "categoria": "2",
+        "imagen": "img/ACT 20/builder gel 30ml 3.70 2.webp",
+        "descripcion": ""
+    },
+    {
+        "nombre": "Paletas de Painting Gel",
+        "precio": 8.50,
+        "categoria": "2",
+        "imagen": "img/ACT 24/paletas de painting gel 8.50 2.webp",
+        "descripcion": ""
+    },
 
 
 
@@ -485,12 +499,27 @@
 
 
 
-
-
-
-
-
-
+    {
+        "nombre": "Esponjas difuminadoras",
+        "precio": 3.0,
+        "categoria": "3",
+        "imagen": "img/ACT 24/esponjas difuminadoras 3.0 3.webp",
+        "descripcion": ""
+    },
+    {
+        "nombre": "Empujador de cutícula",
+        "precio": 1.4,
+        "categoria": "3",
+        "imagen": "img/ACT 24/empujador de cuticula 1.4 3.webp",
+        "descripcion": ""
+    },
+    {
+        "nombre": "Bloque blanco",
+        "precio": 0.55,
+        "categoria": "3",
+        "imagen": "img/ACT 24/bloque blanco 0.55 3.webp",
+        "descripcion": ""
+    },
     {
         "nombre": "Fresas de manicura rusa",
         "precio": 0.25,
@@ -724,7 +753,18 @@
 
 
 
-
+    {
+        "nombre": "Juego de pincel liner",
+        "precio": 3.0,
+        "categoria": "4",
+        "imagen": "img/ACT 24/juego de pincel liner 3.0 4.webp"
+    },
+    {
+        "nombre": "Pinceles #2, 4, 6, 8, 10, 12",
+        "precio": 1.10,
+        "categoria": "4",
+        "imagen": "img/ACT 24/pinceles -2,4,6,8,10,12 1.10 4.webp"
+    },
     {
         "nombre": "Pincel liner juego (individual)",
         "precio": 0.45,
