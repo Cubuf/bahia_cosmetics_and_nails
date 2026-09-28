@@ -591,13 +591,6 @@
         "descripcion": ""
     },
     {
-        "nombre": "Lampara",
-        "precio": 7.50,
-        "categoria": "3",
-        "imagen": "img/ACT 7/lampara 3 5.00.webp",
-        "descripcion": ""
-    },
-    {
         "nombre": "Fresas de cerámica",
         "precio": 1.20,
         "categoria": "3",
@@ -616,13 +609,6 @@
         "precio": 0.85,
         "categoria": "3",
         "imagen": "img/herramientas/iman.webp",
-        "descripcion": ""
-    },
-    {
-        "nombre": "Bloque de toallas antipelusas",
-        "precio": 0.25,
-        "categoria": "3",
-        "imagen": "img/herramientas/toallas anti peluzas.webp",
         "descripcion": ""
     },
     {
