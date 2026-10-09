@@ -134,13 +134,6 @@
         "descripcion": ""
     },
     {
-        "nombre": "Esponjas difuminadoras",
-        "precio": 0.55,
-        "categoria": "1",
-        "imagen": "img/cosmeticos/esponjas difuminadoras.webp",
-        "descripcion": ""
-    },
-    {
         "nombre": "Bases con protector solar",
         "precio": 1,
         "categoria": "1",
@@ -319,13 +312,6 @@
         "descripcion": ""
     },
     {
-        "nombre": "Pinturas naturales 10ml ",
-        "precio": "450 cup",
-        "categoria": "2",
-        "imagen": "img/ACT 21/pinturas naturales 10ml 450.webp",
-        "descripcion": ""
-    },
-    {
         "nombre": "Pintura natural 15ml(traer envase)",
         "precio": 0.60,
         "categoria": "2",
@@ -372,13 +358,6 @@
         "precio": 0.65,
         "categoria": "2",
         "imagen": "img/ACT 11/liquido D'Rose secado medio 0.65.webp",
-        "descripcion": ""
-    },
-    {
-        "nombre": "Top coat diamond 15ml",
-        "precio": 2.30,
-        "categoria": "2",
-        "imagen": "img/ACT 20/top coat diamond 15 ml 2.30 2.webp",
         "descripcion": ""
     },
     {
