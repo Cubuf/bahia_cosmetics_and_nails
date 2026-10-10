@@ -192,18 +192,11 @@
     },
 
     {
-        "nombre": "Pintura de gel mana Beauty(negra agotada)",
+        "nombre": "Pintura de gel mana Beauty",
         "disponible": "Disponible",
         "precio": 0.60,
         "categoria": "2",
         "imagen": "img/Productos para unas/pintura de gel 480.webp",
-        "descripcion": ""
-    },
-    {
-        "nombre": "Pintura natural 15ml(traer envase)",
-        "precio": 0.60,
-        "categoria": "2",
-        "imagen": "img/Productos para unas/pintura natural_01.webp",
         "descripcion": ""
     },
     {
@@ -273,13 +266,6 @@
         "nombre": "Pintura natural 15ml(traer envase)",
         "precio": 0.60,
         "categoria": "2",
-        "imagen": "img/Productos para unas/pintura natural 10.webp",
-        "descripcion": ""
-    },
-    {
-        "nombre": "Pintura natural 15ml(traer envase)",
-        "precio": 0.60,
-        "categoria": "2",
         "imagen": "img/Productos para unas/pintura natural 11.webp",
         "descripcion": ""
     },
@@ -291,24 +277,10 @@
         "descripcion": ""
     },
     {
-        "nombre": "Pintura natural efecto aurora 15ml",
-        "precio": 0.60,
-        "categoria": "2",
-        "imagen": "img/ACT 21/pintura natural efecto aurora 15ml 0.60.webp",
-        "descripcion": ""
-    },
-    {
         "nombre": "Pintura natural efecto escarcha 15ml",
         "precio": 0.60,
         "categoria": "2",
         "imagen": "img/ACT 21/pintura natural escarcha 0.60 15ml.webp",
-        "descripcion": ""
-    },
-    {
-        "nombre": "Pintura natural perlada 15ml",
-        "precio": 0.60,
-        "categoria": "2",
-        "imagen": "img/ACT 21/pintura natural perlada 15ml 0.60.webp",
         "descripcion": ""
     },
     {
@@ -364,14 +336,14 @@
         "nombre": "Pintura natural con efecto espejo 15ml",
         "precio": 0.60,
         "categoria": "2",
-        "imagen": "img/ACT 11/Pintura natural con efecto espejo 0.60 15ml.webp",
+        "imagen": "img/ACT 11/pintura natural con efecto espejo2 0.60 15ml.webp",
         "descripcion": ""
     },
     {
-        "nombre": "Pintura natural con efecto espejo 15ml",
-        "precio": 0.60,
+        "nombre": "Pintura pastel 10ml",
+        "precio": 1.40,
         "categoria": "2",
-        "imagen": "img/ACT 11/pintura natural con efecto espejo2 0.60 15ml.webp",
+        "imagen": "img/ACT 25/pintura tonos pastel.webp",
         "descripcion": ""
     },
     {
@@ -395,13 +367,7 @@
         "imagen": "img/ACT 17/pintura vitral 10 ml 1.40.webp",
         "descripcion": ""
     },
-    {
-        "nombre": "Pintural natural con efecto aurora 15ml",
-        "precio": 0.60,
-        "categoria": "2",
-        "imagen": "img/ACT 11/Pintura natural efecto aurora 0.60.webp",
-        "descripcion": ""
-    },
+
     {
         "nombre": "Pinturas mely beauty 20ml",
         "precio": 2.30,
@@ -535,20 +501,6 @@
         "descripcion": ""
     },
     {
-        "nombre": "Lima 80/120",
-        "precio": 0.35,
-        "categoria": "3",
-        "imagen": "img/ACT 5/lima 80-120 200 (3).webp",
-        "descripcion": ""
-    },
-    {
-        "nombre": "Lima 100/80",
-        "precio": 0.35,
-        "categoria": "3",
-        "imagen": "img/ACT 5/lima 100-80 200 (3).webp",
-        "descripcion": ""
-    },
-    {
         "nombre": "Imán",
         "precio": 1.25,
         "categoria": "3",
@@ -631,12 +583,6 @@
         "categoria": "3",
         "imagen": "img/herramientas/goma de piedras.webp",
         "descripcion": ""
-    },
-    {
-        "nombre": "Alicates",
-        "precio": 1.75,
-        "categoria": "3",
-        "imagen": "img/ACT 1/alicates 950.webp"
     },
     {
         "nombre": "Dispensadores",
@@ -767,27 +713,6 @@
         "precio": "350 cup",
         "categoria": "5",
         "imagen": "img/ACT 20/sticker 350 5.webp",
-        "descripcion": ""
-    },
-    {
-        "nombre": "Sticker",
-        "precio": "250 cup",
-        "categoria": "5",
-        "imagen": "img/ACT 20/sticker 250 5.webp",
-        "descripcion": ""
-    },
-    {
-        "nombre": "Sticker",
-        "precio": "100 cup",
-        "categoria": "5",
-        "imagen": "img/ACT 20/sticker 100.webp",
-        "descripcion": ""
-    },
-    {
-        "nombre": "Sticker",
-        "precio": "100 cup",
-        "categoria": "5",
-        "imagen": "img/ACT 20/sticker 100 5.webp",
         "descripcion": ""
     },
     {
