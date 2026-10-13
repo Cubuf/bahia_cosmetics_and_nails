@@ -1,5 +1,62 @@
 [
     {
+        "nombre": "Rimel transparente",
+        "precio": 1,
+        "categoria": "1",
+        "imagen": "img/ACT 26/rimel transparente 1 1.webp",
+        "descripcion": ""
+    },
+    {
+        "nombre": "Parches de ojeras con colágeno",
+        "precio": 0.40,
+        "categoria": "1",
+        "imagen": "img/ACT 26/parches para ojeras con colageno 0.40 1.webp",
+        "descripcion": ""
+    },
+    {
+        "nombre": "Enchinador de pestañas",
+        "precio": 1,
+        "categoria": "1",
+        "imagen": "img/ACT 26/enchinador de pestanas 1 1.webp",
+        "descripcion": ""
+    },
+    {
+        "nombre": "Delineador de brocha negro",
+        "precio": 0.70,
+        "categoria": "1",
+        "imagen": "img/ACT 26/delineador de brocha negro 0.70 1.webp",
+        "descripcion": ""
+    },
+    {
+        "nombre": "Corrector de ojeras y contorno",
+        "precio": 0.80,
+        "categoria": "1",
+        "imagen": "img/ACT 26/corrector de ojeras y contorno 0.80 1.webp",
+        "descripcion": ""
+    },
+    {
+        "nombre": "Brillo labial grueso transparente",
+        "precio": 1,
+        "categoria": "1",
+        "imagen": "img/ACT 26/brillo labial grueso transparente 1 1.webp",
+        "descripcion": ""
+    },
+    {
+        "nombre": "Bálsamo labial con color translucido",
+        "precio": 1,
+        "categoria": "1",
+        "imagen": "img/ACT 26/brillo labial con color translucido 1 1.webp",
+        "descripcion": ""
+    },
+    {
+        "nombre": "Bálsamo de sereza",
+        "precio": 1,
+        "categoria": "1",
+        "imagen": "img/ACT 26/bálsamo de sereza 1 1.webp",
+        "descripcion": ""
+    },
+    
+    {
         "nombre": "Delineador de plumón negro",
         "precio": 0.55,
         "categoria": "1",
@@ -176,13 +233,6 @@
 
 
 
-    {
-        "nombre": "Acetona 4 onzas",
-        "precio": "500 cup",
-        "categoria": "2",
-        "imagen": "img/ACT 21/acetona 2 500.webp",
-        "descripcion": ""
-    },
     {
         "nombre": "Top coat nenas 10ml",
         "precio": 0.90,
@@ -508,6 +558,13 @@
         "descripcion": ""
     },
     {
+        "nombre": "Limas 100/180, 180/240, 80/80, 100/150",
+        "precio": 0.45,
+        "categoria": "3",
+        "imagen": "img/ACT 26/limas 100-180 180-240 80-80 100-150 0.45 3.webp",
+        "descripcion": ""
+    },
+    {
         "nombre": "Fresas de cerámica",
         "precio": 1.20,
         "categoria": "3",
@@ -526,13 +583,6 @@
         "precio": 0.85,
         "categoria": "3",
         "imagen": "img/herramientas/iman.webp",
-        "descripcion": ""
-    },
-    {
-        "nombre": "Keeper (pinzas reutilizables para retirar producto)",
-        "precio": 1.50,
-        "categoria": "3",
-        "imagen": "img/herramientas/pinzas de retiro.webp",
         "descripcion": ""
     },
     {
@@ -649,7 +699,12 @@
 
 
 
-
+    {
+        "nombre": "Pincel de relleno #6, 8, 10, 12",
+        "precio": 0.75,
+        "categoria": "4",
+        "imagen": "img/ACT 26/pincel de relleno #6, 8, 10, 12 0.75 4.webp"
+    },
     {
         "nombre": "Juego de pincel liner",
         "precio": 3.0,
