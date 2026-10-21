@@ -348,13 +348,6 @@
         "descripcion": ""
     },
     {
-        "nombre": "Top Mate Terciopelo",
-        "precio": 1.50,
-        "categoria": "2",
-        "imagen": "img/ACT 3/top mate terciopelo 850.webp",
-        "descripcion": ""
-    },
-    {
         "nombre": "Brillo liso natural 10ml",
         "precio": 0.45,
         "categoria": "2",
@@ -544,13 +537,6 @@
         "descripcion": ""
     },
     {
-        "nombre": "Placa metálica para cuño",
-        "precio": 1.40,
-        "categoria": "3",
-        "imagen": "img/herramientas/placa para cuno metalica.webp",
-        "descripcion": ""
-    },
-    {
         "nombre": "Imán",
         "precio": 1.25,
         "categoria": "3",
@@ -625,13 +611,6 @@
         "precio": "2x 0.05",
         "categoria": "3",
         "imagen": "img/herramientas/palitos de naranjo.webp",
-        "descripcion": ""
-    },
-    {
-        "nombre": "Goma de piedras",
-        "precio": 1.05,
-        "categoria": "3",
-        "imagen": "img/herramientas/goma de piedras.webp",
         "descripcion": ""
     },
     {
@@ -863,7 +842,7 @@
     },
     {
         "nombre": "Papel foil",
-        "precio": 1.25,
+        "precio": 0.80,
         "categoria": "5",
         "imagen": "img/efectos/papel foil.webp",
         "descripcion": ""
@@ -888,12 +867,6 @@
         "categoria": "5",
         "imagen": "img/efectos/efecto azucar.webp",
         "descripcion": ""
-    },
-    {
-        "nombre": "Efecto azúcar - glitter (6 potes)",
-        "precio": 1.25,
-        "categoria": "5",
-        "imagen": "img/efectos/estuche azucar y gliter.webp"
     },
     {
         "nombre": "Efecto papel de oro (grande)",
