@@ -1,5 +1,33 @@
 [
     {
+        "nombre": "Base coat",
+        "precio": 1.8,
+        "categoria": "2",
+        "imagen": "img/ACT 28/Base coat.webp",
+        "descripcion": ""
+    },
+    {
+        "nombre": "Top coat cristal",
+        "precio": 1.8,
+        "categoria": "2",
+        "imagen": "img/ACT 28/top coat cristal.webp",
+        "descripcion": ""
+    },
+    {
+        "nombre": "Pintura gel blanca",
+        "precio": 1.7,
+        "categoria": "2",
+        "imagen": "img/ACT 28/Pintura gel blanca.webp",
+        "descripcion": ""
+    },
+    {
+        "nombre": "Pintura gel roja",
+        "precio": 1.55,
+        "categoria": "2",
+        "imagen": "img/ACT 28/pintura gel roja.webp",
+        "descripcion": ""
+    },
+    {
         "nombre": "Rimel transparente",
         "precio": 1,
         "categoria": "1",
@@ -482,13 +510,6 @@
         "precio": 1.2,
         "categoria": "3",
         "imagen": "img/herramientas/fresa de seramica.webp",
-        "descripcion": ""
-    },
-    {
-        "nombre": "Cuños con una placa",
-        "precio": 0.8,
-        "categoria": "3",
-        "imagen": "img/herramientas/cunos con una placa.webp",
         "descripcion": ""
     },
     {
