@@ -1,35 +1,7 @@
 [
     {
-        "nombre": "Base coat",
-        "precio": 1.8,
-        "categoria": "2",
-        "imagen": "img/ACT 28/Base coat.webp",
-        "descripcion": ""
-    },
-    {
-        "nombre": "Top coat cristal",
-        "precio": 1.8,
-        "categoria": "2",
-        "imagen": "img/ACT 28/top coat cristal.webp",
-        "descripcion": ""
-    },
-    {
-        "nombre": "Pintura gel blanca",
-        "precio": 1.7,
-        "categoria": "2",
-        "imagen": "img/ACT 28/Pintura gel blanca.webp",
-        "descripcion": ""
-    },
-    {
-        "nombre": "Pintura gel roja",
-        "precio": 1.55,
-        "categoria": "2",
-        "imagen": "img/ACT 28/pintura gel roja.webp",
-        "descripcion": ""
-    },
-    {
         "nombre": "Rimel transparente",
-        "precio": 1,
+        "precio": 1.1,
         "categoria": "1",
         "imagen": "img/ACT 26/rimel transparente 1 1.webp",
         "descripcion": ""
@@ -225,6 +197,13 @@
         "descripcion": ""
     },
     {
+        "nombre": "Top coat nenas 10ml",
+        "precio": 0.9,
+        "categoria": "2",
+        "imagen": "img/Productos para unas/top coat nena.webp",
+        "descripcion": ""
+    },
+    {
         "nombre": "Pintura de gel mana Beauty",
         "disponible": "Disponible",
         "precio": 0.6,
@@ -397,7 +376,7 @@
         "nombre": "Pinturas mely beauty 20ml",
         "precio": 2.3,
         "categoria": "2",
-        "imagen": "img/ACT 27/pinturas melibeauty.webp",
+        "imagen": "img/ACT 22/pintura de gel mealy beauty.webp",
         "descripcion": ""
     },
     {
@@ -405,6 +384,13 @@
         "precio": 2.4,
         "categoria": "2",
         "imagen": "img/ACT 16/removedor de gel 18ml yuan quan 2.40 2.webp",
+        "descripcion": ""
+    },
+    {
+        "nombre": "Polvo rosa translucido D'Rose (onza)",
+        "precio": 0.7,
+        "categoria": "2",
+        "imagen": "img/ACT 11/Polvo rosa traslucido D'Rose 0.70.webp",
         "descripcion": ""
     },
     {
@@ -478,6 +464,13 @@
         "descripcion": ""
     },
     {
+        "nombre": "Anillos de decoración",
+        "precio": 0.35,
+        "categoria": "3",
+        "imagen": "img/herramientas/anillos.webp",
+        "descripcion": ""
+    },
+    {
         "nombre": "Imán",
         "precio": 1.25,
         "categoria": "3",
@@ -496,6 +489,13 @@
         "precio": 1.2,
         "categoria": "3",
         "imagen": "img/herramientas/fresa de seramica.webp",
+        "descripcion": ""
+    },
+    {
+        "nombre": "Cuños con una placa",
+        "precio": 0.8,
+        "categoria": "3",
+        "imagen": "img/herramientas/cunos con una placa.webp",
         "descripcion": ""
     },
     {
