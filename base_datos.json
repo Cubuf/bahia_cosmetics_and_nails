@@ -21,13 +21,6 @@
         "descripcion": ""
     },
     {
-        "nombre": "Pintura gel roja",
-        "precio": 1.55,
-        "categoria": "2",
-        "imagen": "img/ACT 28/pintura gel roja.webp",
-        "descripcion": ""
-    },
-    {
         "nombre": "Rimel transparente",
         "precio": 1,
         "categoria": "1",
@@ -602,23 +595,10 @@
         "imagen": "img/ACT 24/pinceles -2,4,6,8,10,12 1.10 4.webp"
     },
     {
-        "nombre": "Pincel liner juego (individual)",
-        "precio": 0.45,
-        "categoria": "4",
-        "imagen": "img/ACT 19/pincel liner.webp"
-    },
-    {
         "nombre": "Sticker",
         "precio": "250 cup",
         "categoria": "5",
         "imagen": "img/ACT 20/sticker de palmera 250 5.webp",
-        "descripcion": ""
-    },
-    {
-        "nombre": "Decoraciones del mar 10 parejas",
-        "precio": 0.7,
-        "categoria": "5",
-        "imagen": "img/ACT 20/decoraciones del mar 10 parejas 0.70 5.webp",
         "descripcion": ""
     },
     {
@@ -746,12 +726,6 @@
         "categoria": "5",
         "imagen": "img/ACT 12/joyas mariposas 5 1.10.webp",
         "descripcion": ""
-    },
-    {
-        "nombre": "Decoraciones variadas de 12 a 14 parejas",
-        "precio": 0.6,
-        "categoria": "5",
-        "imagen": "img/ACT 16/decoraciones variadas de 12 a 14 parejas 0.60 5.webp"
     },
     {
         "nombre": "Flores de resina",
