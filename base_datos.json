@@ -534,12 +534,6 @@
         "descripcion": ""
     },
     {
-        "nombre": "Dispensadores",
-        "precio": 1.25,
-        "categoria": "3",
-        "imagen": "img/ACT 1/dispensador 650.webp"
-    },
-    {
         "nombre": "Punteros de silicona (individual)",
         "precio": 0.45,
         "categoria": "3",
