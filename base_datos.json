@@ -1,5 +1,19 @@
 [
     {
+        "nombre": "Polvo pink",
+        "precio": 0.7,
+        "categoria": "2",
+        "imagen": "img/ACT 30/polvo pink.webp",
+        "descripcion": ""
+    },
+    {
+        "nombre": "Polvo clear",
+        "precio": 0.7,
+        "categoria": "2",
+        "imagen": "img/ACT 11/Polvo clear D'Rose 0.70.webp",
+        "descripcion": ""
+    },
+    {
         "nombre": "Pintura escarcha plateada",
         "precio": 0.6,
         "categoria": "2",
