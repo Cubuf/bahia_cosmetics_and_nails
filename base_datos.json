@@ -1,5 +1,26 @@
 [
     {
+        "nombre": "Pintura escarcha plateada",
+        "precio": 0.6,
+        "categoria": "2",
+        "imagen": "img/ACT 30/pintura escarcha plateada.webp",
+        "descripcion": ""
+    },
+    {
+        "nombre": "Pintura efecto aurora blanca",
+        "precio": 0.6,
+        "categoria": "2",
+        "imagen": "img/ACT 30/pintura aurora.webp",
+        "descripcion": ""
+    },
+    {
+        "nombre": "Pintura efecto aurora rosada",
+        "precio": 0.6,
+        "categoria": "2",
+        "imagen": "img/ACT 30/pintura aurora rosada.webp",
+        "descripcion": ""
+    },
+    {
         "nombre": "Base coat",
         "precio": 1.8,
         "categoria": "2",
