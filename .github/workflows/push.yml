@@ -1,0 +1,22 @@
+name: enviar-notificacion
+on:
+  workflow_dispatch:
+    inputs:
+      titulo:
+        description: Título
+        default: Productos nuevos
+      mensaje:
+        description: Mensaje
+        required: true
+jobs:
+  send:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with: { node-version: 20 }
+      - run: node send.js
+        env:
+          SERVICE_ACCOUNT: ${{ secrets.FCM_SERVICE_ACCOUNT }}
+          TITULO: ${{ inputs.titulo }}
+          MENSAJE: ${{ inputs.mensaje }}
