@@ -1,5 +1,12 @@
 [
     {
+        "nombre": "Zapatos #38",
+        "precio": 20,
+        "categoria": "7",
+        "imagen": "img/Act 31/zapatos 38.webp",
+        "descripcion": ""
+    },
+    {
         "nombre": "Polvo pink",
         "precio": 0.7,
         "categoria": "2",
