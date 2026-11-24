@@ -673,13 +673,6 @@
         "descripcion": ""
     },
     {
-        "nombre": "Stiquer de diseño",
-        "precio": 0.35,
-        "categoria": "5",
-        "imagen": "img/efectos/stiker3.webp",
-        "descripcion": ""
-    },
-    {
         "nombre": "Lazos grandes",
         "precio": 0.6,
         "categoria": "5",
@@ -698,13 +691,6 @@
         "precio": 1.05,
         "categoria": "5",
         "imagen": "img/efectos/estuche variado.webp",
-        "descripcion": ""
-    },
-    {
-        "nombre": "Estuche de 6 variados",
-        "precio": 2,
-        "categoria": "5",
-        "imagen": "img/efectos/estuches variados.webp",
         "descripcion": ""
     },
     {
