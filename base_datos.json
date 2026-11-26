@@ -1,5 +1,26 @@
 [
     {
+        "nombre": "Limas mana beauty 80/80",
+        "precio": 0.35,
+        "categoria": "3",
+        "imagen": "img/ACT 32/limas.webp",
+        "descripcion": ""
+    },
+    {
+        "nombre": "Top coat 10 ml- ( traer envase)",
+        "precio": 1,
+        "categoria": "2",
+        "imagen": "img/ACT 32/top coat.webp",
+        "descripcion": ""
+    },
+    {
+        "nombre": "Base Ruber cristal 10 ml- ( traer envase)",
+        "precio": 1.1,
+        "categoria": "2",
+        "imagen": "img/ACT 32/Ruber cristal.webp",
+        "descripcion": ""
+    },
+    {
         "nombre": "Zapatos #38",
         "precio": 20,
         "categoria": "7",
