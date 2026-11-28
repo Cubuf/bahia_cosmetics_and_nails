@@ -610,13 +610,6 @@
         "imagen": "img/ACT 24/pinceles -2,4,6,8,10,12 1.10 4.webp"
     },
     {
-        "nombre": "Sticker",
-        "precio": "250 cup",
-        "categoria": "5",
-        "imagen": "img/ACT 20/sticker de palmera 250 5.webp",
-        "descripcion": ""
-    },
-    {
         "nombre": "Cover de colores varios",
         "precio": 0.55,
         "categoria": "5",
